@@ -11,14 +11,14 @@ sidebar:
 
 ## 章節導覽
 
-- [快速參考](/reference/)
-- [核心規則](/rules/)
+- [快速參考](/reference/premise-and-intro/)
+- [核心規則](/rules/basic-rules/)
 - [角色手冊](/playbooks/)
-- [裝備清單](/equipment/)
-- [遊戲進行](/gameplay/)
-- [主持人指南](/gm-guide/)
+- [裝備清單](/equipment/weapons-and-tools/)
+- [遊戲進行](/gameplay/playing-the-game/)
+- [主持人指南](/gm-guide/running-the-game/)
 - [怪物圖鑑](/monsters/)
-- [附錄](/附錄/)
+- [附錄](/appendix/dice-probability/)
 
 ## 專案連結
 
