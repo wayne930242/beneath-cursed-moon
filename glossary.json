@@ -1,6 +1,258 @@
 {
   "_meta": {
     "description": "術語表 - 英文遊戲術語對照繁體中文翻譯",
-    "updated": ""
+    "updated": "2026-02-23T15:31:42+00:00"
+  },
+  "Harm": {
+    "zh": "傷害",
+    "notes": "依使用者譯名表",
+    "status": "approved",
+    "is_term": true
+  },
+  "Armor": {
+    "zh": "護甲",
+    "notes": "依使用者譯名表",
+    "status": "approved",
+    "is_term": true
+  },
+  "Move": {
+    "zh": "動作",
+    "notes": "依使用者譯名表",
+    "status": "approved",
+    "is_term": true
+  },
+  "Moves": {
+    "zh": "動作",
+    "notes": "依使用者譯名表",
+    "status": "approved",
+    "is_term": true
+  },
+  "Playbook": {
+    "zh": "扮演書",
+    "notes": "依使用者譯名表",
+    "status": "approved",
+    "is_term": true
+  },
+  "Playbooks": {
+    "zh": "扮演書",
+    "notes": "依使用者譯名表",
+    "status": "approved",
+    "is_term": true
+  },
+  "Forward": {
+    "zh": "單次加值",
+    "notes": "依使用者譯名表",
+    "status": "approved",
+    "is_term": true
+  },
+  "Ongoing": {
+    "zh": "持續加值",
+    "notes": "依使用者譯名表",
+    "status": "approved",
+    "is_term": true
+  },
+  "Hold": {
+    "zh": "掌握",
+    "notes": "依使用者譯名表",
+    "status": "approved",
+    "is_term": true
+  },
+  "Resist": {
+    "zh": "抗性",
+    "notes": "抵抗負面效果或傷害",
+    "status": "approved",
+    "is_term": true
+  },
+  "Sorcery": {
+    "zh": "巫術",
+    "notes": "依使用者譯名表",
+    "status": "approved",
+    "is_term": true
+  },
+  "Monster": {
+    "zh": "怪物",
+    "notes": "依使用者譯名表",
+    "status": "approved",
+    "is_term": true
+  },
+  "Monsters": {
+    "zh": "怪物",
+    "notes": "依使用者譯名表",
+    "status": "approved",
+    "is_term": true
+  },
+  "Adventure": {
+    "zh": "冒險",
+    "notes": "依使用者譯名表",
+    "status": "approved",
+    "is_term": true
+  },
+  "Ally": {
+    "zh": "同伴",
+    "notes": "依使用者譯名表",
+    "status": "approved",
+    "is_term": true
+  },
+  "Bystander": {
+    "zh": "平民",
+    "notes": "依使用者譯名表",
+    "status": "approved",
+    "is_term": true
+  },
+  "Lord": {
+    "zh": "領主",
+    "notes": "依使用者譯名表",
+    "status": "approved",
+    "is_term": true
+  },
+  "Warrior": {
+    "zh": "衛士",
+    "notes": "依使用者譯名表",
+    "status": "approved",
+    "is_term": true
+  },
+  "Minion": {
+    "zh": "僕役",
+    "notes": "依使用者譯名表",
+    "status": "approved",
+    "is_term": true
+  },
+  "Attack Effect": {
+    "zh": "攻擊效果",
+    "notes": "依使用者譯名表",
+    "status": "approved",
+    "is_term": true
+  },
+  "Attack Effects": {
+    "zh": "攻擊效果",
+    "notes": "依使用者譯名表",
+    "status": "approved",
+    "is_term": true
+  },
+  "Battle": {
+    "zh": "浴血奮戰",
+    "notes": "依使用者譯名表",
+    "status": "approved",
+    "is_term": true
+  },
+  "Knowledge": {
+    "zh": "理解戰況",
+    "notes": "依使用者譯名表",
+    "status": "approved",
+    "is_term": true
+  },
+  "Resist Dark Magic": {
+    "zh": "抵抗黑魔法",
+    "notes": "依使用者譯名表",
+    "status": "approved",
+    "is_term": true
+  },
+  "Interview": {
+    "zh": "訪談詢問",
+    "notes": "依使用者譯名表",
+    "status": "approved",
+    "is_term": true
+  },
+  "Lore": {
+    "zh": "通曉傳說",
+    "notes": "依使用者譯名表",
+    "status": "approved",
+    "is_term": true
+  },
+  "Poke Around": {
+    "zh": "四處探查",
+    "notes": "依使用者譯名表",
+    "status": "approved",
+    "is_term": true
+  },
+  "Convince": {
+    "zh": "說服",
+    "notes": "依使用者譯名表",
+    "status": "approved",
+    "is_term": true
+  },
+  "Daring Action": {
+    "zh": "大膽行動",
+    "notes": "依使用者譯名表",
+    "status": "approved",
+    "is_term": true
+  },
+  "Hunt": {
+    "zh": "追獵",
+    "notes": "依使用者譯名表",
+    "status": "approved",
+    "is_term": true
+  },
+  "Patch Up": {
+    "zh": "治療休養",
+    "notes": "依使用者譯名表",
+    "status": "approved",
+    "is_term": true
+  },
+  "Champion": {
+    "zh": "勇士",
+    "notes": "依使用者譯名表",
+    "status": "approved",
+    "is_term": true
+  },
+  "Changeling": {
+    "zh": "調換兒",
+    "notes": "依使用者譯名表",
+    "status": "approved",
+    "is_term": true
+  },
+  "Dreamer": {
+    "zh": "幻夢者",
+    "notes": "依使用者譯名表",
+    "status": "approved",
+    "is_term": true
+  },
+  "Fiend": {
+    "zh": "惡魔",
+    "notes": "依使用者譯名表",
+    "status": "approved",
+    "is_term": true
+  },
+  "Hunter": {
+    "zh": "獵人",
+    "notes": "依使用者譯名表",
+    "status": "approved",
+    "is_term": true
+  },
+  "Necromancer": {
+    "zh": "死靈法師",
+    "notes": "依使用者譯名表",
+    "status": "approved",
+    "is_term": true
+  },
+  "Scholar": {
+    "zh": "學者",
+    "notes": "依使用者譯名表",
+    "status": "approved",
+    "is_term": true
+  },
+  "Scoundrel": {
+    "zh": "惡棍",
+    "notes": "依使用者譯名表",
+    "status": "approved",
+    "is_term": true
+  },
+  "Warlock": {
+    "zh": "邪術士",
+    "notes": "依使用者譯名表",
+    "status": "approved",
+    "is_term": true
+  },
+  "Vampire": {
+    "zh": "吸血鬼",
+    "notes": "依使用者譯名表",
+    "status": "approved",
+    "is_term": true
+  },
+  "Werewolf": {
+    "zh": "狼人",
+    "notes": "依使用者譯名表",
+    "status": "approved",
+    "is_term": true
   }
 }

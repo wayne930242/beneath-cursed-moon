@@ -1,6 +1,6 @@
-# game-doc-template
+# beneath-cursed-moon
 
-Convert PDF game rulebooks into a Traditional Chinese Markdown documentation site.
+Beneath Cursed Moon（詛咒月影）— Convert the game rulebook PDF into a Traditional Chinese Markdown documentation site.
 
 ## Immutable Laws
 

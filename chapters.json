@@ -1,5 +1,5 @@
 {
-  "source": "data/markdown/Cairn_pages.md",
+  "source": "data/markdown/Beneath_Cursed_Moon_Full_v1.0.2_pages.md",
   "output_dir": "docs/src/content/docs",
   "clean_patterns": [
     "\\(Order #\\d+\\)",
@@ -10,11 +10,32 @@
       "title": "快速參考",
       "order": 1,
       "files": {
-        "index": {
-          "title": "系統總覽",
-          "description": "Cairn 核心概念與快速導覽",
-          "pages": [1, 2],
-          "order": 0
+        "credits-and-thanks": {
+          "title": "致謝",
+          "description": "作者、插畫與感謝名單",
+          "pages": [
+            3,
+            3
+          ],
+          "order": 1
+        },
+        "sharing-and-licensing": {
+          "title": "分享與授權",
+          "description": "授權範圍與使用規則",
+          "pages": [
+            4,
+            4
+          ],
+          "order": 2
+        },
+        "premise-and-intro": {
+          "title": "前言與導讀",
+          "description": "遊戲前提、PbtA 說明、作者筆記與參考作品",
+          "pages": [
+            5,
+            7
+          ],
+          "order": 3
         }
       }
     },
@@ -22,59 +43,338 @@
       "title": "核心規則",
       "order": 2,
       "files": {
-        "index": {
-          "title": "核心機制",
-          "description": "判定、行動與基本流程",
-          "pages": [3, 5],
-          "order": 0
+        "basic-rules": {
+          "title": "基本規則",
+          "description": "角色建立、重要術語與基本流程",
+          "pages": [
+            8,
+            10
+          ],
+          "order": 1
+        },
+        "moves-combat": {
+          "title": "動作（戰鬥）",
+          "description": "戰鬥相關動作與承受傷害",
+          "pages": [
+            11,
+            11
+          ],
+          "order": 2
+        },
+        "moves-investigation": {
+          "title": "動作（調查）",
+          "description": "調查相關動作",
+          "pages": [
+            12,
+            13
+          ],
+          "order": 3
+        },
+        "moves-other": {
+          "title": "其他動作",
+          "description": "其他通用動作",
+          "pages": [
+            14,
+            14
+          ],
+          "order": 4
+        },
+        "moves-sorcery": {
+          "title": "動作（巫術）",
+          "description": "巫術相關動作與效果",
+          "pages": [
+            15,
+            17
+          ],
+          "order": 5
+        },
+        "misc-rolls": {
+          "title": "雜項擲骰",
+          "description": "非標準情境下的擲骰處理",
+          "pages": [
+            18,
+            18
+          ],
+          "order": 6
         }
       }
     },
-    "characters": {
-      "title": "角色",
+    "playbooks": {
+      "title": "角色手冊",
       "order": 3,
       "files": {
         "index": {
-          "title": "角色建立",
-          "description": "能力值、背景與角色特徵",
-          "pages": [6, 10],
-          "order": 0
+          "title": "扮演書總覽",
+          "description": "扮演書介紹與通用規則",
+          "pages": [
+            19,
+            19
+          ],
+          "order": 1
+        },
+        "champion": {
+          "title": "勇士",
+          "description": "Champion 扮演書",
+          "pages": [
+            20,
+            22
+          ],
+          "order": 2
+        },
+        "changeling": {
+          "title": "調換兒",
+          "description": "Changeling 扮演書",
+          "pages": [
+            23,
+            25
+          ],
+          "order": 3
+        },
+        "dreamer": {
+          "title": "幻夢者",
+          "description": "Dreamer 扮演書",
+          "pages": [
+            26,
+            28
+          ],
+          "order": 4
+        },
+        "fiend": {
+          "title": "惡魔",
+          "description": "Fiend 扮演書",
+          "pages": [
+            29,
+            31
+          ],
+          "order": 5
+        },
+        "hunter": {
+          "title": "獵人",
+          "description": "Hunter 扮演書",
+          "pages": [
+            32,
+            34
+          ],
+          "order": 6
+        },
+        "necromancer": {
+          "title": "死靈法師",
+          "description": "Necromancer 扮演書",
+          "pages": [
+            35,
+            37
+          ],
+          "order": 7
+        },
+        "scholar": {
+          "title": "學者",
+          "description": "Scholar 扮演書",
+          "pages": [
+            38,
+            40
+          ],
+          "order": 8
+        },
+        "scoundrel": {
+          "title": "惡棍",
+          "description": "Scoundrel 扮演書",
+          "pages": [
+            41,
+            43
+          ],
+          "order": 9
+        },
+        "vampire": {
+          "title": "吸血鬼",
+          "description": "Vampire 扮演書",
+          "pages": [
+            44,
+            46
+          ],
+          "order": 10
+        },
+        "warlock": {
+          "title": "邪術士",
+          "description": "Warlock 扮演書",
+          "pages": [
+            47,
+            49
+          ],
+          "order": 11
+        },
+        "werewolf": {
+          "title": "狼人",
+          "description": "Werewolf 扮演書",
+          "pages": [
+            50,
+            52
+          ],
+          "order": 12
         }
       }
     },
-    "items": {
-      "title": "物品與裝備",
+    "equipment": {
+      "title": "裝備清單",
       "order": 4,
       "files": {
-        "index": {
-          "title": "裝備與法術",
-          "description": "物品欄、武器、防具與法術書",
-          "pages": [11, 14],
-          "order": 0
+        "weapons-and-tools": {
+          "title": "武器與工具",
+          "description": "裝備、武器、工具與相關規則",
+          "pages": [
+            53,
+            55
+          ],
+          "order": 1
         }
       }
     },
-    "world": {
-      "title": "世界設定",
+    "gameplay": {
+      "title": "遊戲進行",
       "order": 5,
       "files": {
-        "index": {
-          "title": "危險與對抗",
-          "description": "戰鬥、傷害與遭遇處理",
-          "pages": [15, 20],
-          "order": 0
+        "playing-the-game": {
+          "title": "玩家流程",
+          "description": "Session Zero、調查、戰鬥與擲骰時機",
+          "pages": [
+            56,
+            58
+          ],
+          "order": 1
         }
       }
     },
-    "guides": {
+    "gm-guide": {
       "title": "主持人指南",
       "order": 6,
       "files": {
+        "running-the-game": {
+          "title": "主持遊戲",
+          "description": "主持目標、流程與戰鬥規劃",
+          "pages": [
+            59,
+            65
+          ],
+          "order": 1
+        },
+        "setting": {
+          "title": "世界設定",
+          "description": "時代、怪物、魔法與常見設定元素",
+          "pages": [
+            66,
+            73
+          ],
+          "order": 2
+        },
+        "adventure-ideas": {
+          "title": "冒險點子",
+          "description": "可直接使用的冒險構想",
+          "pages": [
+            74,
+            75
+          ],
+          "order": 3
+        }
+      }
+    },
+    "monsters": {
+      "title": "怪物圖鑑",
+      "order": 7,
+      "files": {
         "index": {
-          "title": "主持與速查",
-          "description": "主持人建議與表格速查",
-          "pages": [21, 24],
-          "order": 0
+          "title": "怪物總覽",
+          "description": "怪物分類與通則",
+          "pages": [
+            76,
+            77
+          ],
+          "order": 1
+        },
+        "people": {
+          "title": "人物",
+          "description": "People 類型條目",
+          "pages": [
+            78,
+            78
+          ],
+          "order": 2
+        },
+        "abominations": {
+          "title": "畸變體",
+          "description": "Abominations 類型條目",
+          "pages": [
+            79,
+            85
+          ],
+          "order": 3
+        },
+        "beasts": {
+          "title": "野獸",
+          "description": "Beasts 類型條目",
+          "pages": [
+            86,
+            91
+          ],
+          "order": 4
+        },
+        "demons": {
+          "title": "惡魔",
+          "description": "Demons 類型條目",
+          "pages": [
+            92,
+            97
+          ],
+          "order": 5
+        },
+        "fey": {
+          "title": "妖精",
+          "description": "Fey 類型條目",
+          "pages": [
+            98,
+            105
+          ],
+          "order": 6
+        },
+        "undead": {
+          "title": "不死族",
+          "description": "Undead 類型條目",
+          "pages": [
+            106,
+            112
+          ],
+          "order": 7
+        },
+        "other-monsters": {
+          "title": "其他怪物",
+          "description": "Other Monsters 類型條目",
+          "pages": [
+            113,
+            114
+          ],
+          "order": 8
+        }
+      }
+    },
+    "appendix": {
+      "title": "附錄",
+      "order": 8,
+      "files": {
+        "dice-probability": {
+          "title": "骰子機率",
+          "description": "擲骰結果機率表",
+          "pages": [
+            115,
+            115
+          ],
+          "order": 1
+        },
+        "updates": {
+          "title": "版本更新",
+          "description": "版本變更紀錄",
+          "pages": [
+            116,
+            118
+          ],
+          "order": 2
         }
       }
     }

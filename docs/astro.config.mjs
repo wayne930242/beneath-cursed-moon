@@ -9,7 +9,7 @@ import starlight from '@astrojs/starlight';
 
 const SITE_CONFIG = {
 	// 網站標題（顯示在導航列）
-	title: 'Cairn',
+	title: '詛咒月影',
 	// 預設語言
 	defaultLocale: 'zh-TW',
 	localeLabel: '繁體中文',
@@ -92,21 +92,32 @@ export default defineConfig({
 					autogenerate: { directory: 'rules' },
 				},
 				{
-					label: '角色',
-					autogenerate: { directory: 'characters' },
+					label: '角色手冊',
+					autogenerate: { directory: 'playbooks' },
 				},
 				{
-					label: '物品與裝備',
-					autogenerate: { directory: 'items' },
+					label: '裝備清單',
+					autogenerate: { directory: 'equipment' },
 				},
 				{
-					label: '世界設定',
-					autogenerate: { directory: 'world' },
+					label: '遊戲進行',
+					autogenerate: { directory: 'gameplay' },
 				},
 				{
 					label: '主持人指南',
-					autogenerate: { directory: 'guides' },
+					autogenerate: { directory: 'gm-guide' },
 				},
+				{
+					label: '怪物圖鑑',
+					autogenerate: { directory: 'monsters' },
+				},
+				{
+					label: '附錄',
+					autogenerate: { directory: 'appendix' },
+				},
+			],
+			social: [
+				{ icon: 'github', label: 'GitHub', href: 'https://github.com/wayne930242/beneath-cursed-moon' },
 			],
 			customCss: ['./src/styles/custom.css'],
 		}),
