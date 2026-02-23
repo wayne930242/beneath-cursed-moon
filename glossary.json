@@ -254,5 +254,23 @@
     "notes": "依使用者譯名表",
     "status": "approved",
     "is_term": true
+  },
+  "Soulbound": {
+    "zh": "靈魂繫結",
+    "notes": "武器或物品的特殊屬性；可對特定怪物造成有效影響",
+    "status": "approved",
+    "is_term": true
+  },
+  "soulbound": {
+    "zh": "靈魂繫結",
+    "notes": "同 Soulbound，小寫形式",
+    "status": "approved",
+    "is_term": true
+  },
+  "Warding Tool": {
+    "zh": "防護工具",
+    "notes": "對應怪物弱點的防護道具",
+    "status": "approved",
+    "is_term": true
   }
 }

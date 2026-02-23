@@ -5,67 +5,66 @@ sidebar:
   order: 2
 ---
 
-Updates
-03 Jan 2022 v1.0: Changes to wording entirely throughout the document in an attempt to standardize 
-language used. "Rolling" and "turns" are no longer referenced, instead the proper "make a move" and "actions"
-are referred to instead
-Blessed items have been removed, and replaced with soulbound items.
-Warding tools have been expanded - there are now 4, one for each monster weakness, and can work on any 
-monsters that have a weakness to that element.
-The following changes were made to playbooks:
-➢ Champion's Turn Away Evil now produces one of the four warding tools once per adventure.
-➢ Champion's Leadership is now just +1 Forward instead of a +1 Ongoing for next action.
-➢ The Champion's "Religious Training" changed to "Strong Soul". Some changes to its effect in that it now 
-provides bonuses that take the place of granted equipment.
-➢ Hunter's "Create Opening" now also grants its bonus if you successfully resist a monster's moves.
-➢ Hunter's "Unstoppable Pursuit" now lets you take 1 Harm always, instead of reducing Harm taken by 1.
-➢ The Necromancer's "Reaper" weapon is now soulbound.
-➢ Warlock's Command Elements has its 13+ bonus now reduce damage to allies by 2 instead of 1.
-The following changes were made to monsters:
-➢ Merfolk armor changed from 1 to 1 (0 vs silver)
-➢ Scylla's dog heads changed to close instead of reach.
-➢ Spawn of the Depth's psychic wave clarified to require an action.
-➢ Cyclops armor changed from 2 to 3 (1 vs soulbound)
-➢ Imp armor changed from 0 to 1 (0 vs soulbound)
-➢ Siren armor changed from 1 to 1 (0 vs iron)
-➢ Ghost incorporeal now added onto armor so it can be warded against.
-➢ Skeleton and Bloody Skeleton changed from 3 Max Harm to 2, and changed from 0 armor to 1 (0 vs 
-soulbound)
-➢ Skeleton Soldier armor changed from 1 to 1 (0 vs soulbound)
-➢ Homunculus is only weak against fire, not soulbound weapons.
-➢ Zombie armor changed to 1 (0 vs soulbound)
-Updates
-115
+## 2022-01-03 `v1.0`
 
-15 Feb 2020 v0.3: Minor typo corrections throughout. 
-Some minor modifications to the introduction.
-Battle move's choice for dealing +1 Harm is made more obvious
-The Interview question "What is someone hiding" changed to "What are the people I'm talking to really 
-feeling bout someone or something?" to be less dominating.
-The Lore questions "What type of creature was it" and "What is it capable of/weak to" merged together.
-The sample astral magic "dreamlike haze" now reduces the next harm you take by 1, instead of reducing it by
-for a turn.
-Ritual Sorcery requirements for multiple casters have been eased up (no longer requiring a roll), and added 
-in a new fragile option.
-Champion's "Mind Like an Empty Book" clarified to not stack.
-Dreamer's "Lure of the Moon" changed from only suffering from the first combat sorcery drawback each 
-scene to ignoring the first each scene.
-Dreamer's "Zeal of Devotion" now gives its penalty until you've made X sorcery rolls, instead of rolled under 
-10 on any X rolls.
-Fiend's bonus stats changed to +3, +2, +0.
-Fiend's Fury clarified to not stack.
-Scholar's Bumbling can now be used to reduce the harm of an attack by 2.
-Vampire's base +1 given to Poke Around/Hunt is now reassignable
-Vampire's Sanguine Strength now works until your blood points drop to 0.
-Warlock's Know Your Pain has been removed, and replaced with Command Elements.
-Warlock's Metamorphosis now works on Sacrifice Holds, instead of a roll.
-Werewolf heavily changed. You no longer go berserk, and are instead limited in the moves you can take.
-Werewolf's Control changed to have a -1 Ongoing at 5 harm instead of 4.
-Werewolf's Close Friends and Memento abilities removed
-Werewolf now has two new abilities: Moon's Child and Silver Sorcerer
-Werewolf's Animal Magnetism now allows Interviewing of wolves and dogs while in beast form.
-08 Dec 2018 v0.2: Corrections made to missing move bonuses in Dreamer, Necromancer, and Vampire 
-playbooks.
-26 Oct 2018 v0.1: Initial Release
-Updates
-116
+全書措辭全面調整，以統一用語。文字上不再使用「擲骰（rolling）」與「回合（turns）」等說法，改為正確使用「進行動作（make a move）」與「行動（actions）」。
+
+- 已移除受祝福物品，改為 `Soulbound` 物品。
+- 防護工具擴充為 4 種，分別對應各種怪物弱點；凡具對應弱點的怪物都可被其克制。
+
+### 扮演書調整
+
+- 勇士的「驅離邪惡（Turn Away Evil）」現在每次冒險可產生 1 個四種防護工具之一。
+- 勇士的「領導（Leadership）」改為僅提供下一次行動 `+1 單次加值（Forward）`，不再提供 `+1 持續加值（Ongoing）`。
+- 勇士的「Religious Training」改名為「強韌靈魂（Strong Soul）」；效果也調整為以能力加值取代部分原先由裝備提供的效果。
+- 獵人的「創造破口（Create Opening）」現在在你成功抵抗怪物動作時，也會提供加值。
+- 獵人的「窮追不捨（Unstoppable Pursuit）」改為可固定承受 `1 傷害`，不再是把承受傷害減少 1。
+- 死靈法師的「收割者（Reaper）」武器改為 `Soulbound`。
+- 邪術士的「元素號令（Command Elements）」在 `13+` 時，對同伴的減傷由 1 提升為 2。
+
+### 怪物調整
+
+- Merfolk 護甲由 1 調整為 1（對銀為 0）。
+- Scylla 的狗頭攻擊標籤改為近距離（`close`），不再是觸及（`reach`）。
+- Spawn of the Depth 的 psychic wave 明確規定需要消耗一次行動。
+- Cyclops 護甲由 2 調整為 3（對 `Soulbound` 為 1）。
+- Imp 護甲由 0 調整為 1（對 `Soulbound` 為 0）。
+- Siren 護甲由 1 調整為 1（對鐵為 0）。
+- Ghost 的「無形（incorporeal）」效果改併入護甲計算，以便可被防護工具應對。
+- Skeleton 與 Bloody Skeleton 的最大傷害上限由 3 降為 2，護甲由 0 調整為 1（對 `Soulbound` 為 0）。
+- Skeleton Soldier 護甲由 1 調整為 1（對 `Soulbound` 為 0）。
+- Homunculus 的弱點改為僅有火焰，不再弱於 `Soulbound` 武器。
+- Zombie 護甲調整為 1（對 `Soulbound` 為 0）。
+
+## 2020-02-15 `v0.3`
+
+- 全書小幅錯字修正。
+- 引言段落小幅修改。
+- 浴血奮戰中「造成 `+1 傷害`」的選項描述更明確。
+- 訪談詢問問題「What is someone hiding」改為「What are the people I'm talking to really feeling about someone or something?」，降低過度支配感。
+- 通曉傳說兩題「What type of creature was it」與「What is it capable of/weak to」合併。
+- 星界法術範例「dreamlike haze」改為使你下一次承受傷害 `-1`，不再是整個回合減傷。
+- 儀式巫術在多施法者情境的需求放寬（不再要求額外擲骰），並新增一個易碎代價選項。
+- 勇士的「心如空書（Mind Like an Empty Book）」補充為不可疊加。
+- 幻夢者的「月之牽引（Lure of the Moon）」由「每場景只承受第一次戰鬥巫術副作用」改為「每場景可忽略第一次戰鬥巫術副作用」。
+- 幻夢者的「奉獻狂熱（Zeal of Devotion）」懲罰機制改為「直到你完成 X 次巫術擲骰」，不再是「在任一 X 次中擲出低於 10」。
+- 惡魔（Fiend）額外加值調整為 `+3、+2、+0`。
+- 惡魔的 Fury 補充為不可疊加。
+- 學者（Scholar）的 Bumbling 現在可用於讓一次攻擊傷害減少 2。
+- 吸血鬼（Vampire）給予四處探查／追獵的基礎 `+1` 現在可重新分配。
+- 吸血鬼的 Sanguine Strength 現在持續到你的血點降至 0。
+- 邪術士移除「Know Your Pain」，改為「Command Elements」。
+- 邪術士的「Metamorphosis」改為作用於獻祭掌握（Sacrifice Holds），不再直接綁定一次擲骰。
+- 狼人機制大幅調整：不再進入失控狂暴，改為受可使用動作限制。
+- 狼人的「控制（Control）」改為在 `5 傷害` 時承受 `-1 持續加值（Ongoing）`（原為 4）。
+- 移除狼人的「Close Friends」與「Memento」能力。
+- 狼人新增兩個能力：「月之子（Moon's Child）」與「銀月術者（Silver Sorcerer）」。
+- 狼人的「獸性磁場（Animal Magnetism）」現在允許於獸形對狼與狗使用訪談詢問。
+
+## 2018-12-08 `v0.2`
+
+- 修正幻夢者、死靈法師、吸血鬼扮演書中遺漏的動作加值。
+
+## 2018-10-26 `v0.1`
+
+- 初版發布。
