@@ -1,6 +1,6 @@
 ---
 title: 惡魔
-description: Fiend 扮演書
+description: 惡魔扮演書
 sidebar:
   order: 5
 ---

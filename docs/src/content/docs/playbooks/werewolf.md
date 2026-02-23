@@ -1,6 +1,6 @@
 ---
 title: 狼人
-description: Werewolf 扮演書
+description: 狼人扮演書
 sidebar:
   order: 12
 ---

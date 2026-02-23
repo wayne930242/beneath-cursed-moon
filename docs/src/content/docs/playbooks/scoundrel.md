@@ -1,6 +1,6 @@
 ---
 title: 惡棍
-description: Scoundrel 扮演書
+description: 惡棍扮演書
 sidebar:
   order: 9
 ---

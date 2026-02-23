@@ -1,6 +1,6 @@
 ---
 title: 吸血鬼
-description: Vampire 扮演書
+description: 吸血鬼扮演書
 sidebar:
   order: 10
 ---

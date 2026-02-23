@@ -1,6 +1,6 @@
 ---
 title: 學者
-description: Scholar 扮演書
+description: 學者扮演書
 sidebar:
   order: 8
 ---

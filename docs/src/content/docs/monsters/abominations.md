@@ -1,6 +1,6 @@
 ---
 title: 畸變體
-description: Abominations 類型條目
+description: 畸變體類型條目
 sidebar:
   order: 3
 ---

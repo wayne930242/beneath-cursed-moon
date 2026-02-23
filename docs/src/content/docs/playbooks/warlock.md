@@ -1,6 +1,6 @@
 ---
 title: 邪術士
-description: Warlock 扮演書
+description: 邪術士扮演書
 sidebar:
   order: 11
 ---

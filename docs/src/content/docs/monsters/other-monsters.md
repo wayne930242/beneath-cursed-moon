@@ -1,6 +1,6 @@
 ---
 title: 其他怪物
-description: Other Monsters 類型條目
+description: 其他怪物類型條目
 sidebar:
   order: 8
 ---
@@ -11,7 +11,7 @@ sidebar:
 
 - 類型：不死族僕役
 - 最大傷害：3
-- 護甲：1（對魂縛為 0）
+- 護甲：1（對靈魂繫結為 0）
 - 攻擊：啃咬（`2 傷害`，近距離）
 - 攻擊效果：1
 

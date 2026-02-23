@@ -1,6 +1,6 @@
 ---
 title: 勇士
-description: Champion 扮演書
+description: 勇士扮演書
 sidebar:
   order: 2
 ---

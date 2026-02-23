@@ -1,6 +1,6 @@
 ---
 title: 獵人
-description: Hunter 扮演書
+description: 獵人扮演書
 sidebar:
   order: 6
 ---

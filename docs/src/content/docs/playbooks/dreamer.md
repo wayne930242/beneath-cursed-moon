@@ -1,6 +1,6 @@
 ---
 title: 幻夢者
-description: Dreamer 扮演書
+description: 幻夢者扮演書
 sidebar:
   order: 4
 ---

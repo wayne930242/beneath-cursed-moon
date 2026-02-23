@@ -1,6 +1,6 @@
 ---
 title: 死靈法師
-description: Necromancer 扮演書
+description: 死靈法師扮演書
 sidebar:
   order: 7
 ---

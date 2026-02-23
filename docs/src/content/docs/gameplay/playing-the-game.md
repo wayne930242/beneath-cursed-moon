@@ -1,6 +1,6 @@
 ---
 title: 玩家流程
-description: Session Zero、調查、戰鬥與擲骰時機
+description: 零號會議、調查、戰鬥與擲骰時機
 sidebar:
   order: 1
 ---
