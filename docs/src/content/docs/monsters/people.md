@@ -5,37 +5,32 @@ sidebar:
   order: 2
 ---
 
-People
-Normal people are likely to get placed into danger quite often, and while not monsters, PCs are likely to earn
-the ire of many in their adventures. From the civilians you’re trying to protect, to the local militia, or 
-experienced monster hunters, the stats for the different kinds of people listed here are broad, and meant to 
-be widely applicable.
-Civilian
-Type: Minion
-Max Harm: 2
-Armor: 0
-Attacks: Punches and kicks (0 harm, close) or torches and pitchforks (1 harm, reach)
-Attack Effects: 1
-Civilian stats are appropriate for the normal folks of the world – those with no training, and no real 
-weapons. They’re defenseless against monsters, although they maybe have a chance against weak ones when 
-formed into a mob – but are likely to flee and panic, without the right leadership. Civilian stats also 
-represent rank-and-file cultist with no real training of any sort.
-Hunter
-Type: Warrior
-Max Harm: 10
-Armor: 1
-Attacks: Two-handed weapon (3 harm,
-close, iron or silver) or longbow, crossbow,
-or musket (3 harm, ranged, iron or silver)
-Attack Effects: 2
-Hunters are experienced monster hunters
-who have taken down some horrors and
-lived to tell the tale. They’re extremely
-rare, and can’t be found just anywhere.
-While hunters often work together,
-they’re usually pretty opinionated about
-the right way to go about things. Many
-also aren’t as accepting of werewolves and
-vampires who claim to be good.
-Monsters
-77
+# 人物（People）
+
+普通人經常被捲入危險。雖然他們不是怪物，但 PC 在冒險過程中很可能同時需要保護他們、說服他們，甚至與其中某些人衝突。
+
+本條目提供的是「可廣泛套用」的人物範本，涵蓋從平民到有經驗獵手。
+
+## 平民（Civilian）
+
+- 類型：僕役
+- 最大傷害：2
+- 護甲：0
+- 攻擊：拳腳（`0 傷害`，近距離）或火把與草叉（`1 傷害`，觸及）
+- 攻擊效果：1
+
+平民代表缺乏訓練且無專業武裝的一般人。面對怪物通常沒有正面對抗能力；即便成群，也多半只對弱怪物有些機會。若無良好領導，平民常會恐慌與潰散。
+
+此數值也可用於「無訓練邪教成員」。
+
+## 獵手（Hunter）
+
+- 類型：衛士
+- 最大傷害：10
+- 護甲：1
+- 攻擊：雙手武器（`3 傷害`，近距離，鐵或銀）或長弓／十字弓／火槍（`3 傷害`，遠端，鐵或銀）
+- 攻擊效果：2
+
+這裡的獵手指有實戰經驗、曾成功獵殺怪物並存活的人。他們稀少，不是每個地方都能碰到。
+
+獵手雖常合作，但通常各有主張，也常對「宣稱自己是好怪物」的狼人或吸血鬼保持高度懷疑。

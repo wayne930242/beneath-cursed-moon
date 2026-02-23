@@ -5,131 +5,71 @@ sidebar:
   order: 8
 ---
 
-Scholar
-Knowledge is one of the greatest weapons against the darkness, and some wield it as their sword. Educated 
-students, savvy merchants, and even former cultist have turned their hard studying into a way to fight 
-horrors intellectually when they can’t physically. Their knowledge is an invaluable resource – as are all the 
-tools and equipment they carry, and the bits of magic
-they dabble in. 
-Bonus
-Moves
-+0
-Battle
-+3
-Knowledge / Lore
-Resist Dark Magic
-Poke Around / Hunt
-Interview / Convince
-Daring Action
-+0
-Sorcery
-Assign +2, +1, +1, and +0 to the remaining Moves.
-Basic Abilities
-Bag of Supplies: You have a bag of items you can rely
-on for every conceivable situation. Five times per
-adventure, you can produce any item on this list.
-Anything that comes in multiples is enough for one
-person to keep on-hand and keep using:   a silver dagger (3 harm, close, concealed, silver),   an iron dagger
-
-
-(3 harm, close, concealed, iron),  silver or iron ammo,  a heavy torch (3 harm, close, fire),  an heirloom 
-
-
-
-blade (3 harm, close, soulbound),  oil flasks (2 harm, ranged, fire, target takes 1 harm ignores 
-
-armor per 
-action until put out),  a flaming emblem (warding tool),   an iron emblem (warding tool),   a silver 
-
-
-
-emblem (warding tool),  a soulbound emblem (warding tool),  a vial of distilled souls (makes a weapon 
-
-
-soulbound for one scene),  a vial of flaming oil (makes a weapon flaming for one scene),  a scroll 
-
-
-containing any ritual or combat sorcery.
-Killer Curiosity: Whenever you put yourself in danger due to a need to investigate or learn something 
-without the rest of the group to back you up, gain 2 holds that last until the end of the adventure. You can 
-use these holds as per the Knowledge, Lore, or Poke Around moves.
-Playbooks
-37
+# 學者（Scholar）
 
-Advanced Abilities
- 
-Always Prepared: You may use your Bag of Supplies an additional 3 times every adventure, In addition, 
-you may spend 2 uses of your Bag of Supplies to have any item at all you can think of that’s reasonable for 
-you to be carrying around.
- 
-Astral Dabbling: Your bonus with Astral Sorcery increases to +2. You know two combat spells from that 
-school of magic, and once per adventure you can produce a ritual sorcery spell without the help of any scroll
-or outside source.
- 
-Bumbling: Whenever you suffer a drawback from Daring Action, you can always choose to lose one use 
-from your Bag of Supplies, or lose or break an item you’ve already pulled from it as your penalty. You can 
-also do this to reduce the harm of an attack against you by 2.
- 
-Dramatic Reveal: Whenever you produce an item from your Bag of Supplies to immediately use, you gain
-+2 Forward to any move to use it.
- 
-Light 
- 
- Armor:
- 
-  You invest in a suit of light leather or mail armor that provides 1 armor when worn.
- 
-Infernal Dabbling: Your bonus with Infernal Sorcery increases to +2. You know two combat spells from 
-that school of magic, and once per adventure you can produce a ritual sorcery spell without the help of any 
-scroll or outside source.
- 
-Just a Scholar!: You know how to make yourself look harmless. You can spend a hold from the Knowledge 
-move to have an enemy’s attention redirected from you to elsewhere – you don’t get to choose where.
- 
-Necromantic Dabbling: Your sorcery with Necromantic Sorcery increases to +2. You know two combat 
-spells from that school of magic, and once per adventure you can produce a ritual sorcery spell without the 
-help of any scroll or outside source.
- 
-Plenty to Go Around: Whenever you produce an item from your Bag of Supplies, you can spend an 
-addition use of it to provide enough of that item for the entire party of heroes.
- 
-Gain +1 to a Move or pair of linked Moves that are at +0 or +1 currently.
- 
-Gain +1 to a Move or pair of linked Moves that are at +0 or +1 currently.
- 
-Gain +1 to a Move or pair of linked Moves that are at +0 or +1 currently.
-Playbooks
-38
+知識是對抗黑暗最鋒利的武器之一，而學者正是把知識當作劍的人。受過教育的學徒、精明商人、甚至前邪教成員，都可能把長年研究轉為獵魔實力。當無法用力量取勝時，學者能以頭腦、工具與少量魔法扭轉局勢。
 
-Quickplay Background
-Your clothes speak to who you are. You wear:
- a fancy scholar’s outfit, dirtied from the road. 
-
- a scholar’s outfit, perfectly maintained and pressed.
-
- practical, smart traveling gear.
-
- the fine clothes of a wealthy merchant.
-
- a hooded cowl.
-
-You’ve learned all you know from:
- studying in the top universities.
-
- being mentored by a skilled monster hunter.
-
- a fascination with books of all subjects.
-
- hands on experience and curiosity. 
-
- being a part of a cult.
-
-You first met the other PCs:
- when they were investigating near you, and you had something they needed.
-
- when you helped educate one.
-
- when you were assigned to them from the same group.
-
-Playbooks
-39
+## 加值
+
+- 浴血奮戰：`+0`
+- 理解戰況／通曉傳說：`+3`
+- 大膽行動：`+0`
+- 巫術：其餘分配 `+2、+1、+1、+0`
+
+## 基礎能力
+
+### 補給袋（Bag of Supplies）
+
+每次冒險可 **5 次** 從補給袋拿出下列任一項。多件型物品視為足夠一人持續使用：
+
+- 銀匕首（`3 傷害`，近距離，隱蔽，銀）
+- 鐵匕首（`3 傷害`，近距離，隱蔽，鐵）
+- 鐵或銀彈藥
+- 重型火炬（`3 傷害`，近距離，火焰）
+- 傳家短刃（`3 傷害`，近距離，靈魂繫結）
+- 油瓶（`2 傷害`，遠端，火焰；目標每次行動再受 `1 傷害` 無視護甲，直到撲滅）
+- 火焰／鐵／銀／靈魂繫結徽記（防護工具）
+- 蒸餾靈魂液（使武器在一場景內成為靈魂繫結）
+- 燃油瓶（使武器在一場景內具有火焰）
+- 任一戰鬥或儀式巫術卷軸
+
+### 致命好奇（Killer Curiosity）
+
+當你為了調查或求知而獨自置身危險（沒有隊友支援）時，獲得 `掌握 2`，持續到冒險結束。這些掌握可依理解戰況、通曉傳說或四處探查的規則使用。
+
+## 進階能力
+
+- **總有準備（Always Prepared）**：每次冒險補給袋可再多用 3 次。另可花 2 次使用權，拿出任何「你合理可能隨身攜帶」的物品。
+- **涉獵星界（Astral Dabbling）**：星界巫術升至 `+2`；學會 2 個星界戰鬥法術，每次冒險 1 次可無卷軸施放星界儀式法術。
+- **笨拙應變（Bumbling）**：你在大膽行動承受代價時，可改成消耗 1 次補給袋，或毀損已取出的物品。你也可用同方式使一次對你攻擊傷害 `-2`。
+- **戲劇揭示（Dramatic Reveal）**：當你剛拿出補給袋物品並立刻使用，該次相關動作獲得 `+2 單次加值`。
+- **輕甲（Light Armor）**：你額外準備了一套輕皮甲或鎖甲，穿著時提供 `1 護甲`。
+- **涉獵地獄（Infernal Dabbling）**：地獄巫術升至 `+2`；學會 2 個地獄戰鬥法術；每次冒險 1 次可無卷軸施放地獄儀式法術。
+- **我只是學者！（Just a Scholar!）**：你擅長讓自己看起來無害。可花 1 點理解戰況掌握，把敵人注意力從你身上移走（移去何處由 MC 決定）。
+- **涉獵死靈（Necromantic Dabbling）**：死靈巫術升至 `+2`；學會 2 個死靈戰鬥法術；每次冒險 1 次可無卷軸施放死靈儀式法術。
+- **份量充足（Plenty to Go Around）**：當你從補給袋拿出一項物資，可再額外花 1 次使用權，讓整個英雄隊伍都拿到足量同類物品。
+- **把任一目前為 +0 或 +1 的動作（或成對動作）提升 +1**（可選三次）
+
+## 快速背景
+
+你的穿著反映你的身分：
+
+- 華麗學者服，沾滿旅塵
+- 整潔筆挺的學者服
+- 實用而得體的旅裝
+- 富商階層服飾
+- 兜帽長袍
+
+你學得一身本領來自：
+
+- 頂尖學院訓練
+- 資深獵魔人指導
+- 對各類書籍的深度著迷
+- 實作經驗與好奇心
+- 邪教體系背景
+
+你與其他 PC 初遇於：
+
+- 他們在你附近調查，而你手上正好有關鍵物件
+- 你曾教導其中一人
+- 你們被同一組織編到同隊

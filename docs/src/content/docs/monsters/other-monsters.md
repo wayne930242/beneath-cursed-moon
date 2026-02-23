@@ -5,63 +5,50 @@ sidebar:
   order: 8
 ---
 
-Zombie
-Type: Undead Minion
-Max Harm: 3
-Armor: 1 (0 vs soulbound)
-Attacks: Bite (2 harm, close)
-Attack Effects: 1 
-Dismemberable: If a zombie is injured, but not killed, the attack dismembers it, and it can only slowly limp 
-or drag itself to its victims – those who stay moving have no problem staying out of its reach.
-Animated, rotten corpses, zombies clumsily shamble about in the tatters of clothes they were dressed in in 
-life. The magic reanimating them cares little about their body’s integrity – not only are most zombies 
-missing chunks of flesh, many are missing entire limbs, or even pull themselves on the ground after their 
-legs have been lost.
-Unlike most other unintelligent undead, zombies can’t be controlled – the most a necromancer can do is 
-guide them in a direction, and mask their presence from the horde. They’re animated by the most raw and 
-primal necromantic energy, and driven entirely by a sheer hatred of life and insatiable hunger. Areas that 
-are bursting with necromantic magic, either from foul ritual, horrid deed, or the presence of a powerful 
-undead lord, will have the dead rise up as zombies en masse – not just the long dead, but those newly slain, 
-as well.
-Other Monsters
-Not all monsters count as one of the other types. Creatures under “Other” type can be from a variety of 
-other sources, but none of them are common enough to deserve their own type, and don’t share any 
-weaknesses.
-Animated Armor
-Type: Warrior
-Max Harm: 10
-Armor: 2
-Attacks: Heavy Sword (4 harm, close, iron), Heavy Axe
-(4 harm, throwable, close, iron), or Heavy Spear (4
-harm, reach, iron)
-Attack Effects: 2
-Clumsy: An animated armor is especially slow and
-clumsy. Any character that gets +1 Forward against it,
-for any reason, has that bonus increased to +2. If a
-character would take less harm from an animated
-armor’s attacks for any reason beyond armor, they
-take an additional less harm.
-Monsters
-112
+# 其他怪物（Other Monsters）
 
-A suit of armor animated by magic, an animated armor is a large, clumsy automaton wielding a massive 
-weapon. Unable to speak, an animated armor is still intelligent, and can appear at first as if someone – albeit 
-a very large, burly someone – is within its armor. Animated armors are often made from decorated armors, 
-and sometimes disguised as empty suits of armor.
-Animated armors are created with powerful magic, often to guard a specific location. They are wholly loyal 
-to their creators, and only have a concept of self-preservation in regards to carrying out their duty; if told to 
-defend a location, they will do so to the death. Animated armors can think, and can be told to carry out 
-complex tasks, although anything involving precision or delicacy is unsuited for them.
-Living Spellbook
-Type: Minion
-Max Harm: 2
-Armor: 0
-Attacks: Collection of Swords (2 harm, close, iron), Spellshock (2 harm, ranged, fire)
-Attack Effects: 1
-A heavy tome a living spellbook is an old book that flies through the air. When it opens, either a variety of 
-blades strike at those nearby, or a blast of magical energy is released.
-Living spellbooks are created when magical energy is accumulated in a library, from arcane writings and 
-experiments. This energy spreads, infecting and seeping into other books, granting them a semblance of life.
-The books are hostile to those that approach them, attacking the living indiscriminately.
-Monsters
-113
+## 殭屍（Zombie）
+
+- 類型：不死族僕役
+- 最大傷害：3
+- 護甲：1（對魂縛為 0）
+- 攻擊：啃咬（`2 傷害`，近距離）
+- 攻擊效果：1
+
+`可肢解`：殭屍若受傷但未被擊殺，通常會被打斷肢體，只能緩慢跛行或爬行追擊。只要目標持續移動，通常可輕鬆保持在殭屍觸及範圍外。
+
+殭屍是被喚起的腐敗屍體，穿著生前破爛衣物蹣跚而行。驅動其行動的魔法不在乎軀體完整性，因此許多殭屍不只缺肉，還缺手缺腳，甚至失去雙腿後以手臂拖行。
+
+與多數低智不死族不同，殭屍難以真正被控制。死靈法師頂多能把它們「引向」某方向，或讓自己短暫不被屍群注意。殭屍由最原始、最野性的死靈力量驅動，只剩對生命的仇恨與飢餓。
+
+若某地死靈濃度爆表（來自邪儀、慘案或強大不死領主），死者會大規模化為殭屍，不只久死者，連新死者也會立刻再起。
+
+## 其他類總論
+
+並非所有怪物都能歸入前述大類。「其他」類怪物來源五花八門，因不夠常見而未獨立成型，也不共享固定弱點。
+
+## 活化鎧甲（Animated Armor）
+
+- 類型：衛士
+- 最大傷害：10
+- 護甲：2
+- 攻擊：重劍（`4 傷害`，近距離，鐵）、重斧（`4 傷害`，可投擲，近距離，鐵）、重矛（`4 傷害`，觸及，鐵）
+- 攻擊效果：2
+
+`笨拙`：活化鎧甲特別遲鈍。任何角色若因任何理由對其獲得 `+1 單次加值`，都提升為 `+2`。若角色因護甲以外理由可減少其攻擊傷害，則再額外少承受 1 點傷害。
+
+活化鎧甲是由魔法驅動的盔甲自動體，身形巨大笨重，手持大型武器。它雖不能說話，但具備智能；初見時常像有個壯碩人類躲在甲內。活化鎧甲常由裝飾華美盔甲打造，也常偽裝成展示用空甲。
+
+活化鎧甲需強大魔法才能製造，常用於守衛特定場所。它們對創造者絕對忠誠，其「自保」概念也只服務於任務完成。若被命令守地，會戰到完全毀壞。活化鎧甲可執行複雜指令，但凡需細膩、精準操作的任務都不適合它們。
+
+## 活體法典（Living Spellbook）
+
+- 類型：僕役
+- 最大傷害：2
+- 護甲：0
+- 攻擊：劍群召出（`2 傷害`，近距離，鐵）、法能震擊（`2 傷害`，遠端，火焰）
+- 攻擊效果：1
+
+活體法典是會飛行的厚重古書。當它翻開時，要嘛放出多把利刃斬擊近身者，要嘛釋放魔力爆流。
+
+當圖書館長期累積奧術書寫與實驗殘能，可能誕生活體法典。這些能量會外溢、感染其他書籍，使其獲得最低限度生命性。此類書本通常對接近者抱持敵意，會無差別攻擊活體。

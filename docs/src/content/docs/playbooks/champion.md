@@ -5,122 +5,82 @@ sidebar:
   order: 2
 ---
 
-Champion
-Those that stand for truth and righteousness, and are empowered by their strong belief in self-sacrifice have 
-little to fear from the dark. Shunning subtlety and dishonesty, they wade forward into battle to defeat the 
-forces of evil, and protect the innocent. And while courage is a mighty shield and justice a powerful sword, 
-being heavily armed and armored helps, too.
-Bonus
-Moves
-+2
-Battle
-Knowledge / Lore
-+3
-Resist Dark Magic
-Poke Around / Hunt
-+2
-Interview / Convince
-Daring Action
-+0
-Sorcery
-Assign +1, +1, and +0 to the remaining Moves.
-Basic Abilities
-Heavily Armed and 
- 
- Armored:
- 
-  You own a suit of
-marvelous heavy armor (and possibly a shield) which
-gives you 2 armor, as well as one of the following
-weapons:
- 
-Battle axe or claymore (4 harm, close, iron)
- Spear (4 harm, reach, iron)
-
- Short sword (3 harm, close, iron) and a longbow, crossbow, or musket (4 harm, ranged) with iron ammo.
-
-Protect the Weak: Whenever you use the Battle move to draw attention onto you, you either give an ally 
-you’re protecting +1 Forward against the creature you’re fighting, or to reduce the next Harm you take from 
-the creature by 1.
-Turn Away Evil: Whenever you successfully use Resist Dark Magic to ward away a creature, you may either 
-deal 1 Harm (ignores armor) to that creature or gain +1 Forward against them. Once per adventure, you can 
-produce a warding tool of your choice:  a flaming emblem,   an iron emblem,   a silver emblem,  a 
-
-
-
-
-soulbound emblem.
-Playbooks
-19
+# 勇士（Champion）
 
-Advanced Abilities
- 
-Authority: You have a granted authority – it might be a wide reaching legal one, or just among an 
-organization you’re a part of. At the beginning of an adventure, make a move using your Convince bonus. 
-On a 7-9, hold 1. On a 10-12, hold 2. On a 13+, hold 3. During the adventure, you can spend a hold to find 
-someone who obeys the same authority as you, and make a request of them like you had rolled a Convince 
-move with a result of 10.
- 
-Center of Attention: Before rolling Hunt, you may choose to make yourself the bait. If you do, your allies 
-get +1 Forward to their Hunt rolls, but you can’t get a result higher than 7-9.
- 
-Guided by Conviction: When you make a Daring Action move in a way that does not involve treachery, 
-guile, deception, or surprise, you always do whatever you set out to accomplish: rolling 6 or below is treated 
-as a 7-9.
- 
-Honest to a Fault: As long as you haven’t lied to a bystander this adventure and intend to stay true to your 
-word, you gain a +1 bonus to your Interview and Convince moves.
- 
-Mind Like An Empty Book: You’re good at listening to others and respecting when they’re right. When 
-someone uses a Knowledge hold to help you specifically, they gain +1 Forward to their next Knowledge move
-(this effect does not stack). You also gain a +1 Forward to using Lore when you use it alongside someone with 
-a higher bonus to Lore moves than you.
- 
-Leadership: You can direct your allies in their tasks, keeping them organized, motivated, and inspired. 
-Instead of using a combat or investigation move, you can instead choose to lead your allies, giving them +1 
-Forward to their next move.
- 
-Shining Example: Whenever you succeed on a Resist Dark Magic move to resist a dangerous effect, or roll 
-at least a 7 on a Daring Action move to avoid harm or perform a stunt, your allies gain +1 Ongoing to moves 
-to accomplish that same task for the rest of the scene. They cannot gain more than +1 Ongoing to the same 
-move from this ability.
- 
-Stand Your Ground: Whenever a creature deals harm to you, you deal +1 Harm the next time you damage 
-said creature.
- 
-Strong Soul: All weapons you wield count as soulbound, and you never need a soulbound warding tool. In 
-addition, whenever you grant an ally a Forward to a Battle or Sorcery move, any harm they deal counts as if 
-they had a soulbound weapon.
- 
-Gain +1 Knowledge/Lore
- 
-Gain +1 Poke Around / Hunt
- 
-Gain +1 Daring Action
-Playbooks
-20
+堅信真理與正義，並以自我犧牲精神獲得力量的人，通常不太畏懼黑暗。勇士不走陰謀路線，會正面踏入戰場，對抗邪惡並保護無辜者。勇氣是盾，正義是劍，而厚實武裝與護甲也同樣重要。
 
-Quickplay Background
-Your distinctive armor is:
- a shining suit of plate.
-
- battered, worn, and patched together.
-
- a thick and fur lined leather coat, boots, and hat.
-
-You draw your strength of conviction from your devotion to:
- your land and its people.
-
- the good that exists in all hearts.
-
- cold, hard steel.
-
-You and another PC are tied together through:
- your shared hometown.
-
- your guidance to them on the path of justice.
-
- having worked together to save the same person.
-
-Playbooks
-21
+## 加值
+
+- 浴血奮戰：`+2`
+- 理解戰況／通曉傳說：`+3`
+- 抵抗黑魔法：`+2`
+- 四處探查／追獵：`+2`
+- 訪談詢問／說服：`+0`
+- 大膽行動：`+0`
+- 巫術：將剩餘數值 `+1、+1、+0` 分配到未填動作
+
+## 基礎能力
+
+### 重裝武備（Heavily Armed and Armored）
+
+你擁有一套精良重甲（可含盾牌），提供 `2 護甲`，並從下列武裝中擇一：
+
+- 戰斧或雙手大劍（`4 傷害`，近距離，鐵）
+- 長矛（`4 傷害`，觸及，鐵）
+- 短劍（`3 傷害`，近距離，鐵）＋長弓／十字弓／火槍（`4 傷害`，遠端）與鐵製彈藥
+
+### 保護弱者（Protect the Weak）
+
+當你以浴血奮戰把敵人注意力拉到自己身上時，從下列效果擇一：
+
+- 你正在保護的一名同伴，對該敵人獲得 `+1 單次加值`
+- 該敵人下一次對你造成的傷害 `-1`
+
+### 驅離邪惡（Turn Away Evil）
+
+當你以抵抗黑魔法成功驅離生物時，你可：
+
+- 對該生物造成 `1 傷害`（無視護甲），或
+- 對該生物獲得 `+1 單次加值`
+
+每次冒險 1 次，你可直接拿出一種防護工具：
+
+- 火焰徽記
+- 鐵徽記
+- 銀徽記
+- 靈魂繫結徽記
+
+## 進階能力
+
+- **權威（Authority）**：你持有某種權威（可能是法律位階，也可能是組織內權限）。每次冒險開始時，擲一次以說服加值進行的檢定；`7-9` 得掌握 1，`10-12` 得 2，`13+` 得 3。冒險中可花 1 掌握，找到受同一權威約束的人，並向其提出一次等同你「說服 10」的請求。
+- **視線焦點（Center of Attention）**：擲追獵前，你可以選擇自己當誘餌。若如此，你的同伴在該次追獵獲得 `+1 單次加值`，但你自己的結果最高只能視為 `7-9`。
+- **信念引導（Guided by Conviction）**：當你進行不涉及背叛、詭計、欺瞞或突襲的大膽行動時，一律視為成功達成目標；`6 以下` 改視為 `7-9`。
+- **過度誠實（Honest to a Fault）**：只要本次冒險你未對平民說謊，且打算守信，你在訪談詢問與說服獲得 `+1`。
+- **心如空書（Mind Like an Empty Book）**：當他人用理解戰況掌握專門幫你時，對方下次理解戰況獲得 `+1 單次加值`（不疊加）。此外，若你與通曉傳說加值高於你的人一同調查，你本次通曉傳說獲得 `+1 單次加值`。
+- **領導（Leadership）**：你可放棄一次戰鬥或調查動作，改為指揮同伴；同伴下一次動作獲得 `+1 單次加值`。
+- **光明榜樣（Shining Example）**：當你以抵抗黑魔法成功抵擋危險效果，或以大膽行動 `7+` 成功避傷／特技時，你的同伴在本場景對相同任務的動作獲得 `+1 持續加值`。同一動作最多受此能力 `+1`。
+- **堅守陣地（Stand Your Ground）**：當某生物對你造成傷害後，你下一次對該生物造成傷害時 `+1 傷害`。
+- **強韌靈魂（Strong Soul）**：你持有的所有武器都視為靈魂繫結；你也不再需要靈魂繫結防護工具。且當你給同伴浴血奮戰或巫術的單次加值時，該同伴本次造成的傷害也視為靈魂繫結。
+- **理解戰況／通曉傳說 +1**
+- **四處探查／追獵 +1**
+- **大膽行動 +1**
+
+## 快速背景
+
+你的招牌護甲是：
+
+- 一套閃耀板甲
+- 破損、補丁累累的老甲
+- 內襯厚毛皮的皮革大衣、靴子與帽子
+
+你堅定信念的來源是：
+
+- 你的土地與人民
+- 人心中仍存在的善
+- 冰冷而堅實的鋼鐵
+
+你與另一位 PC 的連結是：
+
+- 同鄉
+- 你曾引導對方走上正義之路
+- 你們曾共同救下同一個人

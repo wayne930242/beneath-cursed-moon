@@ -5,88 +5,80 @@ sidebar:
   order: 1
 ---
 
-Equipment List
-Equipment in Beneath a Cursed Moon is handled loosely. All characters get weapons and armor based off of 
-their playbooks, and are assumed to be carrying traveling basics – food, torches, money, and so on. If it 
-makes sense for a character to be carrying it, they’re carrying it, and if it’s easily findable, it can be found. If 
-there’s something that is likely around, but requires a bit more effort, the Convince move can be used to find
-it.
-Weapons
-All weapons list how much harm they deal, followed by their ranged tag, then other tags. The harm they deal
-is the amount you deal when you choose to attack with it using the Battle move. The ranged tag tells you 
-how far away you can fight monsters with it. The other tags vary – some have strict game mechanical effects, 
-while others are only there to suggest ways you might get an advantage or disadvantage from using it over 
-other types.
-Weapon Range Tags
-Close: The weapon only works in hand-to-hand range.
-Group: The attack targets multiple grouped together opponents
-Reach: The weapon has some length to it, and can attack enemies outside of arm’s reach, but not ones that 
-have already got their hands on you.
-Throwable: You can use this weapon in hand-to-hand range, or throw it close by.
-Ranged: This weapon is long ranged, and can hit far away enemies.
-Other Weapon Tags
-Concealed: The weapon is hidden on your person until drawn
-Fire: The weapon is on fire, or damages through fire, which is useful against some foes.
-Ignore-Armor: The weapon’s damage ignores armor, and is never reduced.
-Iron: The weapon is made of steel or iron, which while fairly standard, is particularly useful against fey.
-Silver: The weapon is made of silver, good against werewolves and some abominations.
-Soulbound: The weapon has a soul infused into it – it’s essentially haunted, making it effective against 
-demons and the undead.
-Common Weapons
-Arrows: Ammo for bows, crossbows, and firearms, they’re made with either iron or silver.
-Battle Axe (4 harm, close): A large axe with long handle, designed to be used as a weapon.
-Claymore (4 harm, close): A heavy two-handed sword.
-Chain Whip (4 harm, reach): A long whip made out of linked metal chain or with a metal weight at the end.
-Crossbow (4 harm, ranged): A normal sized military crossbow. Requires arrows.
-Equipment List
-52
+# 裝備清單
 
-Dagger (3 harm, close, concealed): A concealable knife for stabbing
-Duelist’s Sword (4 harm, close): A finely made one-handed sword
-Heavy Torch (3 harm, close, fire): A club wrapped in oil-soaked rags.
-Heirloom Blade (3 harm, close, soulbound): An old sword with a previous owner’s soul bound to it.
-Longbow (4 harm, ranged): A large hunter’s longbow. Requires arrows.
-Musket (4 harm, ranged): A gun that requires two hands to operate.
-Oil flasks (2 harm, ranged, fire, target takes 1 harm ignores armor per action until put out): A specially 
-prepared flask of oil with a flaming rag or other igniting method, designed to drench and burn its target.
-Pistol (3 harm, ranged, concealed): A one-handed gun that can be hidden under clothes.
-Poisoned knives (2 harm ignores armor, throwable, only vs living creatures): A thin knife coated in a fast-
-acting poison.
-Ritual knife (3 harm, close): A twisted, decorated knife more useful for sacrifices than combat. 
-Scythe (4 harm, close): A large curved blade at the end of a wooden handle.
-Short sword (3 harm, close): A short, reliable sword usually used for a backup weapon.
-Small Crossbow (3 harm, ranged, concealed): A fold-up crossbow that can be easily hidden.
-Spear (4 harm, reach): A two-handed spear or other pole arm with a long shaft.
-Throwing Axes (3 harm, throwable): Light axes designed for throwing.
-Throwing Knives (3 harm, throwable): Knives weighted for throwing.
-Woodcutter’s Axe (3 harm, close): A simple axe used to chop lumber.
-You can have weapons look or act like whatever you want – so if a weapon isn’t on your character’s 
-equipment list, but makes sense, check with your MC – the only real important value is the harm. There’s no
-reason a vampire can’t be using a battle axe, but most of the time that’s not the image associated – which is 
-why it’s not there. Likewise, for the MC, if you want guns to be the primary ranged weapons in your game, 
-just substituting them in where longbows and crossbows are now is easy enough, with iron or silver bullets 
-instead of arrows.
-Tools
-Not all equipment a character uses is a weapon. Some playbooks get various tools as well.
-Distilled Soulstuff (makes a weapon soulbound for one scene): A wispy white liquid that when poured over 
-a weapon, causes it to temporarily glow.
-Flaming Emblem: This magical symbol is often made of bronze or copper, and carved with runes of flame 
-that glow hot when used. As a warding tool, it can ward away creatures who take extra damage from flaming 
-weapons, like some abominations and undead.
-Iron Emblem: This magical symbol is often made in the shape of a horseshoe or other representation of 
-man’s dominance over nature, and covered in runes of conquest over the natural world. As a warding tool, it 
-can ward away creatures who take extra damage from iron weapons, like some fey.
-Scroll: A scroll described one spell, either ritual or sorcery, that can be cast with the Sorcery move.
-Equipment List
-53
+《詛咒月影》的裝備採較寬鬆處理。所有角色依扮演書獲得武器與護甲，並預設攜帶旅途基本物資（食物、火把、金錢等）。
 
-Silver Emblem: This magical symbol is made of pure silver, and made in a shape representing the moon in 
-some way. As a warding tool, it can ward away creatures who take extra damage from silver, like some
-abominations and beasts.
-Soulbound Emblem: This magical symbol has a soul trapped inside of it, and it’s voice can be heard if the 
-bearer focuses on it. As a warding tool, it can ward away creatures who take extra damage from soulbound 
-weapons, like demons and some undead.
-Vial of flaming oil (makes a weapon flaming for one scene): A thick, sticky oil that can be poured onto a 
-blade and set on fire.
-Equipment List
-54
+原則是：
+
+- 若角色「合理會帶著」，就視為帶著。
+- 若物件「容易找到」，就可在場景中取得。
+- 若物件「可能有、但要額外花力氣」，可透過說服等方式取得。
+
+## 武器
+
+每把武器條目通常包含：
+
+1. 傷害值
+2. 射程標籤
+3. 其他標籤
+
+武器傷害是你在浴血奮戰中選擇以該武器攻擊時造成的傷害。射程標籤決定你能在多遠距離與怪物交戰。其他標籤有些是硬機制，有些則是戰術提示。
+
+### 武器射程標籤
+
+- **近距離（Close）**：僅限近身肉搏。
+- **群體（Group）**：可同時攻擊多名聚在一起的目標。
+- **觸及（Reach）**：可打到手臂範圍外敵人，但不適合已貼身糾纏的目標。
+- **可投擲（Throwable）**：可近戰使用，也可丟向近距離目標。
+- **遠端（Ranged）**：可攻擊較遠目標。
+
+### 其他武器標籤
+
+- **隱蔽（Concealed）**：武器可藏於身上，抽出前不易被察覺。
+- **火焰（Fire）**：武器本身帶火，或以火造成傷害；對部分敵人特別有效。
+- **無視護甲（Ignore-Armor）**：該武器傷害不受護甲減免。
+- **鐵（Iron）**：鐵／鋼製武器；對妖精特別有效。
+- **銀（Silver）**：銀製武器；對狼人與部分畸變體特別有效。
+- **靈魂繫結（Soulbound）**：武器內封入靈魂，近似附靈；對惡魔與不死族特別有效。
+
+## 常見武器
+
+- **箭矢**：弓、十字弓、火器彈藥，可為鐵或銀。
+- **戰斧**（`4 傷害`，近距離）：長柄重斧。
+- **雙手大劍**（`4 傷害`，近距離）：雙手重劍。
+- **鏈鞭**（`4 傷害`，觸及）：金屬鏈節長鞭，或尾端帶重錘。
+- **十字弓**（`4 傷害`，遠端）：軍用尺寸十字弓，需箭矢。
+- **匕首**（`3 傷害`，近距離，隱蔽）：可藏匿刺擊用短刀。
+- **決鬥劍**（`4 傷害`，近距離）：精製單手劍。
+- **重型火炬**（`3 傷害`，近距離，火焰）：裹油布棍棒。
+- **傳家短刃**（`3 傷害`，近距離，靈魂繫結）：封有前主靈魂的古劍。
+- **長弓**（`4 傷害`，遠端）：大型獵弓，需箭矢。
+- **火槍**（`4 傷害`，遠端）：需雙手操作。
+- **油瓶**（`2 傷害`，遠端，火焰；目標每次行動承受 `1 傷害` 無視護甲，直到撲滅）：可引燃的拋擲油瓶。
+- **手槍**（`3 傷害`，遠端，隱蔽）：可藏於衣物下的單手槍。
+- **毒刀**（`2 傷害`，無視護甲，可投擲，僅對活體）：塗速效毒藥。
+- **儀式刀**（`3 傷害`，近距離）：比戰鬥更適合祭儀用途。
+- **鐮刀**（`4 傷害`，近距離）：木柄末端大型彎刃。
+- **短劍**（`3 傷害`，近距離）：可靠備用劍。
+- **小型十字弓**（`3 傷害`，遠端，隱蔽）：可折疊便於藏匿。
+- **長矛**（`4 傷害`，觸及）：雙手長柄武器。
+- **投擲斧**（`3 傷害`，可投擲）：輕量投擲專用。
+- **投擲匕首**（`3 傷害`，可投擲）：平衡配重投擲刀。
+- **伐木斧**（`3 傷害`，近距離）：常見伐木斧。
+
+武器外觀與敘事可自由調整。若某武器不在角色清單、但敘事合理，請與 MC 確認；機制上最關鍵的是傷害值。
+
+例如吸血鬼當然也可以用戰斧，只是通常不符合該扮演書典型意象。對 MC 來說，若你希望火器成為主要遠端武器，也可把長弓與十字弓直接替換成槍械，並用鐵／銀子彈取代箭矢。
+
+## 工具
+
+角色裝備不只武器。部分扮演書也提供專門工具。
+
+- **蒸餾靈魂液**（使武器在一個場景內成為靈魂繫結）：稀薄白色液體，淋在武器上會短暫發光。
+- **火焰徽記**：常由青銅或銅製成，刻有火焰符文，啟用時發熱發光。作為防護工具，可驅離對火焰武器有額外弱點的生物（如部分畸變體與不死族）。
+- **鐵徽記**：常見馬蹄或象徵人類征服自然的造型，刻有征服符文。作為防護工具，可驅離對鐵武器有額外弱點的生物（如部分妖精）。
+- **卷軸**：記載單一法術（儀式或戰鬥巫術），可透過巫術動作施放。
+- **銀徽記**：純銀打造，常以月相意象塑形。作為防護工具，可驅離對銀有額外弱點的生物（如部分畸變體與野獸）。
+- **靈魂繫結徽記**：內封靈魂，持有者專注時可聽見其聲音。作為防護工具，可驅離對靈魂繫結武器有額外弱點的生物（如惡魔與部分不死族）。
+- **燃油瓶**（使武器在一個場景內具火焰）：濃稠黏油，可塗覆刀刃並點燃。

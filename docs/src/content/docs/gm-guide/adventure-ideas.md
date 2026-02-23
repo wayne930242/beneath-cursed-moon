@@ -5,57 +5,33 @@ sidebar:
   order: 3
 ---
 
-Adventure Ideas
-The following are some adventure ideas, using the monsters presented in the next chapter, if you need an 
-idea for a game on the fly, or just some inspiration. Most can fit into a single session.
-➢ The water of a village has been infected by the Consuming Consciousness, with people slowly sickening 
-and turning. The source of the infection is deep within a sealed mine, or on a monster-infested 
-mountain or grove.
-➢ The start of a Consuming Consciousness infection is started at the edge of a large city, causing a massive 
-exodus and chaos.
-➢ A Twisted Worshiper, promising eternal life, travels from town to town, poisoning those left in its wake.
-➢ A fishing village turns to worshiping Hydra when their fish run dry, and sacrifice those who don’t join 
-their cult in order to keep their bounty.
-➢ A Scylla is attacking boats that pass through its waters – and some have turned to feeding it sacrifices for 
-its blessing to allow safe passage.
-➢ Investigation suggests a Spawn of the Depths sleeps near a community, and is slowly waking from its 
-hidden worshipers.
-➢ Rare plants are needed for a spell, but the grove they’re located is the home of Arachne, Griffons, 
-Manticores, or other dangerous beasts.
-➢ Something has awoken a Dragon that now threatens the surrounding area – even if it’s appeased and 
-goes back to hibernation, whatever woke it has to be dealt with.
-➢ A Gorgon has made its home in an old monastery, where important soulbound relics still rest.
-➢ A Werewolf Lord looks to infect others to grow his pack.
-➢ A merchant caravan was attacked by bandits – but in truth, one of the caravan guards was a Werewolf.
-➢ Gargoyles, Screechers, and other demons come to abduct anyone walking the streets of town at night, 
-carrying them away to an unknown place.
-➢ A school or monastery has been overrun by demons, trapping those inside – including whoever must 
-have summoned them.
-➢ A Malphas has made its home in a town and gathers people’s secrets, using them for blackmail, or to 
-turn people against one another, intending for the town to tear itself apart.
-➢ A Slaughter Demon has made its home in the tunnels beneath the city, and is preying on those who 
-stumble upon its caverns.
-➢ A Succubus is manipulating local leaders, causing them to enact draconian laws in the name of greed 
-and paranoia.
-➢ An Alraune has secretly made its home in the massive garden of a noble, or within a city, and is picking 
-off those who wander too close to it alone.
-➢ A Doppelganger impersonates one of the heroes or a close friend, trying to destroy their relationships or
-committing crimes in their guise
-Adventure Ideas
-73
+# 冒險點子
 
-➢ After a fey lord demands that a town on the edge of the woods is evacuated, a Dullahan rides through 
-the village at night, killing one person every night until they give into the demands.
-➢ A highly advertised play is soon to debut, and it has the fingerprints of the Golden Muse in its making.
-➢ A group of Redcaps have hidden themselves in an abandoned building in the city, and are growing more
-bold in their lust for blood.
-➢ The boundary of the wilds moves closer to the village every day, the line of coming trees guarded by 
-Treants.
-➢ A Ghost haunting a house and terrorizing its new residents was killed by another monster, still on the 
-loose.
-➢ A well known doctor is found murdered – the Homunculus they created has escaped.
-➢ A plague begins to spread in the city. Is this a normal disease, the work of a Nosferatu, or other monster?
-➢ The beckoning of a Vampire Lord draws monsters from far and wide to join together under an unholy 
-banner.
-Adventure Ideas
-74
+以下是可直接上桌，或用來延伸的冒險靈感。多數可在單次遊戲中完成。
+
+- 某村莊的水源被 **Consuming Consciousness** 汙染，居民逐漸病變、異化。感染源位於封閉礦坑深處，或在怪物盤據的山地／樹林中。
+- 大城市邊緣爆發 **Consuming Consciousness** 初期感染，造成大規模逃難與失序。
+- 一名宣稱能賜予永生的 **Twisted Worshiper** 穿梭各城鎮，沿途下毒害人。
+- 漁村漁獲枯竭後轉而膜拜 **Hydra**，並犧牲不願入教者以換取「豐收」。
+- 一頭 **Scylla** 襲擊過境船隻；部分船隊開始以活祭換取「平安通行」。
+- 調查顯示某聚落附近沉眠著 **Spawn of the Depths**，而其祕密信徒正讓它緩慢甦醒。
+- 施法需要稀有植物，但該採集地被 **Arachne**、**Griffon**、**Manticore** 等危險野獸占據。
+- 某事物喚醒了 **Dragon**，正在威脅周邊地區；即使成功安撫並讓牠回歸沉睡，喚醒源頭仍必須處理。
+- 一隻 **Gorgon** 盤踞古老修道院，院內仍保存重要靈魂繫結聖物。
+- 一名 **Werewolf Lord** 正試圖透過感染擴大狼群。
+- 商隊遭盜匪襲擊；真相是商隊護衛中有一人是狼人。
+- **Gargoyle**、**Screecher** 等惡魔夜間擄走城鎮街上行人，帶往未知地點。
+- 某學院或修道院遭惡魔佔領，院內眾人受困，包括召喚者本人。
+- 一隻 **Malphas** 潛伏城鎮，蒐集祕密做勒索，並煽動居民彼此敵對，企圖讓整個城鎮內爆。
+- 一頭 **Slaughter Demon** 在城市地下隧道築巢，獵殺誤闖其洞窟者。
+- 一名 **Succubus** 操弄地方領袖，以貪婪與猜忌為名推行高壓法令。
+- 一株 **Alraune** 祕密棲身於貴族大花園或城內角落，專門獵殺獨自靠近者。
+- 一名 **Doppelganger** 冒充其中一位英雄或其親友，企圖破壞關係，或以其身分犯罪。
+- 妖精領主要求森林邊鎮撤離，否則便由 **Dullahan** 每夜入村殺一人，直到居民屈服。
+- 一齣高調宣傳的新戲即將首演，背後可見 **Golden Muse** 的痕跡。
+- 一群 **Redcap** 藏身城市廢棄建築，嗜血行徑愈發大膽。
+- 荒野邊界每日逼近村莊，前線由 **Treant** 守護，樹海正在「向前長」。
+- 一棟凶宅裡作祟的 **Ghost** 被另一頭怪物「擊殺」後失控逸散，威脅未除。
+- 一位名醫被發現謀殺，兇手可能是其創造後失控逃逸的 **Homunculus**。
+- 城市爆發瘟疫：是自然疾病、**Nosferatu** 作祟，還是其他怪物介入？
+- **Vampire Lord** 發出召令，遠近怪物開始集結於邪惡旗幟之下。

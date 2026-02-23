@@ -5,107 +5,125 @@ sidebar:
   order: 1
 ---
 
-Playing the Game
-For both players and MCs alike, making sure everyone is on the same page and understands what’s going on 
-is important. Here’s some advice for that.
-Session Zero
-If you’re starting playing Beneath a Cursed Moon – especially in a campaign setting, where you’ll be playing 
-several sessions with your PCs – a Session Zero is recommended. In Session Zero, everyone sits down 
-together and talks about what they want out of the game, what characters they want to play, and usually, how
-your characters all know each other. Even if you don’t have time to sit down and plan everything out for a 
-full session, you should think about these things ahead of time.
-Expectations from the game should be your first topic in session zero. You’ll want to discuss what you all 
-want out of the game – heavy action, deep drama, interpersonal conflicts, or the like. It’s alright if not all 
-players are after the exact same things, but understanding of what everyone is looking for, and how to best 
-play to that means everyone can still have fun. One of the most important expectations is going to be a 
-discussion about comfort level when it comes to elements of horror and violence – what level of description 
-of violence and gore, as well as similar subjects. You know best your own sensibilities, but even then, this is a 
-constant, shifting thing, that you might find yourself more or less comfortable with things than you thought 
-mid-game. For both yourself and your fellow players, be willing to have more discussions about how the 
-game is going, and what you’d like to see more or less of as you progress, and everyone will be happier.
-Next come the setting and characters, which go hand in hand. Your MC might have a specific setting and 
-pitch, or setting elements in mind for you to work off for. If they do or not, the group should work together 
-setting down things they want to see – you can go as in depth as fleshing out a specific town, or just 
-mentioning rumors, organizations you might work for or against, or the things you might want to see; would
-you rather be exploring ruined castles, saving isolated villages, or tracking a murderous vampire in a busy 
-city? Do you want your character to work for a wider hunter order – what are its goals? Is your character 
-hunted by someone or something, or are they hunting a specific creature themselves? You should work this 
-out while choosing your playbook and working on your character, so they all tie together.
-For character creation, none of the playbooks in Beneath a Cursed Moon are so similar that you wouldn’t 
-want to use them both in one game. However, you probably won’t want to use two of the same playbook in 
-one game – work with the other players to make sure you’re not overlapping. You also might want to make 
-sure you have a good variety of specialties, especially across the investigation moves – having someone to 
-cover each investigation task well if needed always helps. These worries aren’t ones of making sure the game 
-works – if you have a group of all Vampires, or if nobody is good at the Interview move, you can still play 
-just fine – but instead are about spotlight and focus. If your group is all good at different things, you don’t 
-have to worry about stepping on each others’ toes, and you’ll all have your time to shines.
-When starting out, it’s likely ideal if all your characters know each other to start, and work together. This is 
-especially important with characters who could be considered monstrous or evil until you get to know them.
-Work out party dynamics – how your vampire met the champion and the hunter, and what they all think of 
-each other – ahead of time. This also lets you talk over what might be most fun to roleplay out. Characters 
-who don’t trust each other, are rivals, are deeply in love, or have known each other from childhood are all 
-exciting hooks, and need both players to be on board.
-Playing the Game
-55
+# 遊戲進行
 
-Each playbook comes with a set of “quickplay backgrounds” - you don’t need to follow along with these, but 
-they give you some options of what your character might look like, come from, and why they work with the 
-other PCs. If there’s some detail you can’t narrow down, these can get you started.
-Investigation
-During investigation scenes, you should declare how you’re investigating (which move you’re doing), as well 
-as where, if applicable. This is when the PCs are most likely to split up, and pursue their own interests. When
-the PCs are apart, it’s important to keep any side stuff short. Don’t get yourself into a deep rabbit hole of side
-material on your own – this is a group game!
-The three main investigation moves – Poke Around, Interview, and Lore – all work similar. PCs roll their 
-moves, see how many holds you get, and use those holds to ask questions. The MC then answers those 
-questions, and the PC and MC collaborate on how that answer was obtained. Sometimes it’s simple – if 
-you’re using Lore to know the history of the place, that’s just something your character has picked up, or if 
-you’re using Poke Around to ask where someone went, you can find tracks or the like. Other times, the MC 
-will supply the information- like if a PC asks “What type of creature was it?” with Poke Around, the MC 
-might say you find fur, which you can identify as being from a werewolf. This is also room for an MC to ask a
-question back, if they want – if an Interview answer tells you that the bystanders you’re talking to are scared 
-of your character, you might be asked to provide why, or what mannerisms for them draw your attention to 
-their fear.
-Investigation holds can be carried from scene to scene, and shouldn’t be treated too strictly. Splitting holds 
-between two different monster attack locations, as long as it’s all part of one big investigation is fine. The MC
-might make you lose your holds when you’re moving between two very different places, or wait around too 
-long, however. If you use Interview to talk to people in a bar one night, you likely can’t use left over holds at 
-a fancy party the next night.
-When investigating, the big drawback is time. Every time the PCs perform an investigation move, time 
-passes. That’s bad, and PCs likely won’t know the specifics of why – but if there wasn’t an out of control 
-monster to deal with, then there wouldn’t be a need for them. Instead of an investigation move, there’s other
-actions available, including Patch Up to heal harm, Ritual Sorceries, or even just moving between far away 
-locations. All of these have to be balanced against a secret, ticking clock – you want to make sure you have all
-the right information, but you also don’t want to take so long there’s more victims. Monster hunting isn’t 
-easy!
-Combat
-As discussed in the Basic Rules chapter, in a fight, the MC describes the actions of monsters and bystanders, 
-and then the PCs get to declare and roll their moves. If the PCs don’t actually address what the monsters are 
-threatening to do, then the monsters get away with it.
-Most of the time a PC will usually make one Battle, Knowledge, Resist Dark Magic, or Sorcery move as their 
-action. Sometimes, a Daring Action move will be made – either in addition to the other ones (usually to get 
-somewhere) or instead of (usually to achieve something, or perform some physical feat). Fighting against 
-and killing the monsters is fairly obvious, but when you’re trying to protect someone, using Battle to draw 
-attention to yourself or keep monsters away, Resist Dark Magic to ward monsters away, or Daring Action to 
-get the vulnerable out of the way are the usual methods.
-In combat, there’s no real set order to turns – go ahead and act in whatever way you like. If you want to let 
-the scholar go first so their knowledge can be useful to the rest of the group one turn, and then the hunter go
-first to see if they defeat the monster the champion is considering drawing the attention of – go for it.
-Playing the Game
-56
+無論是玩家或 MC，最重要的是讓所有人對「現在發生什麼」有共同理解。以下是實務建議。
 
-Rolling With It & When to Roll
-When you’re playing, not everything has to – or should – be heavily regulated. Act out your characters, and 
-only turn to the dice and investigation or combat actions when the situation calls for it. Most of the time, 
-you’ll just roll with the situation, only touching the dice if you come up to a situation where success or 
-failure is called into question, and interesting. Until then, just act out scenes as you like, moving the story 
-along.
-When you’re talking as your character, there’s a lot of different ways to do it, and you’ll slip between them 
-based on what’s natural – don’t think too hard about it. Talking in your character’s voice, talking in terms of 
-“I tell them…”, or narrating what your character does by name are all appropriate to different scenes, as you 
-see fit. If you want to buy something mundane from a store, you can just narrate that you buy it – you don’t 
-have to play out that conversation, or roll any dice. But if you’re trying to get a rare herb for a ritual, you’ll 
-need to roll Convince first – and then maybe play out the result in conversation. Fit how you’re treating a 
-specific scene to how interesting and important it is to you, and you’ll soon find this all flows naturally.
-Playing the Game
-57
+## Session Zero
+
+如果你要開始跑《詛咒月影》（尤其是長期戰役），強烈建議先做一次 Session Zero。
+
+Session Zero 典型會討論：
+
+- 這團想玩出什麼感受
+- 每人想扮演什麼角色
+- 角色彼此如何認識
+
+即使你沒時間開完整前置會，也至少應先思考這些核心項目。
+
+### 先談期待
+
+第一個主題應是「我們想從這款遊戲得到什麼」：重戰鬥、重戲劇、重人物關係衝突，或其他重點。玩家不必完全同調，但要彼此知道大家在乎什麼，才能設計出每個人都玩得開心的節奏。
+
+其中最關鍵的，是先談恐怖與暴力描寫的舒適邊界：可接受到什麼程度、哪些內容要淡化或避開。這些邊界會隨遊戲推進而改變，所以請把它視為持續對話，而不是一次定案。
+
+### 再談世界與角色
+
+設定與角色是一起成形的。MC 可能已有明確場景與主軸，也可能只給方向。無論哪種情況，團隊都應共同決定想看到的內容：
+
+- 要探索廢墟城堡，還是守護偏遠村落？
+- 要在繁華城市追獵連環吸血鬼？
+- 角色是否隸屬某個大型獵人組織？該組織的目標是什麼？
+- 角色是被誰追獵，或正追獵哪個特定目標？
+
+這些最好在選扮演書與塑造角色時一起決定，讓人物動機與世界觀自然扣合。
+
+### 扮演書重疊與隊伍分工
+
+本作不同扮演書並不衝突，通常可同團共存；但一般不建議同團重複同一扮演書。
+
+這不是「不重複才玩得下去」，而是「不重複更容易有聚光」。如果每個人專長不同，就不容易互搶定位，也更容易讓每位玩家有發光時刻。
+
+同理，調查向動作最好有人各自擅長。當然，全團都是吸血鬼、或沒人擅長訪談詢問，遊戲仍能成立；只是挑戰會落在不同地方。
+
+### 先建立隊伍關係
+
+開局時，通常讓角色彼此已認識且願意合作會更順，尤其是那些在陌生人眼中「像怪物或像壞人」的角色。
+
+例如先談好：吸血鬼如何認識勇士與獵人？彼此如何看待對方？
+
+這也能讓你們預先確認想玩的角色關係鉤子：互不信任、競爭關係、深愛、青梅竹馬等。這類張力最有趣，但前提是雙方玩家都同意且願意共演。
+
+### 快速背景的用途
+
+每份扮演書附的「快速背景」是加速器，不是限制。
+
+當你卡在細節（外觀、出身、為何同行）時，快速背景很適合拿來起手。
+
+## 調查
+
+在調查場景中，請先宣告：
+
+- 你要怎麼查（使用哪個動作）
+- 若有需要，在哪裡查
+
+這是 PC 最常分頭行動的階段。分頭沒問題，但請避免某人長時間陷入支線深坑，讓其他人無事可做。這是團體遊戲。
+
+三個主調查動作（四處探查、訪談詢問、通曉傳說）流程近似：
+
+1. 擲骰
+2. 取得掌握
+3. 花掌握提問
+4. MC 回答
+5. PC 與 MC 共同敘述你如何拿到答案
+
+有時答案很直覺：你用通曉傳說得知地方史，或用四處探查找到去向痕跡。
+
+有時答案是 MC 提供線索：例如你問「是什麼生物？」，MC 回答你找到毛髮，可判定是狼人。
+
+MC 也可以反問，讓你補完敘事。若訪談結果顯示平民怕你，MC 可能請你描述：是哪些行為、語氣或反應讓你察覺。
+
+### 掌握可跨場景，但不是無限期
+
+調查掌握可在同一大型調查中跨場景使用，不必過度僵硬。兩個怪物案發點間共享掌握通常合理。
+
+但若你移動到完全不同場域，或拖太久，MC 可判定掌握失效。例如你昨晚在酒館訪談取得的掌握，隔晚未必還能直接套用在貴族晚宴。
+
+### 調查的核心代價是時間
+
+每一次調查動作都會讓時間前進。這通常是壞事，雖然 PC 未必立刻知道具體後果。
+
+若沒有失控怪物，根本不需要調查。正因怪物還在行動，你才必須在「查得更完整」與「別讓更多受害者出現」間取捨。
+
+你也可把調查行動改做其他事，例如治療休養、儀式巫術、或長距離移動。這些都要對抗同一個祕密倒數計時。
+
+怪物狩獵從來不輕鬆。
+
+## 戰鬥
+
+如基本規則所述：
+
+1. MC 先描述怪物與平民行動
+2. PC 宣告並擲自己的動作
+
+若 PC 沒有真正處理怪物當前威脅，怪物就會如願完成行動。
+
+常見情況是 PC 一回合做一個主要動作（浴血奮戰、理解戰況、抵抗黑魔法、巫術）。有時會額外做大膽行動（通常是移動或完成體能目標），也可能直接以大膽行動取代主要動作。
+
+「打怪」當然直觀，但若目標是保人，常見手段是：
+
+- 用浴血奮戰拉仇恨或擋位
+- 用抵抗黑魔法驅離目標
+- 用大膽行動先把脆弱者撤離
+
+戰鬥沒有硬性回合順序。你們可以自由安排誰先行動，只要全團覺得合理且有戰術價值。
+
+## 何時該擲骰
+
+遊戲不需要把每一件事都規則化。多數時候先演、先說，只有當「成敗有懸念且值得關注」時才拿骰子出來。
+
+角色說話也有很多自然形式：直接角色口吻、敘述「我跟他說……」、第三人稱描述都可以。依場景重要性決定演出密度就好。
+
+例如買一般物資可直接敘述，不必擲骰；但若你要在壓力下取得罕見儀式草藥，就可能要先擲說服，再把結果演出來。
+
+當你開始用「場景的重要度」決定規則介入深度，整體節奏會很自然。

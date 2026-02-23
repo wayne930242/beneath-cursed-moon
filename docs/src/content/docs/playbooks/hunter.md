@@ -5,154 +5,94 @@ sidebar:
   order: 6
 ---
 
-Hunter
-There are many who wander as expert monster hunters. They’ve learned every trick for tracking all sorts of 
-creatures down and putting them to rest. Chances are they’ve had some sort of terrible run-in that set them 
-down this path, and there’s always older hunters willing to mentor the next generation. Maybe it’s even in 
-their blood.
-Bonus
-Moves
-+3
-Battle
-Knowledge / Lore
-Resist Dark Magic
-+2
-Poke Around / Hunt
-Interview / Convince
-+2
-Daring Action
-+0
-Sorcery
-Assign +1, +1, and +0 to the remaining Moves.
-Basic Abilities
-Light 
- 
- Armor:
- 
-  You own a suit of light leather or mail
-armor that provides 1 armor when worn.
-On the Trail: After using the Poke Around move to ask
-a question about a monster, you gain +1 Forward to your
-next Hunt move against this monster. You cannot gain
-more than +1 Forward against a single monster from this ability.
-Signature Weapon: You begin play with a magical weapon. At your choice, it or its ammo is made of
-  iron or  silver, and the weapon is either  flaming or  soulbound. Choose one from the list below:
-
-
-
-
- 
-Battle Axe or Claymore (4 harm, close)
- Chain Whip or Spear (4 harm, reach)
-
- Crossbow, longbow, or musket (4 harm, ranged)
-
-Slayer: You have one type of monster you know a lot about – maybe they’re the ones you’ve primarily 
-trained against, maybe they killed your family and burned your village, or maybe just a touch of magic is in 
-your bloodline compelling you against them. Choose one type of monster: Abominations, Beasts, Demons, 
-Fey, or Undead. You gain +1 Ongoing to your Knowledge, Lore, and Resist Dark Magic moves when used 
-against these creatures, and when you use Lore when investigating these creatures, you get the answer to 
-“What type of creature was it?” for free, without spending a hold. In addition, choose one item from the 
-Tools of the Trade list that’s relevant to that type – you always have it on hand.
-Playbooks
-31
+# 獵人（Hunter）
 
-Tools of the Trade: You have a bag of items you can rely on. Twice per adventure, you can produce any item 
-on this list. Anything that comes in multiples (like arrows or throwing daggers) is enough for one person to 
-keep on-hand and keep using:  silver throwing knives (3 harm, throwable, silver),  iron throwing axes (3 
-
-
-harm, throwable, iron),  a hidden dagger (3 harm, close, concealed, iron),  an heirloom blade (3 harm, 
-
-
-close, soulbound),  a heavy torch (3 harm, close, fire),  iron or silver ammo,  a flaming emblem (warding 
-
-
-
-tool),   an iron emblem (warding tool),   a silver emblem (warding tool),  a soulbound emblem (warding 
-
-
-
-tool).
-Advanced Abilities
- 
-Backup Weapon: Choose and gain a second Signature Weapon. You own it, or your signature weapon can 
-transform into it with a flick of the wrist.
- 
-Bigger Bag: You can pull two more item from your Tools of the Trade a day. In addition, add the following
-items to the list:  poisoned knives (2 harm ignores 
-
-armor, throwable, only vs living creatures),  oil flasks (2 
-
-harm, ranged, fire, target takes 1 harm ignores armor per action until put out),  a vial of distilled souls 
-
-(makes a weapon soulbound for one scene),  a vial of flaming oil (makes a weapon flaming for one scene). 
-
- 
-Create Opening: You gain +1 Forward to your next Battle move against any creature you’ve successfully 
-warded away using a Resist Dark Magic move, or successfully resisted the effects of a power from using 
-Resist Dark Magic.
- 
-Magic in the Blood: Choose a sorcery type attached to one of the monsters your Slayer bonus is associated
-with; Astral (Abominations), Infernal (Demons), or Necromancy (Undead), or for Fey, any. Your bonus to 
-Sorcery moves of that type is now +2, and you can use your Tools of the Trade to produce a combat spell 
-scroll or ritual sorcery scroll for that school.
- 
-Mentor: Whenever you produce an item through Tools of the Trade and give it to another person, you 
-also have another of that item – for yourself, or to hand out as well. In addition, whenever you gain +1 
-Forward for any reason, you can instead choose to give it to another character, with the same restrictions 
-and uses on the bonus.
- 
-Reputation: You’re well known and experienced as a monster hunter – your Slayer bonus now applies to 
-Convince or Interview moves when getting bystanders to help against any monsters you’re a Slayer of, as 
-well as Poke Around and Hunt moves against said monsters.
- 
-Slayer of Many: Choose an additional monster type to be a Slayer of.
- 
-Stench of Evil: Whenever you use the Interview move, you can spend a question to ask “Is the person I’m 
-talking to a monster?”. If they’re a type of monster you’re a Slayer of, you’re told what type they are.
- 
-Unstoppable Pursuit: You gain +1 Forward to any Daring Action moves in order to chase, reach, or 
-otherwise get to someone for you to fight, and you can always choose to suffer 1 Harm (ignores armor) as the
-drawback from such a move. In addition, your Slayer bonus applies on Daring Action when trying to reach 
-one of your chosen enemies.
- 
-Gain +1 Knowledge/Lore
- 
-Gain +1 Resist Dark Magic
- 
-Gain +1 Interview/Convince
-Playbooks
-32
+世上有許多專業怪物獵手四處奔走。他們熟知追跡與狩獵各類生物的技巧，並懂得如何讓威脅徹底安息。多數獵人都曾遭逢慘烈事件才走上這條路，也常有老獵人願意提攜後輩；有時這甚至是家族傳承。
 
-Quickplay Background
-Your hunter’s outfit is:
- a long cloak stained with mud.
-
- a nobleman’s outfit, worn from the road.
-
- a cuirass and 
-
-armored skirt.
-Monster hunting has become your life because:
- of your need for revenge on the creatures that killed your family.
-
- your bloodline has always done so.
-
- it’s a living.
-
-You joined up with the other hunters because:
- you shared the same mentor.
-
- you taught one the art of the hunt.
-
- you saved one from a monster attack.
-
- your families have always worked together.
-
- you worked together to hunt the same monster.
-
- you mistakenly thought one was a monster you needed to kill.
-
-Playbooks
-33
+## 加值
+
+- 浴血奮戰：`+3`
+- 理解戰況／通曉傳說：`+2`
+- 抵抗黑魔法：`+2`
+- 四處探查／追獵：`+2`
+- 訪談詢問／說服：`+0`
+- 大膽行動：`+0`
+- 巫術：其餘分配 `+1、+1、+0`
+
+## 基礎能力
+
+### 輕甲（Light Armor）
+
+你擁有一套輕皮甲或鎖甲，穿著時提供 `1 護甲`。
+
+### 追跡在手（On the Trail）
+
+當你用四處探查對某怪物提問後，你對該怪物下一次追獵獲得 `+1 單次加值`。同一怪物最多只能由此能力獲得 `+1`。
+
+### 招牌武器（Signature Weapon）
+
+開局時你擁有一把魔法武器。你可指定武器本體或彈藥材質為**鐵**或**銀**，且武器性質為**火焰**或**靈魂繫結**。擇一：
+
+- 戰斧或雙手大劍（`4 傷害`，近距離）
+- 鏈鞭或長矛（`4 傷害`，觸及）
+- 十字弓、長弓或火槍（`4 傷害`，遠端）
+
+### 剋星（Slayer）
+
+選擇一類你特別熟悉的怪物：畸變體、野獸、惡魔、妖精、不死族。
+
+當對抗該類目標時：
+
+- 你的理解戰況、通曉傳說、抵抗黑魔法獲得 `+1 持續加值`
+- 調查該類怪物時，以通曉傳說可免費得到「這是什麼類型生物？」答案
+- 另外，從「行家工具」清單挑一件與該類相關物品，視為你總是隨身攜帶
+
+### 行家工具（Tools of the Trade）
+
+每次冒險可 **2 次** 從下列清單直接拿出任意一項。多件型物品（如箭、飛刀）視為足夠一人持續使用：
+
+- 銀製投擲匕首（`3 傷害`，可投擲，銀）
+- 鐵製投擲斧（`3 傷害`，可投擲，鐵）
+- 隱藏匕首（`3 傷害`，近距離，隱蔽，鐵）
+- 傳家短刃（`3 傷害`，近距離，靈魂繫結）
+- 重型火炬（`3 傷害`，近距離，火焰）
+- 鐵或銀彈藥
+- 火焰徽記／鐵徽記／銀徽記／靈魂繫結徽記（防護工具）
+
+## 進階能力
+
+- **備用武器（Backup Weapon）**：再獲得一把招牌武器；或你的招牌武器可快速切換為另一型態。
+- **大容量工具袋（Bigger Bag）**：每次冒險可額外再取 2 次行家工具，並追加清單項目：毒刀、油瓶、蒸餾靈魂液、燃油瓶。
+- **創造破口（Create Opening）**：當你成功以抵抗黑魔法驅離怪物，或成功抵抗其特殊效果後，你對該怪物下一次浴血奮戰獲得 `+1 單次加值`。
+- **血脈魔法（Magic in the Blood）**：依你剋星對應選一系巫術（畸變體=星界、惡魔=地獄、不死族=死靈；若是妖精可任選），該系巫術升為 `+2`，且你可用行家工具取出該系戰鬥／儀式卷軸。
+- **導師（Mentor）**：你透過行家工具給他人的物品，你自己也會多一份。此外，任何你本可獲得的 `+1 單次加值`，可改給他人（限制條件不變）。
+- **名聲（Reputation）**：你的剋星加值可套用在對該類怪物相關的說服／訪談詢問、四處探查、追獵。
+- **多重剋星（Slayer of Many）**：再選一種剋星怪物類別。
+- **邪氣嗅覺（Stench of Evil）**：你在訪談詢問可花 1 問題詢問「我面前這人是不是怪物？」若該目標屬於你剋星類別，會直接告知其種類。
+- **窮追不捨（Unstoppable Pursuit）**：為追上、接近、攔截目標而做大膽行動時獲得 `+1 單次加值`，且可固定選擇「承受 1 傷害（無視護甲）」作為代價。對你選定剋星做此類追擊時，剋星加值也適用。
+- **理解戰況／通曉傳說 +1**
+- **抵抗黑魔法 +1**
+- **訪談詢問／說服 +1**
+
+## 快速背景
+
+你的獵手裝束是：
+
+- 沾滿泥土的長斗篷
+- 旅途磨損的貴族服飾
+- 胸甲與護裙
+
+狩獵怪物成為你人生重心是因為：
+
+- 你要向殺害家人的怪物復仇
+- 這是家族世代之責
+- 這是你的生計
+
+你與其他獵手結隊是因為：
+
+- 你們師承同一位導師
+- 你曾教過其中一人狩獵技術
+- 你曾在怪物襲擊中救過其中一人
+- 你們家族一直有合作
+- 你們曾追同一頭怪物
+- 你曾誤把其中一人當成獵殺目標

@@ -5,132 +5,92 @@ sidebar:
   order: 10
 ---
 
-Vampire
-Cursed with undeath, vampires require blood to survive, and are driven to prey on others. Some are strong
-enough to fig ht against this curse – or may have some help – and so retain some essence of their humanity.
-The y still feel the call to feed, but fig ht against it, and use
-the dark powers granted to them as best they can. 
-Bonus
-Moves
-+2
-Battle
-Knowledge / Lore
-+0
-Resist Dark Magic
-Poke Around / Hunt
-+2
-Interview / Convince
-Daring Action
-+0
-Sorcery
-+2
-Necromantic Sorcery
-Assign +1, +1, and +0 to the remaining Moves.
-Basic Abilities
-Armaments: You own a suit of light leather or chain
-armor (1 armor) and one of:
- a fine duelist’s sword (4 harm, close, iron)
-
- a spear (4 harm, reach, iron)
-
-Blood Points: The curse of vampirism leaves you craving the blood of the living, which drives and 
-empowers you. You begin each adventure with 3 blood points, which can be used on various abilities down 
-to your minimum of 0. You can spend 1 blood point to gain +1 Forward to any move. You cannot spend any 
-blood points in direct sunlight, but may do so in the shade or in a sunless room. If a move tells you to set 
-your blood points to a specific value, you only do so if your current blood points are lower.
-Fangs: You have a set of sharp fangs (3 harm, close) which can be used to drain blood from others. Whenever
-you deal harm with your fangs, set your blood points to be equal to the harm dealt (after armor). If you’re 
-trying to drink the blood of a willing or helpless creature, use Shared Blood, instead.
-Playbooks
-43
+# 吸血鬼（Vampire）
 
-Shared Blood: You can drain blood points from a helpless or willing creature. Choose how much harm you 
-want to deal ahead of time – this damage ignores armor. Set your blood points to be equal to the amount of 
-harm you deal. When you have no blood points and use Shared Blood, you must declare how much you 
-want to drink and then roll a move at no bonus. On 6 or below, you deal 2 more harm (and gain 2 more 
-blood points) than you intended. On a 7-9, you deal 1 more Harm (and gain 1 more blood point) than you 
-intended. On a 10 or above, you feed as you want.
-Unholy Magic: You know all necromantic combat sorcery, and once per adventure can produce a ritual 
-sorcery spell without the help of any scroll or outside source.
-Advanced Abilities
- 
-Beast Form: By spending one blood point, you can shapeshift into a wolf or bat. As a wolf you gain +1 
-ongoing to Poke Around and Hunt moves, and retain your fangs. As a bat, you can fly as fast as you can 
-normally run, but cannot make any attacks. You cannot speak, wear armor, or use most items and weapons 
-in either form, but anything you carry melds into your new form. Turning back into human form does not 
-take any blood points.
- 
-Blood of Life: You can draw upon your undeath to heal your wounds. You can spend 1 blood point to 
-recover 1 Harm. As a combat action, you can also have others drink your blood, healing them 1 Harm for 
-each 1 Harm you suffer.
- 
-Cloak of the Night: The darkness surrounds and protects you. Whenever you are completely isolated from
-the sun – be it night, you’re deep underground, or in a windowless room – you gain 1 armor that is ignored 
-by soulbound weapons. You can also see perfectly in even the deepest darkness.
- 
-Darkly Charming: You have a supernatural allure. Whenever you use the Interview move to get 
-information out of someone, you get +1 Ongoing on Convince moves against that person. You can use the 
-Convince move to convince people to let you drink their blood, and as long as you don’t kill them, they’ll 
-find it pleasant enough to come back for more.
- 
-Fangs Out: Whenever you attack an opponent who is unaware of you, or you have a Forward to your Battle
-move from an ally’s action, your fangs improve to being 4 harm.
- 
-Form of Mist: By spending a blood point, you can shift into a cloud of mist, allowing you to fly through 
-the air and through tiny cracks. As a cloud of mist, you can fly as fast as you can normally walk, cannot make 
-any sort of attacks, and cannot be harmed except by fire.
- 
-Hunt for Blood: You have learned how to hunt for wildlife to sate your hunger. As an investigation action, 
-make a Hunt move, with +1 Ongoing if it’s night. On a 6 or below you fail to find anything to drain. On a 7-9, 
-you find small wildlife; set your blood points to 2. On a 10-12, you managed to hunt and consume a deer, or 
-similar sized animal; set your blood points to 3. On a 13+, you gorge yourself on large prey; set your blood 
-points to 4.
- 
-Hypnotic Gaze: You can hypnotize creatures who look into your eyes, making them easy prey. When you 
-use Hypnotic Gaze, make a move using your Convince bonus. On a 6 or below, your attempt to hypnotize 
-the target is obvious to them. On a 7-10, you can hypnotize one person or beast minion for as long as you 
-take no other actions. On a 10-12, you can distract one person or beast minion for several minutes after you 
-stop focusing, or a warrior for as long as you take no other action. On a 13+, you lull a person or beast minion
-into a trance that is only broken after several hours, or a warrior for several minutes. You gain +1 Forward to
-Battle and Convince moves against creatures you’ve hypnotized. Any harm dealt to a hypnotized creature 
-breaks the effect.
-Playbooks
-44
+受不死詛咒者，必須以鮮血維生，並被本能驅使去獵食他人。有些吸血鬼足夠堅強，能與詛咒對抗（或得到他人協助），因此仍保有一部分人性。他們依舊會被飢渴召喚，卻選擇壓抑衝動，把黑暗賦予的力量用在自己能接受的方式上。
 
-Sanguine Strength: Whenever you have 2 or more blood points, and spend a blood point to gain +1 
-Forward, you instead get +1 Ongoing to that move (and just that move) for the rest of the scene, or until your 
-blood points drop to 0.
- 
-Gain +1 Knowledge/Lore.
- 
-Gain +1 Poke Around/Hunt.
- 
-Gain +1 Daring Action.
-Quickplay Background
-You are dressed in:
- a noble’s outfit, with long cloak, suiting your old status.
-
- simple peasant garb, that you wore when you were attacked.
-
- a long hooded robe, to protect you from the sun and hide your hideous visage.
-
-The vampire who sired you:
- is dead – you saw to it.
-
- you have no knowledge of. 
-
- is out there somewhere, and you’ll find them. 
-
- was killed by another one of the heroes, for which you’re thankful.
-
-You managed to fight against the curse and retain your humanity because:
- you were born from a woman turned vampire when pregnant. 
-
- one of your parents was fully mortal.
-
- you were saved before you were made a vampire fully. 
-
- a powerful necromancer gave you a soul.
-
-Playbooks
-45
+## 加值
+
+- 浴血奮戰：`+2`
+- 理解戰況／通曉傳說：`+0`
+- 抵抗黑魔法：`+0`
+- 四處探查／追獵：`+2`
+- 訪談詢問／說服：`+0`
+- 大膽行動：`+0`
+- 巫術：`+2`
+- 死靈巫術：`+2`
+- 其餘動作分配：`+1、+1、+0`
+
+## 基礎能力
+
+### 武裝（Armaments）
+
+你擁有一套輕皮甲或輕鍊甲（`1 護甲`），並持有下列其一：
+
+- 精製決鬥劍（`4 傷害`，近距離，鐵）
+- 長矛（`4 傷害`，觸及，鐵）
+
+### 血點（Blood Points）
+
+吸血詛咒讓你渴求活血，也以此驅動你的力量。每次冒險開始時你有 `3 血點`，可在能力中消耗，最低可降至 `0`。
+
+你可花 1 血點使任一動作獲得 `+1 單次加值`。在「直射日光」下不能花血點，但在陰影或無日照室內可以。
+
+若某能力要求你把血點設為某個值，只有當你當前血點較低時才會上調。
+
+### 尖牙（Fangs）
+
+你有一對利牙（`3 傷害`，近距離），可用於吸血。當你用尖牙造成傷害時，將血點設為「實際造成傷害（扣護甲後）」的數值。
+
+若你要從自願或無力反抗目標身上進食，請改用「共享鮮血」。
+
+### 共享鮮血（Shared Blood）
+
+你可從自願或無力反抗目標吸血。先宣告你要造成多少傷害（此傷害無視護甲），再把血點設為造成傷害數值。
+
+當你血點為 `0` 且使用共享鮮血時，需先宣告欲吸取量，再以無加值擲骰：
+
+- `6 以下`：你比預期多吸 2（多造成 2 傷害並多得 2 血點）
+- `7-9`：你比預期多吸 1
+- `10+`：你可精準控制吸取量
+
+### 邪祟魔法（Unholy Magic）
+
+你知曉所有死靈系戰鬥法術，且每次冒險 1 次可在無卷軸與外援下施放儀式法術。
+
+## 進階能力
+
+- **獸形（Beast Form）**：花 1 血點可變成狼或蝙蝠。狼形：四處探查／追獵 `+1 持續加值`，可用尖牙。蝙蝠形：可飛行（速度約等同平時奔跑），但不能攻擊。兩種形態都不能說話、穿甲或使用多數物品武器；攜帶物會融入形態。變回人形不需血點。
+- **活血回生（Blood of Life）**：花 1 血點回復 1 傷害。作為戰鬥行動，你也可讓他人飲你之血：你每承受 1 傷害，對方回復 1 傷害。
+- **夜幕披風（Cloak of the Night）**：當你完全隔絕陽光（夜晚、深地下、無窗室）時，獲得 `1 護甲`（會被靈魂繫結無視），並可在最深黑暗中清晰視物。
+- **暗魅（Darkly Charming）**：你具超自然魅力。當你用訪談詢問從某人取得資訊後，對該目標的說服獲得 `+1 持續加值`。你可用說服讓對方同意你吸血；只要你不殺他，對方甚至會把這種體驗視為「可接受」。
+- **利牙外露（Fangs Out）**：當你攻擊未察覺你存在的目標，或你因同伴協助而使浴血奮戰獲得單次加值時，你本次尖牙傷害提升為 `4`。
+- **霧化（Form of Mist）**：花 1 血點可化為霧，能飛行並穿過縫隙。霧形速度約等同行走；不能攻擊；僅火焰可傷你。
+- **獵血（Hunt for Blood）**：作為一次調查行動擲追獵（夜間另有 `+1 持續加值`）。`6 以下`：找不到可吸取目標；`7-9`：只能吸小型獵物，血點設為 2；`10-12`：可獵得鹿等中型獵物，血點設為 3；`13+`：可大快朵頤大型獵物，血點設為 4。
+- **催眠凝視（Hypnotic Gaze）**：你可催眠與你對視者。以說服擲骰：`6 以下` 催眠意圖被看穿；`7-10` 可催眠 1 名人類或野獸僕役（你不做其他行動時維持）；`10-12` 可讓 1 名人類或野獸僕役在你停止專注後仍受影響數分鐘，或讓衛士在你專注期間受制；`13+` 可讓人類或野獸僕役進入長時間恍惚，或讓衛士恍惚數分鐘。你對已催眠目標的浴血奮戰與說服獲得 `+1 單次加值`。任何對其造成傷害都會解除催眠。
+- **血性之力（Sanguine Strength）**：當你血點 `>=2` 且花 1 血點獲得 `+1 單次加值` 時，可改為該動作在本場景內獲得 `+1 持續加值`（僅該動作類型），直到場景結束或血點降至 0。
+- **理解戰況／通曉傳說 +1**
+- **四處探查／追獵 +1**
+- **大膽行動 +1**
+
+## 快速背景
+
+你的穿著是：
+
+- 與過去身分相襯的貴族衣著與長披風
+- 遭襲時就穿著的樸素平民服
+- 遮陽與藏相用的連帽長袍
+
+把你變成吸血鬼的始祖：
+
+- 已被你親手處理
+- 你完全不知其下落
+- 仍在某處，你終會找到
+- 被另一名英雄殺死，而你對此心存感激
+
+你能對抗詛咒、保住人性的原因：
+
+- 你是「孕期轉化吸血鬼」所生
+- 你其中一位父母是完全凡人
+- 你在完全轉化前被救下
+- 一名強大死靈法師替你補回了靈魂

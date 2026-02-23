@@ -5,266 +5,168 @@ sidebar:
   order: 3
 ---
 
-Militia
-Type: Minion
-Max Harm: 3
-Armor: 1
-Attacks: Basic sword, spear, or axe (2 harm, close, iron) or longbow, crossbow, or musket (2 harm, ranged, 
-iron)
-Attack Effects: 1
-Militia are anyone who has at least some training and gear to fight with. The local trappers, soldiers, and 
-bandits all count as militia. They can hold their own in a fight against the weakest of minions, but are likely 
-to suffer heavy casualties taking on serious threat.
-Abominations
-Abominations are the twisted, otherworldly horrors that corrupt that which they touch. They wait where 
-none can reach them – deep underground, beneath the waves, or high in space – lurking and growing.
-Abominations are connected to the astral plane, and have no shared weaknesses as a whole, but many need 
-to be burned to be killed, and those connected to the moon and tides are often weak to silver.
-Many abominations are based on the works of H.P. Lovecraft, and that needs to be addressed. Lovecraft’s 
-stories were often hideously racist in all sorts of awful ways, none of which you’d actually want to ever use in 
-your game. However, ideas from his work have entered larger fiction, and been reinterpreted heavily. The 
-Universal Monsters would be incomplete without the Gill Man, Castlevania’s waterway sections would feel 
-empty without the merman, and including any of those would invite comparisons to Deep Ones. That 
-doesn’t mean the inclusion of such should be done lightly, however. There’s a few things that you want to 
-avoid when running Beneath a Cursed Moon. For starters, there’s no “secret tainted bloodlines” or the like – 
-there’s no people with “dilute” abomination blood that turns them evil, but rather people sickened from 
-coming into contact with disease, or a willing descent into evil. Cults dedicated to abominations (and other 
-dark gods) shouldn’t be portrayed as backwater, “primitive”, or racially focused – cults are just composed of 
-normal people, who have been pulled into doing horrible things in exchange for their desires being met – 
-be they power, riches, belonging, or just basic needs. Abomination cults are everywhere, and those who are 
-already well off can be easily manipulated into further greed. There’s plenty of powerful, influential people 
-to look at in the real world who use a devotion to religion and promises of salvation as a way to power in a 
-way that ruins the lives of their followers and those around them. And finally, “madness” from witnessing 
-things is an overplayed, overdone trope – this game doesn’t have a “sanity” stat for a reason. While the game 
-does play with maddening dreams and forbidden knowledge, these should be seen as a cause of normal, 
-human stresses. Feelings of powerlessness, paranoia, and despair are important aspects to horror, “going 
-crazy” for seeing one too many tentacles isn’t. The Consuming Consciousness in particular represents a 
-horror that the world is dying, and there’s nothing that can be done to stop it that should be familiar to the 
-modern reader.
-Compared to the other types, abominations are some of the most diverse. There’s a lot of ways you can have
-them originate, but here are some suggestions that play off of classical ideas, keeping in mind you likely 
-want multiple sources for abominations in your game:
-Monsters
-78
+# 畸變體（Abominations）
 
-The great Dreaming Hydra has slumbered for ages in the deepest parts of the sea. When those suffused with 
-astral magic sleep, they dream the Hydra’s dreams, seeing visions of cities long sunken beneath the waves. 
-The Hydra calls to them, promising rewards for their service. The most devout of the cultists of the Hydra 
-have been granted eternal life and great power, but have their will forever shackled to their master – and 
-now, they seek to bring others into their embrace. For if enough of their voices raise up together, the 
-Dreaming Hydra will awaken, and they will become masters of the new, flooded world.
-Sealed within the earth is a malignant growth, known as the Consuming Consciousness. The origins of it are 
-unclear – some think it came on a rock from space, burrowing deep as it crashed; others think it was there 
-all along, growing and festering, possibly even feeding off of sin. The Consciousness bubbles up from 
-underground, taking many forms, such as a putrid fungus, a thick oily black liquid, twisted and writhing 
-flesh, or a choking, hazy fog. But all of the forms have the same toxic effect, poisoning, twisting, and warping
-whatever they touch. Living creatures mutate, and have their mind dissolved away – those who succumb say 
-they hear the Consciousness speak to them, millions of unceasing whispers constantly tormenting them. 
-Over time, their brain is eaten away and replaced by black goo, their old selves dying, and they become little 
-more than rabid animals. Even if they are recognizable past their mutations, hopefully nothing of the 
-original mind persists – the Consciousness is entirely in control. Person, animal, even plant, no living thing 
-is immune to it’s touch. Despite this horror, some welcome the Consuming Consciousness – they see the 
-eventual fate of the world to be swallowed by it, and so give worship to it with foul rituals. For it’s part, the 
-Consciousness rewards them – they hold onto their minds, even as they lose their bodies, their thoughts and
-voices joining the cacophony eternally.
-Consciousness Made Flesh
-Type: Abomination Lord
-Max Harm: 15
-Armor: 3 (1 vs fire)
-Attacks: Tentacles and bites (4 harm, close)
-Attack Effects: 2
-Burning Acid: Any wooden or other
-organic weapons that come into contact
-with the Consciousness Made Flesh melt
-away. Any living creature grabbed by it or
-who strikes it unarmed suffers 1 harm
-(ignores armor).
-Consume: The Consciousness Made Flesh
-can pull victims into its fleshy body, and
-absorb their life as they melt away. If the
-Consciousness grabs a victim, on its next
-action it can use an action to pull it into its
-body, whereupon the victim is helpless and
-suffers 2 harm (ignores armor)
-immediately, and every time the
-consciousness acts thereafter. A consumed
-victim can be saved by dealing 2 harm at once with a sharp weapon capable of puncturing the 
-Consciousness, but the resulting acidic splash deals 2 harm (ignores armor) to the rescuer.
-Monsters
-79
+## 民兵（Militia）
 
-Poisoned Ground: The area around the Consciousness Made Flesh is poisoned and lifeless. Anyone who 
-spends more than a day in an area poisoned by the Consciousness finds that their wounds do not heal, and 
-food and water tainted from it leave the eater hungry shortly after consumption.
-A Consciousness Made Flesh is the – hopefully, end – result of a growth of the Consuming Consciousness. 
-The mass of living creatures fed to the Consciousness creates an uprooted mass of flesh, constantly secreting
-a searing acid, and able to wander and find an a new, life-filled place to corrupt. It appears as a 12-foot 
-diameter giant blob of gelatinous flesh, with a thin membrane that has eyes and limbs within pushing up 
-against it. Its skin parts to show soon-disappearing mouths full of acid-dripping fangs, or twisting 
-appendages.
-Once a Consciousness Made Flesh finds a place sufficiently full of life to destroy, it settles, and begins to 
-poison the surroundings, creating new Consuming Growths and Flying Polyps. It spreads its poison as far as 
-it can, before uprooting and looking for a new area to taint. Killing the creature before the land is irrevocably
-poisoned with start the slow healing process.
-Corrupting Growth
-Type: Abomination Warrior
-Max Harm: 12
-Armor: 2 (0 vs fire)
-Attacks: Lashing tentacles (4 harm, reach)
-Attack Effects: 2
-Corruption: Anyone injured by the Corrupting Growth must succeed at a Resist Dark Magic move, and on 
-any result 9 or below they are corrupted by a black splotch on their skin. Corrupted characters heal an 
-additional harm any time they would heal harm, but the splotch spreads – keep track of the total additional 
-harm healed since becoming corrupted, and if it’s 10 or greater, they are lost to the Consuming 
-Consciousness. The corruption can be cured by burning it away – have the curer make a Lore move. On a 
-result of less than 12, the corrupted suffer harm equal to the extra harm they’ve healed since becoming 
-corrupted. On a 10+, they’re cured of the corruption.
-Corrupting Growths are “buds” of the Consuming Consciousness. Made from the twisted mess of animals 
-and plants in poisoned areas, they have no set shape – they stand 8 to 12 feet tall, and have a tangle of 
-countless legs that end in hooves, hands, plant stumps, and other various bits. The rest of their body is a 
-black, wrinkled mass of shifting flesh, with folds parting way to reveal fanged mouths, and tendrils reaching 
-towards the sky that give it the silhouette of a tree.
-The growths exist to spread the Consciousness, and do so slowly, poisoning the edges of the forests or mines 
-where they spawn, and slowly moving out. They are heralds – and worshiped as such by the Consciousness 
-devotees – of the spreading plague. When faced with people, a growth prefers to injure those it can, before 
-retreating deeper into its lair to let its corruption do its work.
-Monsters
-80
+- 類型：僕役
+- 最大傷害：3
+- 護甲：1
+- 攻擊：基礎劍、矛或斧（`2 傷害`，近距離，鐵）或長弓、十字弓、火槍（`2 傷害`，遠端，鐵）
+- 攻擊效果：1
 
-Flying Polyp
-Type: Abomination Minion
-Max Harm: 2
-Armor: 1 (0 vs fire)
-Attacks: Bite (1 harm, close)
-Attack Effects: 1
-Flying polyps are the weakest of growths of the Consuming Consciousness, and act as its scouts and first line 
-of defense. The polyps look like a mass of flesh two feet in diameter, split apart by a T-shaped mouth lined 
-with teeth like jagged rocks. Its wings are thin skin pulled across a bony frame, and need to beat constantly to
-keep it afloat.
-When the Consciousness has poisoned a new area, polyps bud from it, and fly through the area around it – 
-once scouted, the Consciousness growths in the direction of the most life. If anyone threatens the poisoned 
-land, a swarm of polyps descend on them and tear them apart, bringing the remains back – in chucks – for 
-rebirth into new creatures.
-Merfolk
-Type: Abomination Warrior
-Max Harm: 8
-Armor: 1 (0 vs silver)
-Attacks: Claws (3 harm, close), Poison Spit (2 harm, ignores
-armor, ranged), Tendrils of the deep spell (target is
-restrained by phantom tentacles and cannot move until
-they break free), Slumber spell (creatures who would be
-defeated by 4 harm total fall asleep)
-Attack Effects: 2
-Once human astral sorcerers, merfolk were mutated by
-their devotion to the Dreaming Hydra. Warped in the
-Hydra’s image, they now have a brightly colored body
-covered in slimy fish scales, as well as a fish’s head, webbed
-fingers and feet, and a long trailing back fin from neck to tail.
-Merfolk are able communicate to each other in the language of the Hydra, which no mortal can speak. 
-Merfolk can swim perfectly underwater, see in the deepest depths, and breathe both on land and on air. 
-They now serve as the center of the Hydra’s worship, and appear only to the most devoted of its followers, 
-who are already lost deep within the cult.
-Monsters
-81
+民兵泛指受過基本戰鬥訓練、也有基本裝備的人。地方獵人、士兵、盜匪都可歸在這一類。
 
-Scylla
-Type: Abomination Lord
-Max Harm: 15
-Armor: 3 (1 vs silver)
-Attacks: Snake heads (3 harm, reach), Dog heads (4 harm, close)
-Attack Effects: 2
-Multitude of Heads: Scylla can spend one attack effect to have the eel heads attack six different creatures 
-within their reach, and the dog heads attack one creature within theirs. Each head can choose a different 
-attack effect – two can bite, while another grabs, etc.
-An extremely rare creature, a Scylla comes about from a devout worshiper of the Dreaming Hydra 
-undergoing a special ritual that involves bathing in poisoned, stagnant water. Her mind becomes attuned to 
-the Hydra’s, and her body undergoes a slow, painful metamorphosis to its new form. While the upper body 
-remains the same, worm-like growths wriggle and burrow underneath its flesh, and extra sets of eyes push 
-their way out on the face. Its legs are transformed, and now look like its sit atop six giant snarling dog heads, 
-six long, thick tentacles ending in eyeless eel heads with rows and rows of teeth, and a mess of tentacles that 
-work like legs to move it about.
-Once transformed, the Scylla finds a hidden cave, or treacherous water pass to lurk in, devouring any who 
-come close to her lair, and spending the rest of her time communing with the Hydra, passing down its 
-secrets to her cult. They serve as oracles, and their lairs are a center for pilgrimages and offerings from the 
-Hydra’s cult.
-Slime
-Type: Abomination Minion
-Max Harm: 2
-Armor: 0
-Attacks: Burning touch (1 harm, close, ignores armor)
-Attack Effects: 1
-Slimes are barrel-sized semi-animate blobs of acid with a semblance of life. They’re sometimes secreted by 
-other monsters, produced in lab experiments, or born from poisoned water. Unable to think, a slime is 
-simply drawn to the nearest source of animal life to consume and burn away.
-Monsters
-82
+他們能勉強與最弱的僕役怪物抗衡，但若面對真正的重大威脅，通常會付出慘重傷亡。
 
-Spawn of the Depths
-Type: Abomination Lord
-Max Harm: 18
-Armor: 3 (1 vs silver)
-Attacks: Massive Fists (4 harm, reach), or Choking Mist
-(2 harm, ignores armor, group, ranged)
-Attack Effects: 2
-Psychic Wave: As an action, a Spawn of the Depths can
-unleash a terrible psychic wave over a huge area. All
-living creatures that are not its worshipers suffer 1
-harm (ignores armor), and take a -1 Forward to their
-next move.
-The Spawns of the Depths are one of the children of
-the Dreaming Hydra, and one of the most fearsome
-and terrifying of abominations. They stand nearly 30 feet high, and reek of rotting fish. Their hunched 
-forward bodies are shaped like a hairless great ape, with slimy, rough dark green skin covered in barnacles. 
-Their faces are as smooth and hairless as the rest of their bodies, with six dull yellow eyes, and a wide squid 
-mouth surrounded by grasping, hooked tentacles.
-Though countless are sleeping just as their mother is, the spawn are far easier to wake. Called to the shores 
-by the prayers of worshipers, there, the Spawn wait and grow in power. As they do so, their terrifying psychic
-waves slowly begin to spread – at first, just nearby and on a weekly basis, but soon several times a day across 
-the entire area as the Spawn is soon to wake – and when it does, it devours all those nearby, and takes its 
-worshipers back into the sea to become merfolk. If confronted, the spawn will not fight to the death – it will 
-retreat when injured, and dip into its coma to heal, until it is once again awoken by prayers. As common 
-targets of worship, statues and shrines of the Spawns are common among the Hydra’s cultists.
-Tainted
-Type: Abomination Minion
-Max Harm: 4
-Armor: 1 (0 vs fire)
-Attacks: Claws, teeth, or fists (2 harm, close)
-Attack Effects: 1
-Poisoned Flesh: Anyone injured by a tainted heals one less harm the next time they would heal harm. A 
-character can only be poisoned by this once until they heal.
-Areas infected by the Consuming Consciousness become poisoned, and those who drink from the water or 
-eat from the land that's become corrupted suffer a slow mutation into the tainted. Both human and animal 
-can be affected, and are twisted into monsters. Large, black, cancerous growths form on their skin, slowly 
-enveloping them in an oily mass, with the growths forming new appendages, mouths, or eyes.
-Monsters
-83
+## 畸變體總論
 
-While the tainted can be cured in its early stages by use of ritual magic and fire, leaving its victims forever 
-scarred, once it’s progressed too far all hope is lost. The victim shambles about, looking to kill anyone who 
-risks harming the Consciousness, tearing them apart, or burying them deep into the poisoned earth to 
-become tainted themselves. Most frighteningly, tainted humans seem to show some awareness of their 
-previous lives, muttering in their old voices, recognizing those they used to know, and being drawn to places 
-important to them.
-Twisted Worshiper
-Type: Abomination Warrior
-Max Harm: 12
-Armor: 2 (0 vs fire)
-Attacks: Mutated Arm (4 harm, reach)
-Attack Effects: 2
-Living Flesh: Whenever a twisted worshiper suffers more
-than 1 harm from a non-fire source, a slime or flying polyp
-sprouts from its wound.
-Twisted Worshipers are devotees of the Consuming
-Consciousness who have been accepted into its hive mind.
-While they can sometimes pass as normal looking, hidden
-beneath their clothes are strange growths, or extra eyes or
-mouths – when faced with danger, their mutations
-overtake them, rapidly twisting their body into a defensive, gory show, covering them with exposed, pulsing 
-muscles, sharp bony growths, and pushing forward a mutation that will eventually turn them into a 
-Corrupting Growth or other horror.
-The lost souls that worship the Consciousness do so out of despair; they have come to believe that the 
-Consciousness will devour the world, and by sacrificing themselves to it now, they can retain their identity in
-the coming apocalypse. They try to spread their grim message out of an earnest desire to spare others, or 
-that just might be what the Consciousness in the back of their mind is telling them to think.
-Monsters
-84
+畸變體是扭曲而異界的恐怖存在，會腐化它們所接觸的一切。它們潛伏在常人無法抵達之處，例如地底深處、海洋深淵，或高空之外，暗中滋長。
+
+畸變體與星界平面有關，整體上沒有統一弱點；但其中許多必須靠火焚才能徹底殺死，而與月亮與潮汐相關者，往往懼怕白銀。
+
+許多畸變體概念承襲自 H.P. Lovecraft 的作品，這件事必須被正視。Lovecraft 的故事常含有嚴重種族歧視內容，這些都不該被帶進遊戲。儘管如此，他作品中的一些想像已被後世大量重詮，進入更廣泛的大眾文化。像是環球怪物若沒有魚人會不完整，Castlevania 的水道關卡若沒有魚人會顯得空洞，而納入這些元素時，往往也會讓人聯想到 Deep Ones。
+
+這不代表可以輕率使用。以下是跑《詛咒月影》時建議避免的方向：
+
+- 不要使用「受污染血脈」之類設定。不存在「稀釋畸變血」就會讓人天生邪惡的族群。較適合的是：人因接觸疾病而惡化，或主動走向邪惡。
+- 畸變體（或黑暗神祇）邪教，不應被描繪成偏鄉、所謂「原始」、或種族化群體。邪教就是一般人組成，為了權力、財富、歸屬感，甚至基本生存需求，而被拉去做可怕的事。
+- 畸變邪教到處都可能存在；已經擁有資源的人，也同樣容易被操弄而變得更貪婪。
+- 現實中已有許多有權勢者，靠宗教與救贖承諾攫取權力，最終毀掉追隨者與周遭人的生活，這類素材其實更貼近恐怖核心。
+- 「看見不可名狀就發瘋」這類套路已過度濫用。本遊戲沒有「理智值」就是刻意設計。瘋狂夢境與禁忌知識，更應被視為人類正常壓力的來源。真正重要的是無力感、偏執、絕望，不是「看到太多觸手就突然失智」。
+
+其中「吞噬意識（Consuming Consciousness）」所代表的恐怖，特別是「世界正在死去，而你無法阻止」；這種恐怖感，現代讀者應該並不陌生。
+
+與其他怪物類別相比，畸變體是最具多樣性的類型之一。它們的起源可以有很多種。以下提供幾個偏古典風格的方向，建議在同一個戰役裡同時使用多重來源。
+
+偉大的「夢眠九頭蛇（Dreaming Hydra）」在最深海域沉睡已久。凡受星界魔法浸潤者入睡時，會夢見九頭蛇之夢，看見沉沒於海底的古城。九頭蛇召喚他們，承諾侍奉即可獲得回報。最虔誠的教徒被賜予長生與強大力量，但意志永遠被主宰束縛。如今，他們正試圖把更多人拉進這份擁抱；因為只要足夠多聲音一同呼喚，夢眠九頭蛇就會甦醒，而他們將成為新洪水世界的主人。
+
+被封印於大地中的惡性增生體，名為「吞噬意識」。其起源不明：有人說它隨隕石墜落而來，鑽入地底；也有人認為它本就存在，只是長久潰爛滋生，甚至可能以罪為食。吞噬意識會以多種型態自地下湧出：腐臭真菌、濃稠油黑液體、扭動血肉，或窒息般霧瘴。但所有型態都具備相同毒性，會污染、扭曲、改造接觸的一切。
+
+生物會突變，心智也會被溶解。屈服者聲稱能聽見吞噬意識對他們說話，數百萬永不停止的低語持續折磨。隨時間推進，大腦被侵蝕並替換成黑色黏液，原本的自我死去，只剩下狂暴野獸。即使外觀仍可辨識，多半也已不存原本人格，因為吞噬意識已完全掌控。人、獸、植物，沒有任何生物能免疫其觸碰。
+
+儘管如此，仍有人崇拜吞噬意識。他們認定世界終將被其吞沒，因此以污穢儀式奉祀。吞噬意識也確實回報他們：即使身體崩壞、心智仍得以保留，思想與聲音永遠併入其喧囂合唱。
+
+## 血肉化身意識（Consciousness Made Flesh）
+
+- 類型：畸變體領主
+- 最大傷害：15
+- 護甲：3（對火為 1）
+- 攻擊：觸手與啃咬（`4 傷害`，近距離）
+- 攻擊效果：2
+
+`灼蝕酸液`：任何木製或其他有機武器接觸到血肉化身意識都會熔解。任何被它抓住的生物，或徒手攻擊它的生物，都會受到 `1 傷害`（無視護甲）。
+
+`吞食`：血肉化身意識可以將受害者拖入自身肉體中溶解吸收。若它已抓住受害者，在下一次行動可花費一個行動把對方拉入體內；受害者立刻陷入無助，立即承受 `2 傷害`（無視護甲），且之後每次血肉化身意識行動時都再承受一次。被吞食者可被救出：以可刺穿其身體的銳利武器一次造成 `2 傷害`，但噴濺酸液會讓施救者承受 `2 傷害`（無視護甲）。
+
+`毒化地帶`：血肉化身意識周圍地區荒蕪且有毒。任何人在受污染區域停留超過一天，都會發現傷口無法癒合；而受污染的食物與水即使食用，也很快再度飢餓。
+
+血肉化身意識是吞噬意識增生體最終（但願如此）型態。它由餵給吞噬意識的大量活體融合成一團可移動肉塊，持續分泌強酸，能四處尋找新的生命密集區腐化。外觀像直徑約 12 英尺的膠質肉團，薄膜下可見眼睛與肢體頂起表面；皮膚裂開時會露出滿口滴酸尖牙，或扭曲附肢。
+
+當它找到夠多生命可摧毀的地點，便會定居並開始毒化周遭，生成新的腐化增生體與飛行瘤體。它會盡可能擴散污染，之後再拔根轉移。若能在土地不可逆毒化前殺死它，該地才有機會開始緩慢復原。
+
+## 腐化增生體（Corrupting Growth）
+
+- 類型：畸變體衛士
+- 最大傷害：12
+- 護甲：2（對火為 0）
+- 攻擊：抽打觸手（`4 傷害`，觸及）
+- 攻擊效果：2
+
+`腐化`：任何被腐化增生體傷到者都必須進行一次「抵抗黑魔法」動作；結果 `9 以下` 就會在皮膚上出現黑斑而受腐化。受腐化角色每次原本會回復傷害時，額外再回復 1 點，但黑斑會持續擴散。請記錄自腐化以來「額外回復」總量，若達 `10` 以上，角色將徹底失落於吞噬意識。
+
+腐化可藉由燒灼清除：由施術者進行一次「通曉傳說」動作。結果低於 `12` 時，受腐化者會承受等同「自腐化以來額外回復總量」的傷害。`10+` 時，成功解除腐化。
+
+腐化增生體是吞噬意識的「芽體」。它由污染區裡扭曲的動植物混合而成，沒有固定外型。身高約 8 至 12 英尺，下半身是無數糾結腿肢，末端可能是蹄、手掌、植物樁等。其餘軀幹是黑色皺縮肉塊，皺褶間可見獠牙口器，還有向天空伸展的觸鬚，使其剪影近似樹。
+
+增生體存在目的就是擴散吞噬意識。它們會從誕生地（森林邊界或礦坑）緩慢外移並毒化周遭。它們是瘟疫擴張的前兆，也因此被吞噬意識信徒奉為使者。面對人類時，增生體偏好先讓目標受傷再撤回巢穴，等待腐化自行發作。
+
+## 飛行瘤體（Flying Polyp）
+
+- 類型：畸變體僕役
+- 最大傷害：2
+- 護甲：1（對火為 0）
+- 攻擊：啃咬（`1 傷害`，近距離）
+- 攻擊效果：1
+
+飛行瘤體是吞噬意識最弱的小型增生體，充當斥候與第一道防線。外觀像直徑約 2 英尺的肉塊，中央被 T 字形裂口分開，口內牙齒如鋸齒岩。翅膀是薄皮撐在骨架上，必須不停拍動才能懸空。
+
+當吞噬意識污染新區域後，瘤體便會自其中萌生，巡飛周邊；偵查完成後，吞噬意識就會朝生命最密集方向擴張。若有人威脅污染地，瘤體群會俯衝撕裂目標，再把殘骸（通常是碎塊）帶回去，重塑成新個體。
+
+## 魚民（Merfolk）
+
+- 類型：畸變體衛士
+- 最大傷害：8
+- 護甲：1（對銀為 0）
+- 攻擊：爪擊（`3 傷害`，近距離）、毒液噴吐（`2 傷害`，無視護甲，遠端）、深淵觸鬚法術（目標被幻影觸手束縛，未脫困前無法移動）、沉眠法術（若生物累積承受 `4 傷害` 即陷入睡眠）
+- 攻擊效果：2
+
+魚民原本是人類星界術士，因侍奉夢眠九頭蛇而突變。它們被扭成九頭蛇形象：黏滑魚鱗覆體、魚類頭顱、蹼狀手足，從頸延伸到尾的長背鰭。魚民能以凡人無法發音的九頭蛇語彼此溝通，能在深海完美游動、在最深處視物，並可於水中與陸上呼吸。
+
+如今魚民是九頭蛇崇拜的核心，通常只對最虔誠、也幾乎已深陷教團無可回頭者現身。
+
+## 斯庫拉（Scylla）
+
+- 類型：畸變體領主
+- 最大傷害：15
+- 護甲：3（對銀為 1）
+- 攻擊：蛇首（`3 傷害`，觸及）、犬首（`4 傷害`，近距離）
+- 攻擊效果：2
+
+`多重頭顱`：斯庫拉可花費 1 點攻擊效果，讓鰻首同時攻擊觸及內 6 個不同目標，犬首則攻擊其範圍內 1 名目標。每顆頭可分別選擇不同攻擊效果，例如兩顆咬擊、一顆抓取。
+
+斯庫拉極為罕見。她來自夢眠九頭蛇的虔誠信徒，透過浸泡在有毒死水中的特殊儀式轉化。其心智與九頭蛇共振，身體也經歷緩慢且痛苦的變態。上半身可能近似原樣，但皮下會有蟲狀增生物蠕動鑽行，臉上擠出額外眼睛。下半身則異化為 6 顆巨犬頭、6 條長厚觸手（末端為無眼鰻首與層層利齒），以及一團可行走的觸手群。
+
+完成轉化後，斯庫拉會盤踞於隱蔽洞窟或險惡水道，吞食任何接近巢穴者。其餘時間多半與九頭蛇心靈交流，將祕密下授教團。她們常作為神諭者，巢穴也是教團朝聖與獻祭中心。
+
+## 黏液體（Slime）
+
+- 類型：畸變體僕役
+- 最大傷害：2
+- 護甲：0
+- 攻擊：灼蝕觸碰（`1 傷害`，近距離，無視護甲）
+- 攻擊效果：1
+
+黏液體是半活性的大桶型酸液團，僅帶有最低限度生命跡象。它們可能由其他怪物分泌、實驗室產生，或源自污染水體。黏液體無法思考，只會本能朝最近動物生命靠近並溶解吞噬。
+
+## 深淵子嗣（Spawn of the Depths）
+
+- 類型：畸變體領主
+- 最大傷害：18
+- 護甲：3（對銀為 1）
+- 攻擊：巨拳（`4 傷害`，觸及）或窒息迷霧（`2 傷害`，無視護甲，群體，遠端）
+- 攻擊效果：2
+
+`心靈波`：作為一個行動，深淵子嗣可向廣域釋放恐怖心靈衝擊。所有非其崇拜者的活體生物承受 `1 傷害`（無視護甲），且下一次動作承受 `-1 單次加值`。
+
+深淵子嗣是夢眠九頭蛇之子，也是最可怖的畸變體之一。它們高近 30 英尺，散發腐魚惡臭。身軀前傾，形似無毛巨猿，覆以黏滑粗糙深綠皮膚與藤壺。臉部和身體同樣光滑無毛，長有 6 顆暗黃眼，以及被鉤狀觸手環繞的寬大魷口。
+
+雖有大量子嗣與母體同樣沉睡，但子嗣更容易被喚醒。當崇拜者祈禱召喚，它們便會出現在岸邊並逐漸積蓄力量。其間，心靈波會逐步擴散：最初只在近處、每週一次；接著會變成整個區域每日多次。當子嗣完全甦醒時，會吞食周邊生物，並把崇拜者帶回海中轉化為魚民。
+
+若遭對抗，子嗣通常不會死戰到底；受傷便撤退，重新陷入昏睡以修復，直到下一次祈禱再度喚醒。因常作為崇拜目標，九頭蛇教團中常見子嗣雕像與祭壇。
+
+## 受污染者（Tainted）
+
+- 類型：畸變體僕役
+- 最大傷害：4
+- 護甲：1（對火為 0）
+- 攻擊：爪、牙或拳（`2 傷害`，近距離）
+- 攻擊效果：1
+
+`污染血肉`：任何被受污染者傷到者，在下次應回復傷害時，回復量減少 1。角色在實際回復前，最多只會被此效果影響一次。
+
+遭吞噬意識感染的區域會變成毒地。飲用受污染水源、或食用受污染土地所生食物者，會逐步突變成受污染者。人與獸都可能受害。它們會長出大片黑色癌化增生，逐漸被油質腫塊覆蓋，並長出新附肢、口器或眼睛。
+
+在早期階段，受污染仍可用儀式魔法與火焰治療，但常留下永久疤痕；一旦惡化過深，便再無希望。受害者會蹣跚遊走，尋找任何可能危及吞噬意識的人，將其撕裂，或埋進毒地使其也成為受污染者。最令人不安的是：受污染的人類常仍殘留些許舊日認知，會用過去的聲音喃喃自語，辨認熟人，並被舊日重要地點吸引。
+
+## 扭曲崇拜者（Twisted Worshiper）
+
+- 類型：畸變體衛士
+- 最大傷害：12
+- 護甲：2（對火為 0）
+- 攻擊：突變手臂（`4 傷害`，觸及）
+- 攻擊效果：2
+
+`活性血肉`：扭曲崇拜者每次受到超過 `1 傷害` 且來源不是火焰時，傷口都會長出一隻黏液體或飛行瘤體。
+
+扭曲崇拜者是被吞噬意識接納進蜂巢心智的信徒。它們有時仍可偽裝成常人，但衣物下通常藏有異常增生、額外眼睛或畸形肢體。它們既是教團中堅，也是吞噬意識向外擴張時最危險的人形代理。

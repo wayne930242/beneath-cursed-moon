@@ -5,125 +5,94 @@ sidebar:
   order: 12
 ---
 
-Werewolf
-One of the most terrifying beasts of the night, werewolves are creatures of bestial strength and rage. Those 
-infected with lycanthropy are doomed to forever be a danger to those around them, ready to explode in a 
-killing frenzy at a moment’s notice. The strongest willed learn to fight back, eventually regaining some 
-measure of control. Still a danger to all those around
-them, they seek to make sure those at risk for being
-caught in their wrath are those who can handle it – and
-those who deserve it. 
-Bonus
-Moves
-+2
-Battle
-Knowledge / Lore
-Resist Dark Magic
-+2
-Poke Around / Hunt
-Interview / Convince
-+1
-Daring Action
-+0
-Sorcery
-+2
-Control
-Assign +1, +1, and +0 to the remaining Moves.
-Basic Abilities
-Beast Form: When you shapeshift into your beast form – either a large wolf, or bipedal hybrid form – you 
-gain +1 Ongoing to Battle and Hunt moves, as well as Daring Action moves for physical stunts focused on 
-speed or brute strength. You also gain claws and bite (5 harm, close), and 2 armor that is ignored by silver. 
-When in Beast Form, you cannot make Knowledge, Lore, Interview, Convince, or Sorcery moves.
-Control: You have a special move, Control, used to keep yourself from changing into your beast form, and to
-force yourself to change back. Your Control bonus starts at +2, but takes a -1 Ongoing under a full moon and 
--1 Ongoing if you have 5 or more harm. Whenever you suffer harm, or the first time each scene you’re 
-exposed to the full moon, you must make the Control move. On a 6 or below, you transform into your beast 
-form. On a 7-9, you hold it back for now. On a 10+, you don’t need to make a Control move again for the rest
-of the scene.
-You can will yourself into your beast form at any time, and transform whenever you fail a Control move. 
-Once the immediate threat is over, you can start to try to transfer back. If you’re in sunlight, it’s automatic. If
-during the full moon, you need to wait until daybreak. Otherwise, you can make a Control move at the end 
-of each combat, or after each Investigation move, and turn back on a result of 7+.
-Playbooks
-49
+# 狼人（Werewolf）
 
-Keen Nose: Whenever you make a Poke Around move, you get an extra hold that must be spent on a 
-question to identify the movements, number, or identity of creatures, or on the following questions which 
-are added to your Poke Around list:
-➢ Whose scents can I smell here?
-➢ Where have I smelled this person’s scent before?
-Scrounged Weapons: You’ve learned how to defend yourself with whatever you can get your hands on. With
-a bit of time, you can get your hands on a woodcutter’s axe (3 harm, close, iron) or pitchfork (3 harm, reach, 
-iron).
-Advanced Abilities
- 
-Anger Management: You no longer have to make a Control move when taking harm from a Daring Action
-downside. In addition, you can channel your bestial strength for great feats even in your normal form: you 
-get +1 Ongoing to Daring Action moves for physical stunts based on strength or speed. This adds to the 
-bonus from Beast Form.
- 
-Animal Magnetism: You can understand the wants and needs of animals, allowing you to use the 
-Convince move to get both domesticated and wild animals to do things for you. When dealing with wolves 
-or dogs, you have +1 Ongoing to Convince moves. You can make Convince and Interview moves against 
-wolves and dogs when in Beast form.
- 
-Beast Without: When not in beast form, you can still manifest claws (4 harm, close), and are resistant to 
-damage, gaining 1 armor that is ignored by silver, as well as a +1 bonus to the Hunt move due to your 
-sharpened senses. This is replaced by your Beast Form bonuses when you transform.
- 
-Break the Chains: Whenever you are in Beast Form, you ignore any attempts by enemies to magically 
-influence your mind. Whenever someone tries to magically influence you, you may choose to immediately 
-shift into Beast Form. In addition, whenever you shift into or out of Beast Form, you heal 1 harm.
- 
-Moon’s Child: Your claws and bite count as silver weapons, and in Beast Form, your armor is reduced by 1 
-against silver attacks, instead of being completely ignored.
- 
-Rampage: Whenever you attack with your claws or teeth, you can choose to have the results of your Battle 
-move effect all creatures within reach around you, as if it had the (group) tag, except for one of your choice –
-this applies to both enemies and allies. 
- 
-Shred: Whenever you deal harm to a creature with armor using your claws and bite, its armor is reduced 
-by 1 against attacks that don’t bypass any of its armor until the end of the scene. This ability cannot reduce a 
-creature’s armor by more than 1.
- 
-Silver Sorcerer: Spirits that are bound to the moon as you are speak to you. Your Astral Sorcery bonus 
-increases to +1. Whenever the moon is visible, you gain an additional +1 to Astral Sorcery. You can use Astral 
-Sorcery while in beast form. You know two combat spells from that school of magic, and once per adventure
-you can produce a ritual sorcery spell without the help of any scroll or outside source.
- 
-Gain +1 Knowledge/Lore.
- 
-Gain +1 Resist Dark Magic.
- 
-Gain +1 Interview/Convince.
-Playbooks
-50
+狼人是夜裡最可怖的野獸之一，兼具野性力量與暴怒本能。感染狼化詛咒者，幾乎注定會成為周遭人的威脅，隨時可能陷入致命狂暴。意志最強者能逐步奪回部分控制權，但他們仍是危險存在，因此通常會盡力把「可能被自己波及的人」縮限為能承受者，或該受者。
 
-Quickplay Background
-Your bestial nature is hinted at from:
- your body hair and sideburns.
-
- your odd nose and constant sniffing. 
-
- fangs that show when you smile.
-
- fingernails that grow back long no matter how much you cut them.
-
-The first time you transformed:
- was a tragedy you never want to speak of.
-
- was predicted and controlled, because you knew you were infected.
-
- someone showed up to stop you, and you owe them everything.
-
-You travel with the other heroes:
- because you’ve always been close friends.
-
- because they’re the only ones who accept you.
-
- for redemption for all that you’ve done.
-
- because you know they can handle you at your worst.
-
-Playbooks
-51
+## 加值
+
+- 浴血奮戰：`+2`
+- 理解戰況／通曉傳說：`+2`
+- 抵抗黑魔法：`+2`
+- 四處探查／追獵：`+1`
+- 訪談詢問／說服：`+1`
+- 大膽行動：`+0`
+- 巫術：`+0`
+- 控制（Control）：`+2`
+- 其餘動作分配：`+1、+1、+0`
+
+## 基礎能力
+
+### 獸形（Beast Form）
+
+當你變身為巨狼或雙足混種型態時，你獲得：
+
+- 浴血奮戰與追獵 `+1 持續加值`
+- 以速度或蠻力為主的大膽行動 `+1 持續加值`
+- 爪與咬擊（`5 傷害`，近距離）
+- `2 護甲`（會被銀武器無視）
+
+獸形狀態下，你不能使用理解戰況、通曉傳說、訪談詢問、說服、巫術。
+
+### 控制（Control）
+
+控制是你用來「不變身」或「強迫自己變回人形」的專屬動作。起始加值 `+2`，但在滿月承受 `-1 持續加值`，且當你傷害 `>=5` 時再承受 `-1 持續加值`。
+
+每當你承受傷害，或每場景第一次曝露在滿月下，你都必須擲控制：
+
+- `6 以下`：立刻變身
+- `7-9`：暫時壓住
+- `10+`：本場景剩餘時間不必再擲控制
+
+你可隨時主動變身；失控也會變身。當即時威脅結束後，可嘗試變回人形：
+
+- 若在日照中，自動變回
+- 若在滿月夜，需等到破曉
+- 其他情況：每場戰鬥結束，或每次調查行動後，可擲控制，`7+` 變回
+
+### 敏銳嗅覺（Keen Nose）
+
+當你做四處探查時，額外獲得 1 點掌握，且此點必須用於「辨識生物移動、數量、身分」類問題，或下列新增問題：
+
+- 我在這裡聞到誰的氣味？
+- 我曾在哪裡聞過這個人的氣味？
+
+### 臨時武裝（Scrounged Weapons）
+
+你很會就地取材自保。花點時間，你可拿到伐木斧（`3 傷害`，近距離，鐵）或草叉（`3 傷害`，觸及，鐵）。
+
+## 進階能力
+
+- **怒意管理（Anger Management）**：你不再因大膽行動副作用受傷而觸發控制檢定。且在人形下也能引出野性：以力量／速度為主的大膽行動獲得 `+1 持續加值`（可與獸形加值疊加）。
+- **獸性磁場（Animal Magnetism）**：你能理解動物需求，可用說服讓家養或野生動物幫你行動。面對狼與狗時，說服 `+1 持續加值`。獸形下可對狼與狗使用說服與訪談詢問。
+- **外顯獸性（Beast Without）**：在人形下也可長出爪（`4 傷害`，近距離），並獲得 `1 護甲`（銀可無視），且因感官強化追獵 `+1`。變身後改用獸形加值。
+- **斷鏈（Break the Chains）**：獸形時你免疫任何敵方心智魔法影響。當有人試圖以魔法影響你時，你可立刻選擇變身。每次切換進出獸形時，回復 `1 傷害`。
+- **月之子（Moon’s Child）**：你的爪與咬擊視為銀武器；且你在獸形時，面對銀攻擊時護甲只減少 1（不再完全失效）。
+- **狂暴橫掃（Rampage）**：你用爪或牙攻擊時，可讓浴血奮戰結果同時影響你觸及範圍內所有生物，視作帶 `group` 標籤，但可排除 1 個目標（敵我皆可能受影響）。
+- **撕裂（Shred）**：當你以爪與咬擊傷到有護甲目標時，該目標在本場景內對「無法穿甲」攻擊的護甲值 `-1`。此能力對同一目標最多降低 1。
+- **銀月術者（Silver Sorcerer）**：與月相綁定的靈體會與你交談。你的星界巫術升至 `+1`；當月亮可見時再 `+1`。你在獸形也可使用星界巫術。你學會 2 個星界戰鬥法術，且每次冒險 1 次可在無卷軸與外援下施放儀式法術。
+- **理解戰況／通曉傳說 +1**
+- **抵抗黑魔法 +1**
+- **訪談詢問／說服 +1**
+
+## 快速背景
+
+你的獸性會從以下細節露出：
+
+- 濃重體毛與鬢角
+- 異常鼻形與不停嗅聞
+- 微笑時露出的尖牙
+- 不管怎麼修都會再長的長指甲
+
+你第一次變身：
+
+- 是場你不願再提的悲劇
+- 因早知感染而被預測並控制
+- 有人現身阻止你，你因此欠他一切
+
+你與其他英雄同行是因為：
+
+- 你們本來就是摯友
+- 他們是唯一接納你的人
+- 你想贖回自己做過的事
+- 你知道他們能扛住你最糟的一面

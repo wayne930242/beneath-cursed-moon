@@ -5,286 +5,195 @@ sidebar:
   order: 7
 ---
 
-Treants are grown from sapling trees infused with magic to give them intelligence. They’re loyal to their 
-creators, even past the creator’s death, and are content with sitting and guarding an area forever – they are 
-no less patient than a normal tree. While powerful, treants are rarely used to conquer in ways beyond a 
-slowly shifting border – they’re too slow to be useful aggressive forces.
-Will-o’-the-wisp
-Type: Fey Minion
-Max Harm: 1
-Armor: 0 (can only be hurt by soulbound weapons, fire, or magic)
-Attacks: Cold Fire (2 harm, close, fire)
-Attack Effects: 1
-Sometimes called just “fairy lights”, will-o’-the-wisp are spirits that appear as bright lights at night in 
-wilderness areas, and guide travelers off the path. They float and bob, as if from a carried lantern, and draw 
-curious travelers to follow. Once a victim is behind them, the wisps lead them into danger – be it a cliff, 
-river, or waiting monster, and then blink out, disappearing. When invisible, a wisp can do no harm to 
-another, and prefer to let natural dangers kill their prey, feeding off of the spirit of the recently dead.
-Undead
-Created by necromantic magic, undead are the remains of the dead brought back to life, or creatures who 
-have a prolonged unlife from magic. Undead tend to either maintain the intelligence and awareness they 
-had in life, or be mindless creatures drawn to snuff out life wherever they find it. Due to their own lack of 
-souls, undead are often weak against soulbound weapons – and their desiccated corpses are often weak to 
-fire.
-The most common source of undead is through the deliberate creation with necromancy. A corpse can be 
-raised into a skeletal or zombie servant through ritual magic, and forced to follow the commands of its 
-reanimator. Undead like these can also reanimate on their own – locations that are the site of heavy magic 
-use, or great evil or suffering can become so suffused with necromancy that the dead will rise of their own 
-will. Rarer forms of undead are those who have transformed more deliberately, often from those seeking to 
-spread their undeath, like vampires, or seeking eternal life, like liches.
-Unintelligent undead have an intense loathing for life, in all its forms, and express it through murder. Even 
-intelligent undead that try to maintain a grip on their humanity find it difficult to do so – all worldly 
-pleasure seem cold and empty to them, and a jealous hatred of happiness bubbles inside as the years pass.
-A special note is needed for vampires due to their stories being sexual in nature and often heavily based on 
-xenophobia. In the novel, Dracula is foreign invader preying on women – not a great theme to perpetuate. 
-Given this, they do require a some care to use, especially in tables that don’t want to dive too deeply into 
-sexual assault imagery. While much of the sexual nature of vampires is something that people have 
-generally become inured to, even when stories make a point of it, you still need to be careful not to take it 
-too far, especially as it comes to depictions of sexual assault. The use of vampires as a foreign “other” is 
-easier to avoid. There’s plenty of other things vampires can be metaphors for – with one of the better ones 
-being the rich or ruling class, sucking the blood from those beneath them, both figuratively and literally. 
-Consider the ruler who exploits those under him, and eventually turns to undeath to continue his life, with 
-no concern of who he ends up killing. 
-Monsters
-105
+# 不死族（Undead）
 
-Likewise, the nosferatu is a complicated creature. Its original appearance is parallel to many antisemitic 
-tropes, but the crew of the film suggest that it likely wasn’t intentional. As a creature that spreads disease, it’s 
-easy to compare it to many depictions of marginalized groups that are said to spread disease to others – a 
-list too long to put here. Yet at the same time, those diseases are often intentionally spread by inaction or a 
-refusal to help from those in power, with the marginalized groups used as scapegoats, or victims who 
-“deserve” it. The nosferatu for this game should instead pull on this idea – a person of power so full of hate 
-they’ll intentionally allow mass sickness to spread to spite those they consider beneath them. The disease of 
-this nosferatu isn’t just the plague it spreads, but also the hatred that’s eaten away at its soul.
-Ghost
-Type: Undead Warrior
-Max Harm: 8
-Armor: 0 (can only be hurt by soulbound weapons or magic)
-Attacks: Icy Touch (2 harm, close, ignores armor)
-Attack Effects: 1
-A ghost is the soul of a dead person who could not peacefully pass from this world, bound to it from anguish
-or necromantic magic. Appearing as they did in life, a ghost looks translucent, and is often dressed in either 
-the clothes it died in, or an outfit that is otherwise symbolic to it.
-Ghosts are usually bound to a single person, place, or object, and unable to go far from it. Not all are 
-inherently hostile, but will instead haunt those around them to until the living help the ghost find rest. As 
-time passes, ghosts become more and more desperate, driven to violence from madness and despair. While 
-defeating a ghost will put some of them to rest – particularly those bound with magic – others will require 
-their desires to be met, or an exorcism to be performed. Even after “slaying” the ghost, it will reappear 
-during the next full moon or emotionally significant moment, likely far more irate.
-Homunculus
-Type: Undead Lord
-Max Harm: 15
-Armor: 3 (1 vs fire)
-Attacks: Massive Fist (4 harm, close)
-Attack Effects: 2
-Clumsy: A homunculus is especially slow and clumsy. Any character that gets +1 Forward to moves against it, 
-for any reason, has that bonus increased to +2. If a character would take less harm from a homunculus 
-attacks for any reason beyond armor, they take an additional less harm.
-Rage: Whenever a Homunculus has suffered 8 or more Harm total, it flies into a rage. It deals an additional 
-+1 Harm with all attacks, and its attacks become incredibly destructive to its surroundings.
-A composite being created from stitched together corpses, alchemically prepared parts, and necromancy, a 
-homunculus is unnerving no matter how well crafted. Its skin tone turns a sickly color, from rot or its 
-preservatives, and its body moves in jerky, strange ways, as if it cannot control it well.
-Monsters
-106
+由死靈魔法創造的不死族，是被拉回活動狀態的亡骸，或以魔法維持延命狀態的存在。不死族通常走向兩端：
 
-The crafting of a homunculus never turns well, no matter how skilled its creator. Often, the result is 
-mindless, unable to communicate beyond moans, and filled with a curiosity that easily turns into a 
-destructive rage. Even the most intelligent, well made homunculus finds the world difficult to relate to, their 
-dead hearts leaving them unable to process their own emotions and feelings, and prone to fits of violent 
-rage.
-Lich
-Type: Undead Lord
-Max Harm: 15
-Armor: 3 (1 vs soulbound)
-Attacks: Scythe (4 harm, close, iron),
-Soul Drain (2 harm ignores armor,
-ranged, heal 2 harm) 
-Attack Effects: 2
-Grave Grasp: As an action, a lich can
-cast a dread curse, dealing (1 harm,
-ignores armor) to all its foes, and
-lowering all harm they deal by 1 until
-they successfully cleanse the curse.
-The curse can be cleansed by a
-character making a Resist Dark Magic
-or Necromantic Sorcery move as an
-action: on a result of 10+, all of their
-allies have the cursed cleansed. On a
-7-9, they may choose to cleanse one
-ally.
-Reap: Whenever a lich kills a living creature, it heals 2 harm.
-Powerful necromancers who have given themselves eternal life through undead, liches appear as fully 
-skeletal figures. Liches commonly wrap themselves in elaborate robes and shawls to help hide their skeletal 
-form.
-Though they were once human, liches have sacrificed their own humanity for immortality. A lich loses what 
-little connection to humanity they have, no longer able to feel true happiness, grief, or love. Instead, a lich 
-develops a single-minded focus on their goal: be it a pursuit of magic, devotion to higher dark power, or 
-murderous revenge. Whatever their obsession, it consumes them, leaving them caring for little else.
-Liches are extremely difficult to kill and keep dead. A lich becomes bound to a particular thing, and will 
-continue to reform (over days, months, or even years) as long as that thing exists. Often, a lich chooses some 
-treasured item, memento, or magical artifact to tie their life to, but sometimes they become bound to a 
-location, like a dark temple or their magical library, or a creature, like the vampire lord they serve. 
-Whenever what they’re bound to exists in the world, given time, so too will the lich.
-Monsters
-107
+- 保有生前智能與自覺
+- 淪為無智空殼，見生就滅
 
-Mummy
-Type: Undead Warrior
-Max Harm: 12
-Armor: 2 (0 vs fire)
-Attacks: Slam (4 harm, close), Sword (4 harm, close, iron), or Bandages (1 harm, ranged)
-Attack Effects: 2
-Bandages: Whenever a mummy uses their bandages against an opponent, even if they deal no harm, the 
-target begins to be wrapped up. After the first hit, the target takes -1 Ongoing to all moves. After the second, 
-they lose the use of either arms or legs. After the third, they’re completely immobilized. A character can 
-break free of the bandages by spending an action to make a Daring Action move. On a result of 7+ they’re 
-free, and on a 10+ they’re free and get their action back.
-Preserved corpses, mummies are covered in wrapping from head to toe, often yellowed with age. They 
-move in awkward lurches, and sometimes carry swords and wear ornamental golden decorations and 
-jewelry.
-Mummies are deliberately created through necromancy, either as servants or guardians. They’re compelled 
-to obey the spell that animates them, and while able to think, do not have independent desires or the ability 
-to talk more than a groan. Mummies will obey the orders of their creators unerringly, or if tasked to guard a 
-location or item will do so, and ceaselessly hunt down whoever disturbed them.
-Nosferatu
-Type: Undead Lord
-Max Harm: 15
-Armor: 3 (1 vs soulbound or fire)
-Attacks: Bite (2 harm, close, blood drain),
-Claws (3 harm, close)
-Attack Effects: 2
-Blood Drain: When a nosferatu damages
-an opponent with their bite, they heal a
-number of harm equal to the harm dealt.
-Blood Plague: Any creature harmed by a
-Nosferatu’s bite or claws must make a
-Resist Dark Magic move against the
-necrotic plague that courses through the
-creature’s body. On a result of 6 or below,
-they’re plagued until they’re treated at the
-end of the adventure. On a 7-9, they’re
-plagued until their next rest. Plagued
-characters suffer -1 Ongoing to all moves,
-and take 1 Harm (ignore armor) whenever they get a result of a 6 or below on any move.
-Monsters
-108
+由於自身缺乏靈魂，不死族常懼怕魂縛武器；而乾枯腐朽的軀體也往往怕火。
 
-Relatives to the vampire but far more twisted, nosferatu are undead blood-drinkers who have been ravaged 
-by a curse of their own making. They’ve gone completely hairless, and their limbs and digits elongated, with 
-their fingers growing into claws. Their mouths slowly change – sometimes becoming more lamprey like, 
-other times becoming nothing but fangs – and it’s hard for them to be mistaken as human.
-A nosferatu is created when someone strong in magic poisons their soul to cast a curse on another. The spell 
-infects its target with a horrible wasting plague, making their death slow and agonizing. The sickness is 
-virulent, however, spreading far and wide – but what it does to the caster is much worse. The necromancy 
-taints the soul of the user, poisoning it and filling it with a hatred of life. Undeath fills every part of their 
-body, and a foul disease flourishes within them. They suffer its effects, in eternal agony, but do not die. 
-Instead, they fill compelled to feed, and only by draining the life of another are they able to taste of their 
-victim’s souls, giving their own withered essence respite. The victims of the nosferatu’s hunger shown signs 
-of this plague, with those who survive the initial attack sickening and dying, and the dead becoming 
-discolored and putrefying, spreading the sickness further. Nosferatu tend to be solitary creatures, unable to 
-make more of their own, but some use their necromancy to surround themselves with lesser undead as their
-servants.
-Skeleton
-Type: Undead Minion
-Max Harm: 2
-Armor: 1 (0 vs soulbound)
-Attacks: Bony Claws or Teeth (2 harm, close), Thrown Bones (1 harm, ranged)
-Attack Effects: 1
-Little more than reanimated bones, skeletons are stripped from all flesh and meat by the magic animating 
-them. Commonly made from human bones, wolves and other animals can be reanimated as well, or made 
-from a mix of bones of various creatures. When their bones become broken and the animated magic 
-disrupted, they all suddenly fall apart.
-Skeletons are loyal to their animators, or if not explicitly created, instead seek out life to destroy. They 
-cannot communicate, and are unintelligent, possessing little more than feral animalistic sapience.
-Skeleton, Bloody
-Type: Undead Minion
-Max Harm: 2
-Armor: 1 (0 vs soulbound)
-Attacks: Blood-soaked claws (2 harm, close)
-Attack Effects: 1
-Bloody Reanimation: If destroyed, a bloody skeleton
-will lose its next action, and for the action after that,
-reanimate itself, its bones repairing as its stands back
-up. If its bones are scattered, it will still reanimate,
-but take longer as they slowly slide together. The
-bloody skeleton can only be destroyed with a
-soulbound weapon or necromantic magic.
-Monsters
-109
+最常見的不死族來源，是有意識的死靈製作。屍體可透過儀式魔法被喚起成骷髏或殭屍僕從，並受復甦者指令驅使。這類不死族也可能自行再起：若某地長期被重度魔法、巨大邪惡或極端苦難浸透，死靈濃度會高到讓死者自行爬起。
 
-Bloody skeletons are created when a skeleton has been seeped in enough blood and necromantic magic to 
-keep itself animated no matter what. They constantly drip an endless supply of fresh red blood from their 
-bones, and leave a trail of gore wherever they go. Due to the magic animating them, bloody skeletons are far 
-more aggressive than normal ones, and will seek out and pursue any living creature they see, with intent to 
-kill – but give special attention to anyone who destroys them.
-Skeleton, Soldier
-Type: Undead Warrior
-Max Harm: 8
-Armor: 1 (0 vs soulbound)
-Attacks: Longsword (3 harm, close) or Longbow (3 harm, ranged)
-Attack Effects: 2
-Animated bones dressed in armor, and given weapons, skeleton soldiers are equally likely to be fallen 
-soldiers risen from the grave as they are skeletons given armaments by their creators. Although they’re 
-tough, the only leg up in intelligence they have over normal skeletons is their ability to work together, 
-echoing the fighting formations of their past life.
-Vampire
-Type: Undead Warrior
-Max Harm: 10
-Armor: 2 (0 vs soulbound or fire)
-Attacks: Bite (2 harm, close), Claws (3 harm, close), or Longsword (4 harm, close)
-Attack Effects: 2
-Blood Drain: When a vampire damages an opponent with their bite, they heal a number of harm equal to 
-the harm dealt.
-Hypnotism: As an action a vampire can attempt to hypnotize a victim, and exert its mental domination over 
-it. A target can must make a Resist Dark Magic move – on a result of 6 or below, they’re stunned in place 
-until someone spends an action to snap them out of it, On a result of 7-9, they’re hypnotized for their next 
-action, but get to act normally thereafter. On a 10+, they shrug off the hypnotism, and can’t be targeted again
-this scene.
-Perhaps the most well known of all intelligent undead, vampires are the night’s ultimate predators. Vampires
-appear as they did in life, but with more pallid skin and sharp fangs, and appear to onlookers are beautiful 
-due to the effects of their hypnotism.
-Monsters
-110
+較罕見的不死族，則來自更主動的轉化，例如吸血鬼（為了擴散自身不死）或巫妖（為求永生）。
 
-Vampires are one of the most diverse monsters, and have a variety of strengths and weaknesses that come 
-from different bloodlines and mutating through magic. There are some things they all share in common, 
-however: they all consume blood to survive, share the common undead weaknesses, as well as that of fire, 
-they all lose their magical power and strength in sunlight (but can still go out during the day(, they cast no 
-reflection, they have superhuman strength and agility and take well to learning magic, and they cast no 
-reflection in mirrors. Other powers that vampires may or may not be able to manifest including turning into
-or commanding wolves or bats and turning into mist, all of which require some some training of the part of 
-a new vampire. Specific bloodlines of vampires have been known to have their own weaknesses – strong 
-senses of smell that reacts poorly to pungent items, an obsessive need to count objects, and an inability to 
-cross running water are all possible – but shouldn't be assumed. Plenty of vampires have also spread rumors 
-of their weaknesses that end up being completely false. Most normal vampires don’t need to be staked – 
-when slain, they simply dissipate into dust.
-Vampires are created when a human is drained of all their blood while being fed the vampire’s blood. The 
-person will appear dead, but revive from the dead later. Newly created vampires are weaker and disoriented, 
-but vampires who live longer become stronger, potentially even becoming Vampire Lords. Vampires have 
-some control over their spawn – they can influence a mental control when together, which slowly fades with 
-time and distance.
-Vampire Lord
-Type: Undead Lord
-Max Harm: 18
-Armor: 3 (1 vs soulbound or fire)
-Attacks: Bite (3 harm, close), Claws (4 harm, close), Longsword (4 harm, close, iron), Soul Drain (2 harm 
-ignores armor, ranged, heal 2 harm) or Hellfire (5 harm, ranged, fire)
-Attack Effects: 2
-Blood Drain: When a vampire lord damages an opponent with their bite, they heal a number of harm equal 
-to the harm dealt.
-Hypnotism: As an action a vampire lord can attempt to hypnotize a victim, and exert its mental domination 
-over it. A target must make a Resist Dark Magic move – on a result of 6 or below, they immediately begin to 
-follow the Vampire Lord’s commands. On a result of 7-9, they’re hypnotized in place until someone snaps 
-them out of it. On a 10+, they shrug off the hypnotism, and can’t be targeted again this scene.
-The oldest and most powerful vampires eventually become vampire lords – stronger, faster, and tougher 
-than most vampires, and having had time to hone great magical powers. They pull great influence among 
-other monsters, cowing them with power or hypnotism, and are responsible for some of the greatest threats 
-to mankind.
-Most frighteningly, vampire lords are notoriously difficult to kill. The specifics among them varies, but 
-tapping into their great unholy power some remain alive even when dismembered, are only paralyzed if 
-their heart is pierced, will come back from the dead after a set period of time, or can be revived if a single 
-drop of blood touches their ashes. The specific methods of a vampire lord’s eternal life and destruction tend 
-to be unique to that vampire lord’s situation.
-Monsters
-111
+低智不死族對生命有強烈憎惡，表現方式幾乎總是謀殺。即使高智不死族努力維持人性，也會越來越困難：世間喜悅對它們逐漸冰冷空洞，妒恨會隨歲月累積。
+
+吸血鬼題材尤其需要額外注意，因其歷史敘事常帶有性意涵，也常與排外恐懼交纏。以《德古拉》為例，「外來者掠奪女性」不是值得延續的母題。若你的團不想深入性暴力意象，使用吸血鬼時請更審慎。把吸血鬼當作「異族他者」很容易踩線，但它也有其他更有效的隱喻，例如剝削底層的富豪或統治階級，字面與隱喻上都在「吸血」。
+
+同樣地，「諾斯費拉圖（Nosferatu）」也是複雜形象。其經典外觀會讓人聯想到不少反猶刻板印象，雖影史資料顯示創作意圖未必如此。它作為散播疾病者，也很容易被連結到歷史上把疾病歸咎於弱勢群體的敘事。更貼近本作精神的做法是：把諾斯費拉圖描寫成「掌權者因仇恨而故意放任瘟疫擴散」，疾病不只在肉體，更是其被仇恨蛀蝕的靈魂。
+
+## 幽靈（Ghost）
+
+- 類型：不死族衛士
+- 最大傷害：8
+- 護甲：0（僅能被魂縛武器或魔法傷害）
+- 攻擊：冰冷觸碰（`2 傷害`，近距離，無視護甲）
+- 攻擊效果：1
+
+幽靈是未能安然離世的亡魂，常因痛苦執念或死靈束縛滯留人間。外觀多保持生前樣貌、半透明，服裝常是死時衣著或其最具象徵意義的打扮。
+
+幽靈通常綁定於單一人、地點或物件，無法離開太遠。並非所有幽靈都直接敵對，許多只是持續騷擾，逼生者協助其獲得安息。時間越久，幽靈越絕望，常因瘋狂與崩潰轉向暴力。
+
+擊敗幽靈有時能讓其安息（特別是魔法束縛者）；但也有些需先完成其執念，或進行驅魔。即使「殺死」幽靈，它也可能在下一次滿月或情緒高峰時再現，且通常更狂怒。
+
+## 人造魔骸（Homunculus）
+
+- 類型：不死族領主
+- 最大傷害：15
+- 護甲：3（對火為 1）
+- 攻擊：巨拳（`4 傷害`，近距離）
+- 攻擊效果：2
+
+`笨拙`：人造魔骸特別遲鈍。任何角色若因任何理由獲得對它的 `+1 單次加值`，都提升為 `+2`。若角色因護甲以外理由可進一步減少其攻擊傷害，則再額外少承受 1 點傷害。
+
+`狂暴`：人造魔骸累積承受 `8 傷害` 以上後會陷入狂怒。其所有攻擊額外造成 `+1 傷害`，且對周遭環境破壞力顯著提升。
+
+人造魔骸由縫合屍塊、煉金處理器官與死靈魔法拼製而成。即使工藝再高，也總帶著強烈不協調感：皮膚常因腐敗或防腐處理呈病態色澤，動作斷續抽動，像身體不是自己的。
+
+無論創造者多熟練，結果都很少完美。常見個體近乎無智，只能呻吟，對世界有扭曲好奇，且很容易轉成破壞性暴怒。即便是高智高完成度個體，也通常難與世界建立正常關係；死去的心讓它們難以處理情緒，暴力爆發幾乎是必然。
+
+## 巫妖（Lich）
+
+- 類型：不死族領主
+- 最大傷害：15
+- 護甲：3（對魂縛為 1）
+- 攻擊：鐮刀（`4 傷害`，近距離，鐵）、吸魂（`2 傷害`，無視護甲，遠端，回復 2 傷害）
+- 攻擊效果：2
+
+`墓握`：巫妖可用一個行動施展恐怖詛咒，對所有敵人造成 `1 傷害`（無視護甲），並使其造成的傷害減少 1，直到成功淨化。
+
+淨化方式：角色可花一個行動進行一次「抵抗黑魔法」或「死靈巫術」動作。
+- `10+`：全體友方解除詛咒。
+- `7-9`：可選擇解除 1 名友方詛咒。
+
+`收割`：巫妖每次擊殺活體生物，即回復 `2 傷害`。
+
+巫妖是透過不死化獲得永生的強大死靈法師，外觀通常為完整骷髏。牠們常披著繁複長袍與披肩，掩飾骨身。
+
+巫妖雖曾是人，卻為不朽捨棄人性。它們不再真正感受快樂、悲傷或愛，只剩對某個目標的極端執念：追求魔法、侍奉黑暗高權、或血腥復仇。這份執念會吞噬其餘一切。
+
+巫妖極難被「徹底」殺死。每名巫妖都會與某個事物綁定，只要該事物仍存在，巫妖就會在數日、數月甚至數年內重塑復歸。綁定對象常是珍藏、遺物或魔法器物，也可能是某個地點（黑暗神殿、私人魔法藏書庫）或某個存在（它侍奉的吸血鬼領主）。
+
+## 木乃伊（Mummy）
+
+- 類型：不死族衛士
+- 最大傷害：12
+- 護甲：2（對火為 0）
+- 攻擊：重擊（`4 傷害`，近距離）、劍擊（`4 傷害`，近距離，鐵）、繃帶纏裹（`1 傷害`，遠端）
+- 攻擊效果：2
+
+`繃帶纏束`：木乃伊每次用繃帶命中目標（即使未造成傷害）都會累積束縛層數。
+- 第 1 次：目標所有動作承受 `-1 持續加值`
+- 第 2 次：目標失去手或腳其中一組功能
+- 第 3 次：目標完全失去行動能力
+
+角色可花一個行動進行「大膽行動」嘗試脫困：`7+` 成功脫困，`10+` 脫困且取回該次行動。
+
+木乃伊是經保存處理後再以死靈術喚起的屍體，從頭到腳纏滿繃帶，常泛黃老化。它們動作僵硬，常持劍並佩戴象徵性金飾。
+
+木乃伊通常被有意創造來做守衛或僕從。它們受驅動法術強制約束，雖可思考，但沒有獨立欲望，語言能力也幾乎退化成低沉呻吟。木乃伊會毫不偏差地執行命令；若被設定守衛地點或物件，也會持續追獵所有侵擾者。
+
+## 諾斯費拉圖（Nosferatu）
+
+- 類型：不死族領主
+- 最大傷害：15
+- 護甲：3（對魂縛或火為 1）
+- 攻擊：啃咬（`2 傷害`，近距離，吸血）、爪擊（`3 傷害`，近距離）
+- 攻擊效果：2
+
+`吸血`：諾斯費拉圖若以啃咬傷害目標，回復等同傷害值的生命。
+
+`血疫`：任何被其啃咬或爪擊傷害者，必須進行一次「抵抗黑魔法」以對抗壞死瘟疫。
+- `6 以下`：感染持續到本次冒險結束時才可治療
+- `7-9`：感染持續到下一次休息
+- 受感染者：所有動作承受 `-1 持續加值`，且每當任何動作擲出 `6 以下`，立即承受 `1 傷害`（無視護甲）
+
+諾斯費拉圖可視為吸血鬼的扭曲近親，是被自造詛咒摧殘的吸血不死者。它們通常全身無毛、四肢細長、手指延伸成爪；口部會逐漸畸變，可能像七鰓鰻，也可能幾乎只剩獠牙，幾乎無法再被誤認成人。
+
+當具強大魔力者以惡咒污染自身靈魂去詛咒他人時，可能誕生諾斯費拉圖。詛咒會令目標感染殘酷消耗性瘟疫，緩慢痛苦死亡；而瘟疫本身高度傳染。對施術者的反噬更可怕：死靈術污染其靈魂，將其填滿對生命的仇恨，不死性浸透全身，惡疾在體內永遠繁殖。
+
+諾斯費拉圖會在永恆痛苦中存活，並被強迫進食；只有抽吸他者生命、嘗到靈魂殘味時，自己的枯萎本質才可短暫緩解。其受害者常出現瘟疫症狀，倖存者也會很快惡化，死者則腐敗變色、進一步擴散疫情。諾斯費拉圖多獨行，也無法自然繁殖同類；但有些會以死靈術驅使低階不死族做僕從。
+
+## 骷髏（Skeleton）
+
+- 類型：不死族僕役
+- 最大傷害：2
+- 護甲：1（對魂縛為 0）
+- 攻擊：骨爪／骨牙（`2 傷害`，近距離）、投骨（`1 傷害`，遠端）
+- 攻擊效果：1
+
+骷髏就是被再活化的骨骸。喚起魔法會把其血肉剝離殆盡。雖最常見人骨骷髏，也可由狼等動物骨，或多物種混骨構成。當骨頭被打碎、驅動魔力中斷後，骷髏會瞬間散架。
+
+骷髏要嘛忠於喚起者，要嘛（若非明確創造）自行尋找生命獵殺。它們無法溝通且智力低落，多數只剩野性本能。
+
+## 血骷髏（Skeleton, Bloody）
+
+- 類型：不死族僕役
+- 最大傷害：2
+- 護甲：1（對魂縛為 0）
+- 攻擊：浸血爪擊（`2 傷害`，近距離）
+- 攻擊效果：1
+
+`血腥再起`：血骷髏被破壞後會先失去下一次行動，再於後一個行動重組復活。即使骨頭被打散，也只是重組更慢。只有魂縛武器或死靈魔法可徹底摧毀血骷髏。
+
+血骷髏是被大量鮮血與死靈力浸透後形成的骷髏，能不斷維持活動。它們骨骼會滴落無盡鮮血，行經處留下血污。相較一般骷髏，血骷髏更具侵略性，會主動追獵任何活物，且特別執著於報復曾摧毀它的人。
+
+## 骷髏士兵（Skeleton, Soldier）
+
+- 類型：不死族衛士
+- 最大傷害：8
+- 護甲：1（對魂縛為 0）
+- 攻擊：長劍（`3 傷害`，近距離）或長弓（`3 傷害`，遠端）
+- 攻擊效果：2
+
+骷髏士兵是裝甲與武器化的再活骨骸。它們可能是陣亡士兵復甦，也可能是創造者後天武裝普通骷髏。雖更耐打，但其智能僅略高於一般骷髏，主要提升在「能協同作戰」，重現生前軍陣習性。
+
+## 吸血鬼（Vampire）
+
+- 類型：不死族衛士
+- 最大傷害：10
+- 護甲：2（對魂縛或火為 0）
+- 攻擊：啃咬（`2 傷害`，近距離）、爪擊（`3 傷害`，近距離）、長劍（`4 傷害`，近距離）
+- 攻擊效果：2
+
+`吸血`：吸血鬼若以啃咬傷害目標，回復等同傷害值。
+
+`催眠`：吸血鬼可用一個行動嘗試催眠目標並施加心智支配。目標需進行「抵抗黑魔法」。
+- `6 以下`：當場定住，直到有人花行動把其喚醒
+- `7-9`：下一次行動受催眠，之後恢復正常
+- `10+`：成功抵抗，本場景不再受同一吸血鬼催眠
+
+吸血鬼或許是最知名的高智不死族。它們保留生前容貌，但膚色更蒼白、牙更尖；催眠效果也會讓旁人傾向把它們視為極具魅力。
+
+吸血鬼變體極多，常因血脈與魔法變異而有不同強弱與弱點。但共同點通常包括：
+
+- 需吸血維生
+- 共享一般不死族弱點，且怕火
+- 在日光下魔力與力量顯著衰退（但仍可於白天活動）
+- 無鏡中倒影
+- 具超人力量與敏捷，且學魔法速度快
+
+部分能力如化霧、化狼／化蝠、統御狼蝠等，通常需新生吸血鬼額外學習。某些血脈還可能有特殊弱點，如嗅覺過敏、強迫計數、不能跨越流水等；但不應預設一定存在。許多吸血鬼也故意散播假弱點誤導獵人。多數一般吸血鬼不需木樁處決，死亡後會直接化灰。
+
+吸血鬼的誕生方式是：人類被抽乾鮮血，同時被餵食吸血鬼之血。其人會先呈死亡狀態，之後再復起。新生者較弱且迷亂；活得越久，通常越強，甚至可能成為吸血鬼領主。創造者對其後裔有一定心智影響力，但會隨時間與距離逐漸淡化。
+
+## 吸血鬼領主（Vampire Lord）
+
+- 類型：不死族領主
+- 最大傷害：18
+- 護甲：3（對魂縛或火為 1）
+- 攻擊：啃咬（`3 傷害`，近距離）、爪擊（`4 傷害`，近距離）、長劍（`4 傷害`，近距離，鐵）、吸魂（`2 傷害`，無視護甲，遠端，回復 2 傷害）、地獄火（`5 傷害`，遠端，火焰）
+- 攻擊效果：2
+
+`吸血`：吸血鬼領主以啃咬造成傷害時，回復等同傷害值。
+
+`催眠`：吸血鬼領主可用一個行動嘗試催眠並支配目標。目標需進行「抵抗黑魔法」。
+- `6 以下`：立刻開始服從其命令
+- `7-9`：被催眠定在原地，直到有人將其喚醒
+- `10+`：成功抵抗，本場景不再受同一領主催眠
+
+最古老、最強大的吸血鬼最終會成為吸血鬼領主。它們比一般吸血鬼更快、更強、更難殺，也有足夠時間磨練高階魔法。它們常以力量與催眠壓服其他怪物，並策動對人類最致命的長期威脅。
+
+更可怕的是，吸血鬼領主通常極難徹底殺死。其「不滅機制」各不相同：有些被肢解仍活、有些心臟穿刺只會癱瘓、有些會在固定時間後復活、有些只要灰燼沾上一滴血就可歸來。每位領主的永生與毀滅條件，幾乎都高度個體化。

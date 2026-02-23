@@ -5,317 +5,227 @@ sidebar:
   order: 6
 ---
 
-Succubus Queen
-Type: Demon Lord
-Max Harm: 15
-Armor: 2 (0 vs soulbound)
-Attacks: Claws (4 harm, close) or torturous lightning (4 harm, fire, ranged)
-Attack Effects: 2
-Enthrall: As an action a succubus queen can attempt to enthrall a victim, and have them follow its every 
-command. A target must make a Resist Dark Magic move – on a result of 6 or below, they immediately 
-move to the succubus under its command, and can make no further actions except those ordered to. On a 
-result of 7-9, they’re enthralled for the rest of the scene, or until the succubus takes 4 more harm. On a 10+, 
-they shrug off the enthrall, and can’t be targeted again this scene.
-Soul Drain: If a succubus has in their grasp a sleeping or helpless victim, or someone they’ve enthralled, they
-can drain their target’s soul, dealing (4 harm, ignores armor) and healing equal to the harm dealt. If this 
-attack would kill a creature, the succubus can instead puts them into a deep sleep – when they awaken, 
-exhausted, they act as normal, but will obey all of the succubus’s commands until the curse is broken with 
-ritual magic or the succubus is slain.
-A succubus queen is an ancient, elder succubus, far more powerful than its lesser kin. In their true form, a 
-succubus queen can be much taller than their normal kin – some are as tall as a human, while others are 
-over twice as large. Their demon features are even more exaggerated, with bigger claws and scales, and often
-growing twisted horns.
-A succubus queen only concerns herself with the corrupting of the most important figures – heads of state, 
-powerful monster hunters, and important religious figures. While she may charm lesser victims, they’re 
-often discarded, and become despondent and suicidal once the queen has left. Unlike normal succubi, and 
-succubus queen is more than happy to tear victims apart with her claws if need be, but is even happier to see
-her minions throw themselves to their deaths for her.
-Fey
-The faerie realms are not farm from the human one – walk into any deep forest, far enough from 
-civilization, and you may end up there. There, the land is more alive, more powerful, and more wild. 
-Mortals find themselves endlessly lost, with direction and time not working as they expect – while the fey 
-who make their home slide through effortlessly.
-The fey are made of primal nature, but even nature has rules it must follow. The fey are ruled by the Faerie 
-Lords, and they draw their magic from bound oaths and bargains – which you can enter into without ever 
-knowing it. To take from the fey, or to accept their help is to enter a pact with which you may not know the 
-details – but said pact-makers are always bound to tell the truth, no matter how much they may lie. The 
-more powerful the fey, the more oaths and limitations their magic is bound up in. While fey have their own 
-unique forms of magic when it comes to wish-granting and enchantments, many are also capable 
-practitioners of astral, necromantic, or infernal magic. In addition to their oaths, fey also share other 
-weaknesses – many are weak to iron blades, and others more plant-like are weak to fire. 
-Monsters
-97
+# 妖精（Fey）
 
-Understanding the mind of the fey is difficult for humans. Fey see themselves and their needs above those of
-humans, and don’t consider human feelings to matter at all, much like a woodcutter does not consider the 
-feelings of a tree. Lesser fey can at least be comprehended to some degree, as mischievous tricksters who 
-perform cruel pranks just to see the reaction. More powerful fey hold court with their subjects, in 
-complicated games that take decades to play out that can be a hazard for mortals to be caught in the middle 
-of.
-Alraune
-Type: Fey Lord
-Max Harm: 15
-Armor: 3 (1 vs iron or fire)
-Attacks: Vine Spear (4 harm, close),
-Flying Seeds (3 harm, ranged)
-Attack Effects: 2
-Blood Drain: Whenever an alraune
-deals at least 1 harm with its Vine Spear,
-it drains blood from its victim. After
-draining blood, it can choose to heal 1
-Harm, or add an additional attack effect
-to Flying Seeds on its next action.
-Thicket: A creature must make a Daring
-Action move to be able to reach an
-alraune’s main body, due to the tangle
-of thick thorns surrounding it. The
-downside on this move is always to
-suffer 2 harm (ignores armor).
-Alraunes are plant-like fey that appear
-at first simply as large flowers – often
-roses, or other beautiful blooms with a tangle of thorny vines around them. When dormant, the flower curls 
-up, that when opens sprouts a figure that’s person shaped from the waist-up. Some figures From the center 
-of the flower sprouts a figure that appears to be a person from the waist-up. When dormant, the flower 
-closes in around the figure for protection.
-Spilled blood on fertile ground can give birth to an alraune – especially so if the bloodshed is constant, or 
-the ground touched by magic. Execution grounds, old slaughterhouses, or battlefields are their most 
-common sprouting spots. After it grows, an alraune hungers for more blood – its vines stretch out, seeking 
-animals to impale and drain the fluids of, leaving withered husks behind. When no prey is around, Alraune 
-give birth to dryads, who seek to lure human victims into the alraune’s clutches. Alraune are selfish 
-creatures, and have no desire or ability to make more of their own – their seeds wither and die if taken too 
-far from the base creature, and if allowed to sprout near the Alraune, grow into dryad servants, or more 
-vines and flowers under the alraune’s control.
-Monsters
-98
+## 魅魔女王（Succubus Queen）
 
-Doppelganger
-Type: Fey Warrior
-Max Harm: 10
-Armor: 2 (0 vs iron)
-Attacks: Sword, axe, or other weapon (3 harm, close)
-Attack Effects: 2
-Mimicry: A doppelganger can choose a character to mimic the actions of. If it attacks, the doppelganger 
-attacks. If it defends, the doppelganger defends. When performing this way, the mimicked character suffers -
-1 Ongoing to all moves against the doppelganger, and the doppelganger gains an additional Attack Effect.
-Mind Reader: Attempts to use the Knowledge move against a doppelganger suffer -1 Ongoing. If the 
-Knowledge move has a result of 6 or below the Doppelganger gets an additional attack effect on their next 
-action.
-Cunning shapeshifters, the true form of a doppelganger looks like a person made out of unbaked clay, gray, 
-hairless, and lumpy. Doppelgangers can change their shape at will, changing their appearance to look like 
-any other person, as well as morph their clothing and the items they carry, although if any morphs objects 
-leave its hands they fade away into smoke. When slain, a doppelganger reverts to its normal form, revealing 
-its deception.
-Doppelgangers are predatory fey who seek to replace mortals in their life to cause as much misery as 
-possible before slipping away, and watching the destruction unfold. They disguise themselves as another, 
-and commit betrayals or atrocious acts, making sure that their crimes are witnessed. The impersonated 
-victim is then left with the blame – and the more righteous, more spotless the victim the start, the better for 
-the doppelganger. To aid them, doppelgangers are able to read the surface thoughts of others, letting them 
-always say and act as expected in the moment to moment. When they kill someone, they fully absorb that 
-person’s memories.
-Monsters
-99
+- 類型：惡魔領主
+- 最大傷害：15
+- 護甲：2（對魂縛為 0）
+- 攻擊：爪擊（`4 傷害`，近距離）或折磨雷電（`4 傷害`，火焰，遠端）
+- 攻擊效果：2
 
-Dullahan
-Type: Fey Warrior
-Max Harm: 14
-Armor: 2 (0 vs iron)
-Attacks: Bone Whip (4 harm, reach),
-Word of Death (2 harm, ranged,
-ignores armor)
-Attack Effects: 2
-Portent of Death: The first time a
-dullahan stops its ride each night, it
-delivers a grim portent of death
-against one person present. That
-person suffers an additional 2 harm
-anytime it takes harm, until the start
-of the next night.
-A headless rider, a dullahan is always
-seen riding atop a black horse, or
-driving a carriage decorated with
-bones. The dullahan dresses in black,
-and carries its rotting, grinning ahead
-under one arm – with the other
-controlling its horse, or wielding a long whip made from spine bones. The hoof beats of the dullahan’s 
-horse, and cackle of its head are carried great distance by the wind, the unnatural echoing serving as a 
-warning and threat.
-Dullahans are servants of necromantic fey lords, set out to strike fear in mortals, and make them cower from
-the might of the fey. Fey that feed off of terror employ them, with the dullahan’s night rides providing an 
-ample feast of dread. They kill one mortal each ride, unless opposed, in which case they ride off, and return 
-with a retinue of undead or other fey to slay those that tried to stop them. When killed, a dullahan, horse, 
-and its carriage melt away into black smoke.
-Dryad
-Type: Fey Minion
-Max Harm: 4
-Armor: 1 (0 vs fire)
-Attacks: Raking claws (2 harm, close)
-Attack Effects: 1
-Plants born from magic, dryads come in many forms, but all appear to be human-shaped and composed of 
-living plants. Green twisted vines with sprouting flowers, tree branches wrapped into limbs, or even just a 
-mass of moving moss and algae are all possible compositions a dryad can take.
-Monsters
-100
+`魅惑支配`：魅魔女王可用一個行動嘗試魅惑目標。目標需進行「抵抗黑魔法」。
+- `6 以下`：立刻移動到魅魔女王身旁並受其控制，只能執行她下令的行動。
+- `7-9`：在本場景剩餘時間都處於魅惑，或直到魅魔女王額外承受 `4 傷害`。
+- `10+`：成功抵抗，本場景不再受同一魅魔女王影響。
 
-Dryads are created by fey, and don’t have much of a mind of their own. They follow the wills of their 
-creators, and while they can think and adapt, they’re single-minded in purpose and don’t care about their 
-own well-being. They can’t talk, and can only make noises like laughs, screams, or wordless singing, which 
-they often use to get the attention of their prey. When slain, a dryad collapses into a pile of vegetation that 
-quickly rots over the course of a day.
-Elf
-Type: Fey Warrior
-Max Harm: 8
-Armor: 2 (1 vs iron)
-Attacks: Silver longsword (3 harm, close, silver) or Silver spear (3 harm, close, silver)
-Attack Effects: 2
-The rank and file of the fey armies, elves look human if not for being too perfect. Tall and figuresque, elves 
-have an enchanting look to them such that anyone who looks upon them sees an ideal figure of beauty, but 
-struggles to describe it later. However they look, something is obviously off – be it just a little too tall, too 
-angular, too smooth, too handsome, too soft, or otherwise just too perfect.
-Most fey that mortals interact with in a way that isn’t entirely negative are elves. The elves make up the 
-majority of the fey courts, and are the ones most often serving as deal-makers, “gracious” hosts, and 
-manipulators to mortals who enter their territory; mostly because they find outsmarting and tricking 
-humans more fun than just outright killing them. Elves have a natural aptitude to magic, and are capable of 
-becoming powerful sorcerers and fey lords through study.
-Frozen Shade
-Type: Fey Warrior
-Max Harm: 10
-Armor: 2 (0 vs iron or fire)
-Attacks: Icy Shard (3 harm, ranged)
-Attack Effects: 2
-Icy Winds: A frozen shade is constantly surrounded by icy winds. Any Battle moves used to attack it at range 
-with a non-fire weapon suffer -1 Ongoing, and any Daring Action moves used to navigate through ice or 
-water near it suffer -1 Ongoing. 
-Frozen shades are spirits that appear as ethereal, graceful figures made entirely out of deep blue ice, 
-complete with frosted hair. Some appear to be naked, while others wear flowing blue clothes that billow in 
-the icy wind that constantly surrounds them. They can casually glide through the air or water, and rarely 
-walk.
-Haunt icy rivers and ponds, frozen shades lure out their victims to the water before drowning them. At areas 
-that are only frozen during certain times of year, the frozen shades are dormant otherwise, returning with 
-the frost. Cruel and capricious, frozen shades only true desire is to drown others in their icy waters, which 
-strengthens and feeds them. Often, they’ll delay the death of a victim if others are nearby, to bring more to 
-the water.
-Monsters
-101
+`吸魂`：若魅魔女王抓住熟睡、無助或已被魅惑目標，可吸取靈魂，造成 `4 傷害`（無視護甲）並回復等量傷害。若此攻擊會致死，她可改讓目標陷入深度睡眠；甦醒後雖可正常行動，但會持續服從其命令，直到儀式魔法破咒或魅魔女王被殺。
 
-Goblin
-Type: Fey Minion
-Max Harm: 2
-Armor: 1 (0 vs fire)
-Attacks: Claws (1 harm, close)
-Attack Effects: 1
-One of the lowest and most chaotic of fey, the look of goblins is as wild as the realms they come from. Their 
-skin can be smooth or rough, sometimes covered in warts, and colored like stone, earth, leaves, or water. 
-Their ears and noses range from gigantic, to just slits against their hair. Whatever they look like, all goblins 
-are short, strange creatures.
-Goblins are beneath the note of most fey lords. Numerous to the extreme, they’re more akin to vermin in 
-the eyes of their master, albeit vermin that can be entertaining when unleashed on the unsuspecting. 
-Goblins have little concern for the needs of others, and are cowardly to the extreme in caring about 
-themselves. Despite this, they still manage to work together effectively, understanding that teamwork is 
-useful in their goals – which largely consist of theft, sabotage, and fatal mischief.
-Golden Muse
-Type: Fey Lord
-Max Harm: 20
-Armor: 3 (1 vs iron)
-Attacks: Cane or Fist (4 harm, close)
-Attack Effects: 2
-Pull the Strings: As an action the Golden Muse can fill the
-air with a tune or poem that fills its targets with a strong
-emotion – rage, fear, desire, or anything else. All who hear
-it must make a Resist Dark Magic move – on a result of 6
-or below, they’re filled with the emotion, and must act on it
-until the Muse departs. On a 7-9, they feel the song’s pull,
-and suffer -1 Ongoing to all moves that act against the
-emotion until the Muse departs. On a 10+, they’re immune
-to the effects.
-Tales Made Real: As an action, the Golden Muse can conjure creatures that appear animated as musical lines,
-painted images, or outlines in ink. The creatures act immediately when conjured. A single warrior-strength 
-creature, or three minion-strength creatures can be summoned with a single action.
-A fey lord who loves to travel in human civilization, the Golden Muse’s true form is unknown. They can 
-change their shape, but only appear as their own person and never duplicating the form of another, and 
-rarely change shape when working out of a particular area. Regardless of shape, they’re always dressed in an 
-elaborate golden or yellow outfit of expensive and fashionable design, often with a golden mask to hide their
-face.
-Monsters
-102
+魅魔女王是古老而強大的高位魅魔。其真身通常比一般魅魔更高大，可能與人類同高，也可能高達兩倍以上；惡魔特徵更誇張，常有更大爪、更多鱗片與扭曲角。
 
-The Golden Muse is a powerful fey lord with deep ties to astral magic, and who especially loves the creative 
-works of mortals in all their forms: music, architecture, art, poetry, literature, and plays have all caught the 
-Muse’s eye. The Muse approaches talented artists – especially those who have yet to ‘break out’ - and 
-approaches them, helping to influence their work, and get them noticed through use of its glamours and 
-mental manipulation. Through the Muse’s influence, magic is woven into the art that causes surges of 
-emotions to run through its audience. Homicidal outbursts, suicidal hopelessness, or destructive celebration 
-are all common in the audience, with the only way to cure it to be to drive the Muse away, and perform 
-powerful ritual magic thematically tied to the situation.
-Redcap
-Type: Fey Warrior
-Max Harm: 12
-Armor: 2 (0 vs iron)
-Attacks: Wicked pike (4 harm, reach, iron), thrown boulder (3 harm, ranged)
-Attack Effects: 2
-Blood-Soaked-Bandanna: A redcap can soak their bandanna in the blood of the recently slain. If a redcap 
-kills a foe in melee, they’ll take their next action to soak their bandanna. When they do so, they immediately 
-gain +2 maximum harm. If the bandanna. is taken from them, the redcap weakens: they lose 4 maximum 
-harm, an attack effect, and all their attacks deal one less harm.
-A murderous fey draw to sites of great bloodshed, redcaps appear as small, shriveled old men with large 
-teeth and wiry hair, wearing crimson bandanna and wielding over-sized weapons. Despite their size they are 
-frighteningly strong, easily able to overpower a human. Redcaps have a single-minded obsession with 
-murder, and while they prefer humans, they’ll kill animals in a pinch. When they kill someone, they soak 
-their bandanna. in the victim’s blood, staining it. The deeper the red of the bandanna., the stronger and 
-more crazed the redcap becomes. The color lessens over time, and were the cloth to ever become white, the 
-redcap dies.
-Redcaps make their homes in places where blood was shed, particularly if done so maliciously – the old 
-castles of torturers and tyrants are a favorite, but they’ve also been drawn to houses of healing or butchers’ 
-slaughterhouses. They’re happy to work in groups, and plot and plan out the way to enact the maximum 
-bloodshed possible, often picking isolated victims out first to strengthen themselves before a wholesale 
-slaughter. Due to their strength and vicious nature, redcaps are a favorite guard and soldier for fey lords, 
-who often keep a retinue of them ready to unleash against their enemies.
-Rusalka
-Type: Fey Warrior
-Max Harm: 10
-Armor: 2 (0 vs iron)
-Attacks: Claws (3 harm, close)
-Attack Effects: 2
-Drag Under: As its action, a rusalka can latch onto a character, dragging them under the water. They require 
-a Daring Action move with a result of 7+ to break free, but suffer -2 Ongoing as the rusalka holds them down.
-For each of its actions the character starts under water, they suffer 1 harm (ignores armor).
-Monsters
-103
+她們只關心腐化最重要的人物，例如國家領袖、頂尖怪物獵手、關鍵宗教人士。普通受害者即使被魅惑，也常在她離去後被棄置，陷入消沉甚至自毀。與一般魅魔不同，魅魔女王必要時非常樂意親手撕裂獵物；但她更樂於看見自己的僕役為她赴死。
 
-While glamoured to appear to be the image of beauty in its observers eyes, rusalka have a true form that’s 
-far more hideous, with webbed hands and feet, slimy scales, hair of seaweed, and a mouth full of shark-like 
-teeth.
-Rusulka live in any sort of water, fresh or salt, commonly making their homes at rivers, lakes, near ocean 
-rocks just on the edge of where humans dwell. Using their glamour, they draw passersby to them, and once 
-they’re within reach, grab them and drown them. A rusalka’s water can quickly become littered with the 
-bones of their many victims.
-Siren
-Type: Fey Warrior
-Max Harm: 10
-Armor: 1 (0 vs iron)
-Attacks: Claws and talons (3 harm, close)
-Attack Effects: 2
-Siren Song: As an action a siren can sing a song so enthralling, whoever hears it can’t help but march towards
-them, no matter the risk. All nearby creatures must make a Resist Dark Magic move – on a 6 or below, they 
-immediately move to reach the siren, no matter what danger they go through, until the song ends. On a 
-result of 7-9, they move towards the siren for their next action, but can make other actions and defend 
-themselves as normal. On a 10+, they resist the song, and can’t be affected by a siren song again this scene.
-Sirens are fey with the bodies of beautiful people, with variously bird-like parts. Some have feathery wings 
-growing from their back, others have the wings instead of their arms, their skin can either be smooth or 
-covered in brightly colored feathers, and their legs are sometimes that of a bird with large talons.
-Charming and coy, sirens nest along cliffs or rocky outcroppings in water, and use their song to lure victims 
-to their death. They love watching mortals walk off of cliffs, or step off boats into the sea and drown. Sirens 
-also take delight in music and poetry, and can be drawn to a beautiful song just as their song draws others to 
-them.
-Treant
-Type: Fey Warrior
-Max Harm: 14
-Armor: 3 (1 vs iron or fire)
-Attacks: Huge Branch (4 harm, close)
-Attack Effects: 1
-Cousins to dryads, treants are the towering guardians of the fey realms. Normally looking like massive trees, 
-treants have the ability to lift their roots up like massive feet, swing and curl their branches like arms, and 
-grow a face to speak out grim warnings in their rumbling tone. Treants look like trees that match their locale,
-but signs of unusual trees for the area are indications of stepping into the feyrealm, where the landscape is 
-soon to change, or the feyrealm pushing out into other territory.
-Monsters
-104
+## 妖精總論
+
+妖精國度離人界其實不遠。只要走進遠離文明的深林深處，你就可能誤入其中。那裡的土地更鮮活、更強大，也更野性。凡人在其中常會永遠迷失，方向與時間都不再可靠；但以此為家的妖精卻能自在穿行。
+
+妖精源於原初自然，但自然也有法則。妖精受「妖精領主」統治，其魔法建立在誓約與交易上；而你可能在毫無察覺下就已與他們締約。向妖精索取、或接受其幫助，往往就是入約，哪怕你不知道條文細節。締約者必須說真話，但這不妨礙他們以真話撒謊。
+
+越強大的妖精，其魔法越深受誓約與限制束縛。除了願望、魅惑等獨特妖精術式，許多妖精也擅長星界、死靈、或地獄魔法。共同弱點方面，許多妖精懼怕鐵刃，而偏植物性的妖精常怕火。
+
+人類很難真正理解妖精思維。妖精總把自身與自身需求放在人類之前，往往不在乎人類感受，就像伐木工不在意樹木感受。較弱妖精尚可理解為惡作劇成性、以殘酷取樂的騙子；高位妖精則在宮廷中玩複雜權力遊戲，一盤局能拖上數十年，而凡人若被捲入，通常是災難。
+
+## 曼陀蘿妖（Alraune）
+
+- 類型：妖精領主
+- 最大傷害：15
+- 護甲：3（對鐵或火為 1）
+- 攻擊：藤矛（`4 傷害`，近距離）、飛行種子（`3 傷害`，遠端）
+- 攻擊效果：2
+
+`吸血`：曼陀蘿妖每次以藤矛造成至少 `1 傷害`，便可吸取目標血液。吸血後可選擇：
+- 回復 `1 傷害`，或
+- 讓下一次「飛行種子」額外獲得 1 點攻擊效果。
+
+`荊棘叢障`：因主體周圍有厚重荊棘纏繞，想接近曼陀蘿妖主體必須進行一次「大膽行動」。該動作的固定代價為承受 `2 傷害`（無視護甲）。
+
+曼陀蘿妖是植物系妖精，乍看只是大型花朵（多為玫瑰等美麗花種）與荊棘藤網。花心會長出人形上半身；休眠時花瓣會闔起包覆主體。
+
+灑落在肥沃土地上的鮮血，尤其是持續流血或受魔法影響的土地，可能孕生曼陀蘿妖。舊刑場、屠宰場、戰場是常見萌生地。成長後它會渴求更多血液，伸出藤蔓刺穿動物並吸乾，只留枯殼。
+
+若附近缺乏獵物，曼陀蘿妖會催生樹妖（Dryad）去引誘人類。曼陀蘿妖自私，既無意也無力繁殖同類；其種子離本體太遠會枯死，若在本體附近萌發，通常只會成為樹妖僕從或受其控制的藤蔓花叢。
+
+## 替身妖（Doppelganger）
+
+- 類型：妖精衛士
+- 最大傷害：10
+- 護甲：2（對鐵為 0）
+- 攻擊：劍／斧／其他武器（`3 傷害`，近距離）
+- 攻擊效果：2
+
+`模仿`：替身妖可指定一名角色作為模仿對象。對方攻擊，它也攻擊；對方防禦，它也防禦。模仿期間，被模仿者對替身妖的所有動作承受 `-1 持續加值`，且替身妖額外獲得 1 點攻擊效果。
+
+`讀心`：對替身妖使用「理解戰況」承受 `-1 持續加值`。若該動作結果 `6 以下`，替身妖下一次行動額外獲得 1 點攻擊效果。
+
+替身妖是狡詐的變形者。真身像未燒製黏土塑成的人形：灰色、無毛、表面凹凸。它可任意改變外貌，模仿任何人，連衣物與手持物都能一併擬態；但離手後，這些擬態物會化煙消散。替身妖死亡時會恢復真身，揭露騙局。
+
+替身妖是掠食型妖精，目的不是單純殺人，而是「取代」某人並把其人生徹底毀掉。它們會以受害者外貌犯下背叛與暴行，確保有人目擊，讓真正被冒名者背負罪責。受害者越清白，替身妖越滿足。其表層讀心能力，讓它能在當下精準說出「合理」台詞。一旦它殺死某人，還可完整吸收對方記憶。
+
+## 無頭騎士（Dullahan）
+
+- 類型：妖精衛士
+- 最大傷害：14
+- 護甲：2（對鐵為 0）
+- 攻擊：骨鞭（`4 傷害`，觸及）、死亡宣告（`2 傷害`，遠端，無視護甲）
+- 攻擊效果：2
+
+`死亡預兆`：每晚第一次停駕時，無頭騎士會對在場一人降下死亡預兆。該目標在下個夜晚開始前，每次受傷都額外承受 `2 傷害`。
+
+無頭騎士總是騎著黑馬，或駕駛飾滿骨骸的馬車。它身穿黑衣，一手夾著腐爛獰笑的自頭，另一手控韁或揮舞脊骨長鞭。馬蹄聲與頭顱怪笑可被風帶到極遠處，像警告也像威脅。
+
+無頭騎士是死靈系妖精領主的使者，用來恐嚇凡人、逼其畏服妖精威勢。以恐懼為食的妖精領主常驅使它夜巡，每次巡行都能收割大量驚駭。它每趟夜巡通常會殺死一名凡人；若遭阻撓，則會先撤離，改日帶著不死族或其他妖精隨從回來清算。被擊殺後，騎士、黑馬與馬車都會化為黑煙。
+
+## 樹妖（Dryad）
+
+- 類型：妖精僕役
+- 最大傷害：4
+- 護甲：1（對火為 0）
+- 攻擊：抓裂爪擊（`2 傷害`，近距離）
+- 攻擊效果：1
+
+樹妖是由魔法催生的植物生命，外型多變，但都近似人形並由活植物構成：可為綠藤與花、樹枝編成四肢，甚至是一團流動苔蘚與藻類。
+
+樹妖由其他妖精創造，心智自主性很低。它們遵從創造者意志，雖能思考與適應，卻極度單一目標，也不在乎自身安危。樹妖不會說話，只能發出笑聲、尖叫或無詞歌聲，常拿來引誘獵物注意。被擊殺後，樹妖會崩解成植物堆，並在一天內迅速腐爛。
+
+## 精靈（Elf）
+
+- 類型：妖精衛士
+- 最大傷害：8
+- 護甲：2（對鐵為 1）
+- 攻擊：銀長劍（`3 傷害`，近距離，銀）或銀矛（`3 傷害`，近距離，銀）
+- 攻擊效果：2
+
+精靈是妖精軍勢的主力。若不計「過於完美」這點，看起來幾乎像人。身形修長、姿態優雅，任何目睹者都會覺得它們極具魅力，卻很難事後準確描述。
+
+不論實際長相如何，總會有哪裡「不太對」：可能過高、過銳、過平滑、過俊美、過柔和，總之完美得不自然。
+
+凡人若與妖精發生不完全敵對的接觸，最常遇見的就是精靈。精靈構成妖精宮廷多數，也常擔任談判者、貌似慷慨的主人、以及操弄凡人的中介。原因通常很簡單：比起直接殺人，智取與戲弄人類更有趣。精靈對魔法天賦優秀，經學習可成為強大術士乃至妖精領主。
+
+## 冰霜幽影（Frozen Shade）
+
+- 類型：妖精衛士
+- 最大傷害：10
+- 護甲：2（對鐵或火為 0）
+- 攻擊：寒冰碎片（`3 傷害`，遠端）
+- 攻擊效果：2
+
+`凍風環繞`：冰霜幽影周身常伴嚴寒氣流。任何以非火焰遠距武器攻擊它的「浴血奮戰」動作承受 `-1 持續加值`；任何在其附近冰面或水域移動的「大膽行動」也承受 `-1 持續加值`。
+
+冰霜幽影是由深藍寒冰構成的靈體，姿態飄逸，連髮絲都覆霜。有人看見它們裸身，也有人看見藍色流動長衣。它們能在空中或水中滑行，幾乎不步行。
+
+它們常棲於寒河與凍池，將受害者引向水中再溺斃。若某地只在特定季節結冰，冰霜幽影平時休眠，待霜降再現。這類生物殘酷而反覆無常，唯一渴望就是讓更多生命沉入寒水；這會使它們更強。若附近還有其他人，它們往往故意拖延受害者死亡，以吸引更多獵物靠近。
+
+## 哥布林（Goblin）
+
+- 類型：妖精僕役
+- 最大傷害：2
+- 護甲：1（對火為 0）
+- 攻擊：爪擊（`1 傷害`，近距離）
+- 攻擊效果：1
+
+哥布林是妖精中地位最低、也最混亂的一群，外觀與其出身荒野同樣失序。皮膚可平滑或粗糙、可有疣，顏色像石土葉水；耳鼻可能巨大，也可能只剩裂縫。不論外型如何，哥布林都矮小且古怪。
+
+在多數妖精領主眼裡，哥布林只是大量、可拋耗的害物，頂多在「放出去咬人」時有點娛樂價值。哥布林非常自私、也極度怯懦；但它們也明白合作有利，於是依舊能在偷竊、破壞、致命惡作劇上展現驚人協作。
+
+## 鍍金繆思（Golden Muse）
+
+- 類型：妖精領主
+- 最大傷害：20
+- 護甲：3（對鐵為 1）
+- 攻擊：手杖／拳擊（`4 傷害`，近距離）
+- 攻擊效果：2
+
+`牽動心弦`：鍍金繆思可用一個行動奏出旋律或詩句，向目標灌入強烈情緒（憤怒、恐懼、欲望等）。所有聽見者都需進行「抵抗黑魔法」。
+- `6 以下`：完全被情緒支配，直到繆思離場前都必須依情緒行事。
+- `7-9`：仍受牽引，凡違逆該情緒的行動皆承受 `-1 持續加值`，持續到繆思離場。
+- `10+`：免疫此效果。
+
+`故事成形`：鍍金繆思可用一個行動具現生物，外觀像動起來的樂譜線條、彩繪影像或墨線輪廓。被召喚生物立即行動。一次行動可召喚 1 名衛士級生物，或 3 名僕役級生物。
+
+鍍金繆思是熱愛在人類文明間旅行的妖精領主，其真身無人知曉。它可改變外貌，但只扮演「自己的不同樣貌」，不會複製他人。若在某區長期活動，通常也不常換形。
+
+不論外形如何，它總穿著奢華且時髦的金色／黃色服裝，常戴金面具掩面。
+
+鍍金繆思與星界魔法聯繫深厚，且極度迷戀凡人創作：音樂、建築、繪畫、詩、文學、戲劇皆可能成為目標。它特別會接近尚未成名但有才華的創作者，以魅惑與心智操控介入其作品並推其「爆紅」。
+
+在繆思影響下，作品會被織入魔法，引發觀眾情緒暴衝。常見後果包括衝動殺人、自毀絕望、失控狂歡。要解除這種污染，通常必須先驅離繆思，再施行與事件主題強關聯的高階儀式魔法。
+
+## 紅帽（Redcap）
+
+- 類型：妖精衛士
+- 最大傷害：12
+- 護甲：2（對鐵為 0）
+- 攻擊：邪惡長矛（`4 傷害`，觸及，鐵）、投石（`3 傷害`，遠端）
+- 攻擊效果：2
+
+`染血頭巾`：紅帽可將頭巾浸於剛死者血液。若紅帽近戰擊殺目標，下一次行動通常會拿去浸血；完成後立刻獲得 `+2 最大傷害`。若頭巾被奪走，紅帽會衰弱：失去 `4 最大傷害`、少 1 點攻擊效果，且所有攻擊傷害 `-1`。
+
+紅帽是被血腥場所吸引的嗜殺妖精，外觀像乾瘦老頭，長大牙與亂髮，戴深紅頭巾、持過大武器。雖體型矮小，力量卻驚人，可輕易壓制人類。紅帽對殺戮有單一執念，首選人類，沒得選也會殺動物。每次殺人都會拿血染巾；頭巾越紅，紅帽越強、也越癲狂。顏色會隨時間褪去，若頭巾完全變白，紅帽即死。
+
+紅帽常棲居於曾發生惡意流血之處：暴君與酷吏的古堡是最愛，也常見於醫療場所或屠宰場。它們樂於群體行動，會預謀最大化流血，通常先挑孤立目標補強自己，再發動大規模屠殺。因為夠強且夠兇，紅帽常被妖精領主當作親衛與突擊兵。
+
+## 魯薩卡（Rusalka）
+
+- 類型：妖精衛士
+- 最大傷害：10
+- 護甲：2（對鐵為 0）
+- 攻擊：爪擊（`3 傷害`，近距離）
+- 攻擊效果：2
+
+`拖入水下`：魯薩卡可用一個行動抓住角色並拖入水中。目標需進行一次「大膽行動」且結果 `7+` 才能脫困；但在被按壓期間進行此動作要承受 `-2 持續加值`。角色每次在水下開始自己的行動時，承受 `1 傷害`（無視護甲）。
+
+魯薩卡外層魅惑會讓觀者把它看成絕美容貌；但真身極其醜惡：蹼手蹼足、黏滑鱗片、海藻般長髮、滿口鯊齒。
+
+魯薩卡可棲於淡水或海水，常盤據河流、湖泊、近岸礁岩。它用魅惑把路人引近，接著抓住並溺死。久而久之，巢水底會堆滿受害者骨骸。
+
+## 海妖（Siren）
+
+- 類型：妖精衛士
+- 最大傷害：10
+- 護甲：1（對鐵為 0）
+- 攻擊：爪與足爪（`3 傷害`，近距離）
+- 攻擊效果：2
+
+`海妖之歌`：海妖可用一個行動歌唱，讓聽者無法抗拒地走向她，不計風險。所有附近生物需進行「抵抗黑魔法」。
+- `6 以下`：立即不顧危險朝海妖移動，直到歌聲停止。
+- `7-9`：下一次行動會朝海妖移動，但仍可正常防禦與做其他行動。
+- `10+`：成功抵抗，本場景不再受同一首歌影響。
+
+海妖具美麗人形與各類鳥類特徵。有些背生羽翼，有些手臂即羽翼；皮膚可光滑，也可覆鮮色羽毛；腿部有時是具巨爪的鳥足。
+
+她們迷人且挑逗，常在海崖與岩礁築巢，靠歌聲引人赴死。她們最愛看凡人走下懸崖，或踏離船隻落海溺亡。海妖也熱愛音樂與詩歌，因此也可能被真正動人的歌聲吸引，正如凡人被其歌聲吸引。
+
+## 樹靈（Treant）
+
+- 類型：妖精衛士
+- 最大傷害：14
+- 護甲：3（對鐵或火為 1）
+- 攻擊：巨枝重擊（`4 傷害`，近距離）
+- 攻擊效果：1
+
+樹靈是樹妖的近親，也是妖精國度高聳的守衛者。平時看似巨樹，但可拔根為足、擺枝為臂，並長出臉孔以低沉嗓音發出嚴厲警告。樹靈外貌通常符合當地樹種；若在某地看見不合環境的異常樹種，往往是踏入妖精界、或妖精界正向外擴張的徵兆。
+
+樹靈由注入魔法的樹苗培育而成，以獲得智能。它們對創造者極忠誠，甚至在創造者死後也仍持續服從，且完全不介意長年靜止守衛。雖然強大，樹靈很少被用於快速征服，頂多用在「緩慢推移邊界」；它們太慢，不適合主動攻勢。
+
+## 鬼火（Will-o’-the-wisp）
+
+- 類型：妖精僕役
+- 最大傷害：1
+- 護甲：0（僅能被魂縛武器、火焰或魔法傷害）
+- 攻擊：冷焰（`2 傷害`，近距離，火焰）
+- 攻擊效果：1
+
+鬼火又常被稱作「妖精燈」，是夜間荒野中出現的亮光幽靈，會引導旅人離開安全路徑。它們如提燈般漂浮明滅，吸引好奇者跟隨。等受害者深入後，鬼火就把人引向懸崖、河流或埋伏怪物，隨即熄滅消失。
+
+鬼火在隱形狀態下無法直接傷害他者，因此偏好讓自然危險替它殺人，再吞食新死者散逸出的靈氣。

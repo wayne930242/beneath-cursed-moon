@@ -5,223 +5,172 @@ sidebar:
   order: 4
 ---
 
-Beasts
-Beasts are all variety of animalistic creatures, including natural (like wolves and bears), fantastical (like giant 
-spiders and dragons), and intelligent or cursed (like minotaur and werewolves). It’s a broad category, that 
-draws in anything that’s animal-like and not belonging to one of the other categories.
-Normal animals in the beast category aren’t necessarily vicious on sight, but nor are they non-supernatural, 
-either. Not every random wolf or bat is a major threat to everything around them, but dark influences of 
-other monsters can drive them to aggression, and lots of werewolves have dominated a normal wolf pack. 
-For some of the larger beasts, like griffins or manticores, they’re best used as an obstacle in the way of some 
-other goal, or having been “tamed” by some stronger monster.
-Arachne
-Type: Beast Warrior
-Max Harm: 12
-Armor: 1
-Attacks: Fangs (3 harm, close) or a sword or axe (4 harm,
-close, iron)
-Attack Effects: 2
-Weakening Poison: An arachne can spend one attack
-effect to weaken its prey whenever it deals harm with its
-fangs, giving the target -1 Ongoing to Battle and Daring
-Action moves until they rest.
-Sticky Web: An arachne guards its lair with giant webs
-that can be difficult to see. Characters moving through
-the arachne’s lair must make a Hunt move, and on a
-result of 6 or less, they’re trapped within the webs and
-helpless. You can try to break free, or break someone
-else free from the webs by making a Battle move: 6 or
-below means you’re so thoroughly stuck you can’t even attempt to break free anymore or the person 
-attempting to help gets stuck as well, while 7 or above means the victim breaks free.
-Arachnes have the lower body of a spider, and upper torso of a human, but come in many forms – some 
-with spider bodies that are furrier, some more chitinous, some with upper bodies that can pass as human, 
-and others that are strange colors like dark green or dusky gray. 
-Arachne make their lairs in isolated caves or abandoned ruins, and use devious traps to snare wanderers or 
-passing animals, and sometimes pose as victims in need to help to lure in the gullible. As a threat, Arachnes 
-primary prey on people for food, with brave ones setting up in more well trafficked areas to have a constant 
-source.
-Monsters
-85
+# 野獸（Beasts）
 
-Bat or Bird Swarm
-Type: Beast Minion
-Max Harm: 2
-Armor: 0
-Attacks: Bite or Peck (1 harm, close)
-Attack Effects: 1
-Trained bats, crows, and other winged, dark birds are common servants of vampire lords and dramatic 
-sorcerers, and the ones nesting in the belfries where demons and undead make their own often become 
-aggressive from the corrupting influence. Individually quite weak, a large swarm of them can surround and 
-overpower their prey.
-Dragon
-Type: Beast Lord
-Max Harm: 20
-Armor: 2
-Attacks: Claws and Teeth (5 harm, close), or Fire Breath (3 harm, fire ranged, group)
-Attack Effects: 2
-Clumsy Flier: While a dragon can fly, it’s not particularly agile when doing so. All moves against a flying 
-dragon take +1 Ongoing; a dragon will usually land, after a first initial fire volley.
-As big as a house, a dragon has four legs, huge leathery wings, fangs as big as a man’s arm, and worst of all, a 
-breath that’s a raging inferno. The most fearsome of all beasts, the dragon has earned its reputation – 
-capable of razing entire villages in one night, and requiring a skilled group of heroes to take down, little can 
-stop a rampaging dragon. Luckily, they’re exceedingly rare, and enter hibernation that can last for years – 
-but when awoken, their appetite is legendary.
-Giant Bat
-Type: Beast Warrior
-Max Harm: 10
-Armor: 1
-Attacks: Bite (4 harm, close)
-Attack Effects: 2
-Deafening Screech: A giant bat can use an attack effect to let out an ear-splitting screech, deafening all 
-nearby until its next action. Deaf characters can’t hear, and so have trouble communicating and using 
-Knowledge to help each other out.
-Gigantic bats with bodies bigger than people, and wingspans as big as buildings are favorite pets of vampire 
-lords. They’re commonly used to guard entrances to the lairs of powerful monsters, or to serve as mounts or
-pets. Taming the carnivorous creatures requires a steady supply of food to keep them happy, in the form of 
-large animals.
-Monsters
-86
+野獸類涵蓋各種動物性生物，包括自然生物（狼、熊）、幻想生物（巨蛛、龍），以及具智能或受詛咒者（牛頭怪、狼人）。只要足夠「獸性」且不屬於其他類別，多半都可歸入此類。
 
-Giant Spider
-Type: Beast Warrior
-Max Harm: 6
-Armor: 1
-Attacks: Venomous Bite (3 harm, close)
-Attack Effects: 2
-Weakening Poison: A giant spider can spend one attack effect to weaken its prey whenever it deals harm with 
-its fangs, giving the target -1 Ongoing to Battle and Daring Action moves until they rest.
-Sticky Web: A giant spider guards its lair with giant webs that can be difficult to see. Characters moving 
-through the spider’s lair must make a Hunt move, and on a result of 6 or less, they’re trapped within the 
-webs and helpless. You can try to break free, or break someone else free from the webs by making a Battle 
-move: 6 or below means you’re so thoroughly stuck you can’t even attempt to break free anymore or the 
-person attempting to help gets stuck as well, while 7 or above means the victim breaks free.
-Giant spiders can range in size to as big as a large dog, or bigger than a person, and make their homes in 
-dark caverns or forests, sometimes even making their lairs in the tunnels underneath abandoned castles. 
-Their nests are filled with giant webs used to trap their prey – and if the webs don’t work, they attempt to 
-incapacitate them with a poisonous bite. The victims are then hung up, wrapped with webbing, and kept to 
-eat at the spider or its young.
-Gorgon
-Type: Beast Lord
-Max Harm: 15
-Armor: 1
-Attacks: Sword (4 harm, close, iron) or Snake Bite (2 harm
-ignores armor, close)
-Attack Effects: 2
-Avert Your Eyes: Anyone who makes a Battle or
-Knowledge moves against a gorgon and gets a result less
-than 10 suffers 1 harm as they catch a glimpse of the
-gorgon’s eyes and slowly turn to stone. A character can
-choose to avoid this effect by taking -1 Forward to the
-move as they close their eyes completely, or blind
-themselves.
-Petrifying Gaze: Anyone who has 3 or less remaining maximum harm and meets the Gorgon’s gaze is 
-instantly turned to stone – slaying the Gorgon will cure them, but not if their stone body is damaged.
-A gorgon is a creature that was once a beautiful human, but changed into a beast by a curse born of its own 
-wickedness. While it retains most of its shape, its legs have been replaced with the body of a snake, and its 
-hair replaced with writing serpents. Now, any who meet its gaze turn to stone, and its beauty can be 
-appreciated no longer.
-Monsters
-87
+野獸類中的一般動物，不一定見人就攻擊；但它們也未必完全不帶超自然影響。普通狼群或蝙蝠不一定是巨大威脅，但可能受其他怪物黑暗影響而變得暴烈，也常見狼人支配一般狼群。
 
-Lonely and bitter, gorgons inhabit places that were once beautiful, but not overrun or fallen into ruin, and 
-bring death to any who disturb them. These tend to be places of historical, magical, or spiritual significance 
-that have since been abandoned, and often still have valuable or important relics left inside. Those who 
-disturb a gorgon can be expected to be turned to stone, with the beautiful defaced as the gorgon is filled with
-jealousy.
-Griffin
-Type: Beast Warrior
-Max Harm: 10
-Armor: 1
-Attacks: Beak and talons (3 harm, close)
-Attack Effects: 2
-Griffins are ill-tempered territorial animals, prone to preying on livestock and travelers. They have the 
-lower-body of a lion, and the upper body of a giant eagle. They make their homes in inaccessible cliffs, 
-overlooking their hunting ground, and always nest in pairs or more. Nearly impossible to train, they can 
-only be cowed by the vicious, or with the help of magic, and turn on their owners. 
-Harpy
-Type: Beast Warrior
-Max Harm: 8
-Armor: 1
-Attacks: Talons (3 harm, close)
-Attack Effects: 2
-Snatch: Whenever harpies spend an attack effect to take something, they can spend another to fly up into the
-air and out of melee weapon reach, even if they’re already swooped down to attack this action.
-Creatures with the body of a giant bird and head of a person, harpies are covered in feathers ranging in color
-from brown to orange, and have especially large, sharp talons. Their human faces appear normal until they 
-twist into unnatural grins, showing a carnivore’s razor teeth.
-Intelligent and sadistic, harpies love nothing more than to capture and torment other creatures. They 
-especially love stripping the flesh from their victims, carrying smaller creatures into the air and dropping 
-them from a great height, or stealing the food and supplies of lost travelers and circling them while they 
-slowly starve. Despite their cruelty, harpies are also extremely cowardly, and would never fight alone, and 
-flee if they feel they’re in real danger.
-Monsters
-88
+對於獅鷲、蠍獅這類大型野獸，較適合當作「達成其他目標前必須跨越的障礙」，或作為被更強怪物「馴化」的守衛。
 
-Manticore
-Type: Beast Warrior
-Max Harm: 12
-Armor: 1
-Attacks: Bite (3 harm, close) or Spines (2 harm, ranged)
-Attack Effects: 2
-Manticores are flying beasts that make their home in high perches, on mountain cliffs or in abandoned 
-towers. They have the body of a lion adorned with a scorpion tail covered in spines, bat wings, and the head 
-of a person with three rows of crushing teeth. Extremely territorial, anything that’s not a manticore’s mate is 
-prey. A flick of their tail can send out a flurry of sharp spines, which they use to kill ground-bound prey. 
-Once its victim is dead, a manticore can unhinge its jaw and devour an entire person whole.
-Minotaur
-Type: Beast Warrior
-Max Harm: 12
-Armor: 1
-Attacks: Horns (4 harm, close) or Giant Axe (5 harm,
-throwable, iron)
-Attack Effects: 2
-Charge: Whenever the minotaur charges at a foe, it gains
-two additional attack effects with its horns.
-A nine foot tall beast with the torso of a man and legs and
-head of a bull, the true origins of the minotaur are
-unknown – they may be the result of a divine curse, a
-reclusive true-breeding species, or a mad magical
-creation. What’s known is that they are extremely territorial and furious, and exhibit little more than 
-animal-level intelligence. Minotaur rarely cross over into human territory due to being herbivores, and so 
-are rarely seen even if they are present. However, their rarity, unique appearance, and ill temper make them 
-a popular monster for intelligent monstrous lords to catch and use to guard important, sealed-off places, or 
-to watch in delight as prisoners are thrown to them to be torn apart.
-Monsters
-89
+## 人蛛（Arachne）
 
-Werewolf
-Type: Beast Warrior
-Max Harm: 10
-Armor: 2 (0 vs silver)
-Attacks: Claws and Fangs (4 harm, close)
-Attack Effects: 2
-Werewolves are one of the most well known and feared of all monsters. They carry the curse of lycanthropy 
-– while they appear as a normal human most of the time, when hurt or angered, and under the light of the 
-full moon, they become bloodthirsty beasts that walk on their hind legs like a man, but have the fur and face 
-of a wolf and sharp claws. For those new to the curse, they have no memory of what they did under its spell 
-– and while the strong willed can fight it, many eventually give in, becoming more animal than man no 
-matter the outer appearance. The curse passes to any who are brought to death’s door by the werewolf’s 
-vicious mauling but manage to survive – at the next full moon, their transformation is complete. The only 
-cure is the poisonous wolfsbane, which must be administered before the next full moon.
-Werewolf Pack Lord
-Type: Beast Lord
-Max Harm: 15
-Armor: 3 (1 vs silver)
-Attacks: Claws and Fangs (4 harm, close)
-Attack Effects: 3
-The largest, most vicious werewolves eventually survive to become pack lords. Cunning and agile in a way 
-few other creatures are, the pack lords have years of experience and command lesser werewolves, with other 
-animals fall under their sway or flee in terror. A pack lord has perfect control over its power, but has utterly 
-lost its humanity to the curse.
-Wolf
-Type: Beast Warrior
-Max Harm: 6
-Armor: 0
-Attacks: Bite (3 harm, close)
-Attack Effects: 2
-Feared by farmers, a wolf is dangerous enough on its own, and one of the animals most easily influenced by 
-dark magic. The presence of demons can turn them irrationally aggressive, vampires can hold sway over 
-them, and werewolves are naturally able to command them. While no threat for an experienced hunter, a 
-whole pack of wolves is a different story.
-Monsters
-90
+- 類型：野獸衛士
+- 最大傷害：12
+- 護甲：1
+- 攻擊：毒牙（`3 傷害`，近距離）或劍／斧（`4 傷害`，近距離，鐵）
+- 攻擊效果：2
+
+`衰弱毒素`：當人蛛以毒牙造成傷害時，可花費 1 點攻擊效果使目標衰弱，直到休息前對「浴血奮戰」與「大膽行動」皆承受 `-1 持續加值`。
+
+`黏網陷阱`：人蛛巢穴布滿巨網且難以察覺。角色穿越巢穴時需進行「追獵」動作；結果 `6 以下` 會被困網中且陷入無助。可用「浴血奮戰」嘗試脫困或救人：`6 以下` 代表卡得更死（甚至救援者也被困），`7 以上` 則成功脫困。
+
+人蛛下半身是蜘蛛，上半身近似人形，外觀差異很大：有些毛茸茸、有些甲殼化；有些上半身可混入人群，有些則呈深綠、灰紫等異色。
+
+人蛛偏好在偏僻洞穴或廢墟築巢，以陷阱捕捉旅人與動物，也常假扮受害者引誘同情者。作為威脅時，它們多以人類為主食，膽大的個體甚至會在交通路線附近定居，以取得穩定獵物來源。
+
+## 蝙蝠／鳥群（Bat or Bird Swarm）
+
+- 類型：野獸僕役
+- 最大傷害：2
+- 護甲：0
+- 攻擊：啃咬／啄擊（`1 傷害`，近距離）
+- 攻擊效果：1
+
+受訓蝙蝠、烏鴉與其他陰暗翼鳥，常作為吸血鬼領主與戲劇化術士的使役。棲息在惡魔或不死族據點附近鐘樓中的群體，也常受腐化影響而變得兇暴。單體很弱，但成群後可包圍並壓制獵物。
+
+## 龍（Dragon）
+
+- 類型：野獸領主
+- 最大傷害：20
+- 護甲：2
+- 攻擊：爪牙（`5 傷害`，近距離）或火焰吐息（`3 傷害`，火焰，遠端，群體）
+- 攻擊效果：2
+
+`笨重飛行`：龍雖能飛行，但機動性不佳。所有針對空中龍的動作獲得 `+1 持續加值`。龍通常在第一輪噴火後就會降落。
+
+龍體型如房屋，四足、巨型皮翼、手臂粗尖牙，最致命的是其烈焰吐息。作為最可怖野獸，龍的惡名名副其實：一夜可毀一村，通常需訓練有素的一整隊英雄才有機會擊倒。
+
+幸運的是龍極為罕見，且常進入可持續數年的冬眠；但一旦甦醒，食慾驚人。
+
+## 巨蝙蝠（Giant Bat）
+
+- 類型：野獸衛士
+- 最大傷害：10
+- 護甲：1
+- 攻擊：啃咬（`4 傷害`，近距離）
+- 攻擊效果：2
+
+`刺耳尖嘯`：巨蝙蝠可花費攻擊效果發出震耳尖嘯，使附近目標失聰直到其下一次行動。失聰角色無法有效溝通，也難以用「理解戰況」互相支援。
+
+巨蝙蝠體型超過成人，翼展可達建築尺度，是吸血鬼領主偏愛的寵物，常被用來守衛強大怪物巢穴入口，或當坐騎。要馴養肉食性的巨蝙蝠，需穩定供應大型動物作飼料。
+
+## 巨蜘蛛（Giant Spider）
+
+- 類型：野獸衛士
+- 最大傷害：6
+- 護甲：1
+- 攻擊：毒咬（`3 傷害`，近距離）
+- 攻擊效果：2
+
+`衰弱毒素`：以毒牙造成傷害時，可花費 1 點攻擊效果，讓目標至休息前對「浴血奮戰」與「大膽行動」承受 `-1 持續加值`。
+
+`黏網陷阱`：巨蛛巢穴常布滿難辨巨網。角色穿越時需進行「追獵」動作；`6 以下` 會被困並無助。可用「浴血奮戰」嘗試脫困：`6 以下` 會更加卡死，`7 以上` 成功脫困。
+
+巨蛛大小從大型犬到超過成人皆有，常棲息於洞窟、森林、廢棄城堡地下通道。牠們用巨網困獵物，若失敗就以毒咬使其失能，再將獵物吊掛纏裹，留作自己或幼體糧食。
+
+## 戈耳工（Gorgon）
+
+- 類型：野獸領主
+- 最大傷害：15
+- 護甲：1
+- 攻擊：劍（`4 傷害`，近距離，鐵）或蛇咬（`2 傷害`，無視護甲，近距離）
+- 攻擊效果：2
+
+`避開視線`：任何對戈耳工進行「浴血奮戰」或「理解戰況」且結果低於 `10` 的角色，都會因瞥見其雙眼而承受 `1 傷害`，並開始石化。角色可在擲骰前選擇完全閉眼（或自盲）以承受 `-1 單次加值` 來避免此效應。
+
+`石化凝視`：任何剩餘最大傷害 `3 以下` 且直視戈耳工的生物會立刻石化。殺死戈耳工可解除石化，但若石像已損毀，傷害不會消失。
+
+戈耳工原是美麗人類，因自身邪惡招致詛咒成獸。其大體仍近似人形，但腿部化為蛇身、頭髮化為蠕動毒蛇。如今直視其雙眼者皆會化石，美也只剩詛咒。
+
+孤苦且怨憤的戈耳工常佔據曾經美麗、但尚未荒廢殆盡之地，殺害擾動者。這些地點常帶歷史、魔法或靈性意義，且仍留有珍貴遺物。任何闖入者多半會被石化，而在妒意驅使下，戈耳工常會刻意毀壞容貌端正的石像。
+
+## 獅鷲（Griffin）
+
+- 類型：野獸衛士
+- 最大傷害：10
+- 護甲：1
+- 攻擊：喙與利爪（`3 傷害`，近距離）
+- 攻擊效果：2
+
+獅鷲脾氣暴躁且領域性極強，常獵食牲畜與旅人。牠們下半身如獅、上半身如巨鷹，巢築於難以抵達峭壁，通常成對或成群。幾乎無法訓練，通常只能靠暴力壓制或魔法控制，且極易反噬飼主。
+
+## 鷹身女妖（Harpy）
+
+- 類型：野獸衛士
+- 最大傷害：8
+- 護甲：1
+- 攻擊：利爪（`3 傷害`，近距離）
+- 攻擊效果：2
+
+`掠奪攫取`：當鷹身女妖花費攻擊效果奪取物品時，可再花 1 點攻擊效果立刻升空，脫離近戰武器觸及，即使她本回合已俯衝攻擊。
+
+鷹身女妖擁有巨鳥身軀與人類頭部，羽色多見棕至橙，利爪特別巨大鋒利。其人臉平時近似常人，露出不自然笑容時會顯現掠食者般剃刀尖牙。
+
+牠們聰明且殘忍，最愛捕捉並折磨獵物，例如剝皮、抓上高空摔落，或偷走迷途者糧食並盤旋等待其餓死。雖然惡毒，牠們其實極為怯懦，幾乎不會單獨作戰，覺得真有危險就會逃離。
+
+## 蠍獅（Manticore）
+
+- 類型：野獸衛士
+- 最大傷害：12
+- 護甲：1
+- 攻擊：啃咬（`3 傷害`，近距離）或尾棘（`2 傷害`，遠端）
+- 攻擊效果：2
+
+蠍獅是飛行猛獸，巢於山崖高處或廢塔。牠有獅身、覆棘蠍尾、蝙蝠翼，以及人頭與三排碾碎利齒。領域意識極端強烈，除配偶外幾乎一律視為獵物。甩尾可射出棘雨擊殺地面目標。獵物死亡後，蠍獅可脫臼下顎整隻吞食成人。
+
+## 牛頭怪（Minotaur）
+
+- 類型：野獸衛士
+- 最大傷害：12
+- 護甲：1
+- 攻擊：角撞（`4 傷害`，近距離）或巨斧（`5 傷害`，可投擲，鐵）
+- 攻擊效果：2
+
+`衝鋒`：牛頭怪每次衝鋒時，角撞額外獲得 2 點攻擊效果。
+
+牛頭怪高約 9 英尺，上身如人、頭與腿如牛。其真實起源不明，可能是神罰、隱世純血種，或瘋狂魔法造物。可確定的是牠們極度兇暴、領域性強，智能多半接近野獸。
+
+由於偏草食，牛頭怪較少闖入人類領地，因此即使存在也不常被看見。但其稀有、外觀獨特且暴躁，常被高智能怪物領主捕獲，拿來看守重要封閉區域，或當作處刑娛樂。
+
+## 狼人（Werewolf）
+
+- 類型：野獸衛士
+- 最大傷害：10
+- 護甲：2（對銀為 0）
+- 攻擊：爪牙（`4 傷害`，近距離）
+- 攻擊效果：2
+
+狼人是最知名也最令人畏懼的怪物之一。牠們承受獸化詛咒：平時多近似常人，但在受傷、暴怒，或滿月照耀時，會化為以後足直立、具狼臉與利爪的嗜血怪物。
+
+剛受詛咒者常不記得自己變身時所作所為。意志堅強者可短暫抵抗，但許多人最終會屈服，無論外表仍多像人，內在都逐漸獸化。若有人被狼人重創至瀕死但倖存，也會遭傳染；到下一次滿月，轉化即完成。唯一解藥是有毒的狼毒草（wolfsbane），且必須在下次滿月前施用。
+
+## 狼群領主（Werewolf Pack Lord）
+
+- 類型：野獸領主
+- 最大傷害：15
+- 護甲：3（對銀為 1）
+- 攻擊：爪牙（`4 傷害`，近距離）
+- 攻擊效果：3
+
+最巨大、最兇殘的狼人最終會成為狼群領主。牠們兼具狡詐與敏捷，擁有多年經驗，能指揮較弱狼人，並使其他動物臣服或驚逃。狼群領主對自身力量有完美掌控，但也已把人性完全輸給詛咒。
+
+## 狼（Wolf）
+
+- 類型：野獸衛士
+- 最大傷害：6
+- 護甲：0
+- 攻擊：啃咬（`3 傷害`，近距離）
+- 攻擊效果：2
+
+狼本身已足夠危險，也是在黑魔法影響下最容易被操縱的動物之一。惡魔可使其異常暴烈，吸血鬼可支配牠們，狼人更可自然統御狼群。對有經驗獵人而言，單狼不難；但整群狼又是另一回事。

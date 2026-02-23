@@ -5,130 +5,80 @@ sidebar:
   order: 3
 ---
 
-Changeling
-The reach of the fey is subtle and insidious. Some who wander into their lands return years later, unchanged
-physically, but forever touched. Other times, children are snatched from their cribs, with a faerie child left in
-their place. Changelings are those who bridge the human and fey worlds in some way – be they humans who
-entered faerie lands, or fey who have imprinted on human ones. They find themselves with all of the charm 
-of the fey, but being between worlds as they are,
-forgettable by those around them. 
-Bonus
-Moves
-+2
-Battle
-Knowledge / Lore
-Resist Dark Magic
-+2
-Poke Around / Hunt
-+3
-Interview / Convince
-Daring Action
-+0
-Sorcery
-Assign +1, +1, and +0 to the remaining Moves.
-Basic Abilities
-Forgotten Child: Whenever you use an Investigation
-move, you can prevent anyone from remembering your
-presence – but they still react to you in the moment. If
-you spend a hold from any investigation move, you can also have your allies be forgotten. This can be as 
-selective as you’d like. 
-Hunter’s Tools: You own one of the following weapon sets, and a suit of light armor worth 1 armor.
-  A longbow or crossbow (4 harm, ranged) with silver arrows; and a short sword or woodcutters’ axe (3 harm,
-
-close, iron)
-  A spear (4 harm, reach, silver); and throwing knives or throwing axes (3 harm, throwable, iron)
-
-Unnoticed: Your presence is hard for other creatures to focus on. Beasts, Fiends, and Humans will never 
-attack you unless you make a motion to attack them or take something of theirs first. When you enter a fight 
-with such creatures, you gain +1 Forward to your first Battle move against them, as if you had ambushed 
-them.
-Whispers: When you use the Convince move, you can give yourself -1 Forward to it to make the target 
-forget their interaction with you, and think that they came to their desires on their own.
-Playbooks
-22
+# 調換兒（Changeling）
 
-Advanced Abilities
- 
-Enchanting Voice: Your voice can take on an enthralling quality. When you use Enchanting Voice, roll a 
-move using your Convince bonus. On a 6 or below, your use of magic is obvious, and enrages your victims. 
-On a 7-10, you can distract people or beast minions for as long as you talk, but they’ll know they’ve been 
-tricked when it’s done. On a 10-12, you can distract people or beast minions and warriors for as long as you 
-talk, and a few minutes after, with them being none the wiser. On a 13+, your voice can lull people and beast 
-minions or warriors into a trance that is only broken after hours, or until someone rouses them.
- 
-Faerie Skin: Your skin is tough, and can turn aside the claws and teeth of sharp beasts. Gain 1 armor that is 
-ignored by iron.
- 
-Fey Kinship: You gain +2 to Resist Dark Magic moves to resist the magic of, but not ward against, all fey 
-creatures, as well as +1 to Hunt rolls in any natural settings.
- 
-Finder of the Lost: You cannot be affected by magic and glamours that keep you from noticing something 
-or someone. Add the following questions to your Poke Around (when asking about a specific area) and 
-Interview (when asking about a person or people) moves:
-    • What was lost here – physical or metaphorical? 
-    • What are people’s unfulfilled wishes?
-    • What do people regret is gone from here?
- 
-Hidden Friends: Whenever you use the Battle move to draw a creature’s attention towards you and away 
-from another, those you are protecting are glamoured – they are completely forgotten by the creature 
-you’re dealing with as long as you’re still around and they don’t attack the creature. Hidden allies get +1 
-Forward to their next move against creatures ignoring them, but then can’t benefit from Hidden Friends 
-again that fight.
- 
-Listen to the Wilds: You can speak to and understand animals, plants, and other natural creatures. When 
-you use the Interview move, you can ask questions of them, and you can use the Convince move to get both 
-domesticated and wild animals to do things for you.
- 
-Oathkeeper: You can swear an oath, and are granted great abilities to keep it. If you swear an oath to 
-protect someone or something, you gain +1 Forward to any move used to directly keep them out of harm’s 
-way, and magically know whenever they are in danger. If you swear an oath to kill a thing, you deal +1 Harm 
-to said creature. If you abandon or fail on your oath, you suffer -1 Ongoing to Resist Dark Magic, Convince, 
-and Sorcery moves until the end of the adventure. You can swear one oath each adventure.
- 
-Rules of the Court: You have sworn to the rules of the faerie courts, knowingly or not. Gain +1 Ongoing to 
-Convince moves when you are telling the truth or using misleading wordplay and deception while not lying. 
-As long as you do not lie, you can tell when someone is lying to you – if you do end up lying, you lose the 
-benefits of this ability and suffer -1 Ongoing to Convince moves until the end of the adventure.
- 
-Touch of Magic: Choose one type of magic: Astral, Infernal, and Necromancy. Your Sorcery bonus with 
-that type of magic increases to +2. You know two combat spells from that school of magic, and once per 
-adventure you can cast a ritual sorcery spell without the help of any scroll or outside source.
- 
-Gain +1 Knowledge/Lore.
- 
-Gain +1 Daring Action.
- 
-Gain +1 Resist Dark Magic.
-Playbooks
-23
+妖精的影響隱密且滲透。有人誤入妖精領地後多年歸來，外貌未變，靈魂卻被改寫；也有嬰兒遭調包，由妖精幼子取代。調換兒便是橫跨人類與妖精世界的存在：可能是進入妖精界後歸來的人，也可能是在人世留下印記的妖精。
 
-Quickplay Background
-Your fey heritage is obvious due to your:
- inky black eyes.
-
- long, pointed ears.
-
- supernatural beauty.
-
- unnatural hair color.
-
- skin and hair that changes with the seasons.
-
-You became a wanderer:
- after escaping from the fey realms.
-
- after your parents rejected you for your heritage.
-
- because the wanderlust was too strong.
-
-You joined up with the other heroes:
- because they were the only ones who seem to be able to focus on you. 
-
- because one of them took you in when nobody else would.
-
- because misfits have to stick together.
-
- because you find yourself drawn to one, and want to be close to them.
-
-Playbooks
-24
+他們擁有妖精般魅力，卻也因「夾在兩界之間」而容易被人忽略、遺忘。
+
+## 加值
+
+- 浴血奮戰：`+2`
+- 理解戰況／通曉傳說：`+2`
+- 抵抗黑魔法：`+2`
+- 四處探查／追獵：`+3`
+- 訪談詢問／說服：`+0`
+- 大膽行動：`+0`
+- 巫術：將剩餘數值 `+1、+1、+0` 分配到未填動作
+
+## 基礎能力
+
+### 被遺忘之子（Forgotten Child）
+
+當你使用調查動作時，可使他人事後無法記住你的存在（當下仍會與你互動）。若你花費任一調查掌握，也可讓同伴一併被遺忘；遺忘範圍可由你精準指定。
+
+### 獵手工具（Hunter’s Tools）
+
+你擁有下列其中一組武器，並有 `1 護甲` 輕甲：
+
+- 長弓或十字弓（`4 傷害`，遠端）＋銀箭；短劍或伐木斧（`3 傷害`，近距離，鐵）
+- 長矛（`4 傷害`，觸及，銀）；投擲匕首或投擲斧（`3 傷害`，可投擲，鐵）
+
+### 不被注意（Unnoticed）
+
+你的存在讓生物難以聚焦。野獸、惡魔與人類除非你先攻擊或先奪其物，否則不會主動攻擊你。當你與這些生物開戰時，第一次浴血奮戰視同伏擊，獲得 `+1 單次加值`。
+
+### 低語（Whispers）
+
+當你使用說服時，可讓自己本次承受 `-1 單次加值`，使目標在事後遺忘這次互動，並以為決定出自本心。
+
+## 進階能力
+
+- **魅惑之聲（Enchanting Voice）**：使用此能力時，以說服擲骰。`6 以下`：施法痕跡明顯，目標反怒。`7-9`：可在你持續說話時分散人類／野獸僕役注意，結束後會察覺受騙。`10-12`：可分散人類／野獸的僕役與衛士，且在結束後短時間內仍不自覺。`13+`：可使其陷入恍神，數小時後或被他人喚醒才解除。
+- **妖精之皮（Faerie Skin）**：獲得 `1 護甲`，但會被鐵武器無視。
+- **妖精血脈（Fey Kinship）**：對抗妖精魔法時（僅抵抗，不含驅離）抵抗黑魔法 `+2`；在自然環境中追獵 `+1`。
+- **失物尋者（Finder of the Lost）**：不再受「讓你忽視某物／某人」的魔法與幻術影響。你在四處探查（對特定區域）與訪談詢問（對特定人物）可追加提問：
+  - 這裡失去了什麼（實體或象徵）？
+  - 人們未竟的願望是什麼？
+  - 人們最遺憾此地失去的是什麼？
+- **隱藏盟友（Hidden Friends）**：當你用浴血奮戰把敵人注意力從同伴身上拉開時，被你保護者會被施加魅惑，只要你還在場且其未主動攻擊，該敵人就會忽略他們。被忽略的同伴對該敵人下一次動作獲得 `+1 單次加值`，但同場戰鬥不能再次受此能力加成。
+- **聆聽荒野（Listen to the Wilds）**：你可與動物、植物與自然生靈溝通。你可對其使用訪談詢問，也可用說服請求家養與野生動物協助。
+- **守誓者（Oathkeeper）**：每次冒險可立一個誓。若誓言是「守護」，你在直接保護目標時動作 `+1 單次加值`，並能感知其陷入危險；若誓言是「獵殺」，你對該目標 `+1 傷害`。若背誓或失敗，你在本次冒險結束前抵抗黑魔法、說服、巫術承受 `-1 持續加值`。
+- **廷院戒律（Rules of the Court）**：當你說真話，或在不說謊前提下使用誤導與話術時，說服獲得 `+1 持續加值`。只要你未說謊，你就能辨識對方是否說謊；一旦你說謊，立即失去此能力效果，且本次冒險結束前說服承受 `-1 持續加值`。
+- **魔法觸痕（Touch of Magic）**：選擇一系（星界／地獄／死靈），該系巫術加值升至 `+2`。你學會該系 2 個戰鬥法術，且每次冒險 1 次可在無卷軸與外部來源下施放一個儀式法術。
+- **理解戰況／通曉傳說 +1**
+- **大膽行動 +1**
+- **抵抗黑魔法 +1**
+
+## 快速背景
+
+你的妖精血統可從以下特徵看出：
+
+- 墨黑瞳孔
+- 細長尖耳
+- 非自然美感
+- 不尋常髮色
+- 會隨季節改變的膚色或髮色
+
+你成為流浪者的原因：
+
+- 自妖精界逃出後四處漂泊
+- 父母因血統排斥你
+- 遊歷衝動過於強烈
+
+你與其他英雄同行是因為：
+
+- 他們是少數能真正「注意到你」的人
+- 其中有人在無人接納你時收留了你
+- 異類只能彼此抱團
+- 你被其中一人吸引，想留在其身邊

@@ -5,133 +5,80 @@ sidebar:
   order: 4
 ---
 
-Dreamer
-The sleepers from beyond the stars, under the waters, and within the earth speak to many unfortunate 
-enough to hear. They whisper in their dreams, invade their thoughts, and bring unwanted insights. These 
-unbidden secrets can be mastered, and astral sorceries flow through the recipients like waves through the 
-ocean. But while the waves can be harnessed, they change what they touch, and the Dreamer’s mind slowly 
-erodes away.
-Bonus
-Moves
-Battle
-+2
-Knowledge / Lore
-+2
-Resist Dark Magic
-Poke Around / Hunt
-Interview / Convince
-Daring Action
-+1
-Sorcery
-+3
-Astral Sorcery
-Assign +1, +1, +0, and +0 to the remaining Moves.
-Basic Abilities
-Commune: You can slip into the world of dreams, and
-feel out the creatures living here. As an Investigation
-move using your Astral Sorcery bonus, ask questions
-from the following list as normal:
-➢ What evils are slumbering here?
-➢ What major events have happened here?
-➢ What emotions and fears are heavy here?
-➢ What is the geography and terrain of the surrounding area and structures?
-Astral Sorcerer: You know all astral combat sorcery, and if you want to cast an astral ritual sorcery, you know
-it and don’t need to find it written down.
-Playbooks
-25
+# 幻夢者（Dreamer）
 
-Touched by Another World: Choose a mutation from the following list. Every three Advanced Abilities you 
-choose, you can choose another.
- See in total darkness.
-
- Breathe underwater and swim perfectly.
-
- Ignore all poisons, sickness, disease, and corruption.
-
- Have no need to sleep.
-
- Be able to eat any organic material, no matter how spoiled, rotten, or poisoned.
-
-Advanced Abilities
- 
-Forbidden Knowledge: Whenever you make a Knowledge or Lore move, you can choose to tap into 
-forbidden knowledge. When you do, gain an extra hold – or two extra holds if you roll 13+. When you use 
-this, you suffer -1 Ongoing to Resist Dark Magic moves until you’ve had time to rest.
- 
-Lead the Faithful: When you use a hold from the Knowledge move to increase harm dealt to a monster, 
-the attacks of you and any bystanders you’re fighting with deal +1 Harm and don’t count as the “next attack” 
-for the purpose of the bonus’s duration. In addition, whenever you use a hold from the Knowledge move to 
-give your allies a bonus to Resist Dark Magic moves, all bystanders you’re fighting with are immune to the 
-effect.
- 
-Lingering Aura: When you use Commune, you can focus on an object instead of an area, and ask the 
-following questions:
-➢ Who owned this last?
-➢ Who handled this, since the past full moon?
-➢ What owner had the deepest connection?
-➢ When and why did it change hands?
-➢ What was this used for, or on?
- 
-Lure of the Moon: Your magic is tied to the phases of the moon. During the night of a full moon, you 
-ignore Combat Spell and Ritual Sorcery drawbacks for all your spells – although your allies do not, even 
-when participating in a ritual with you. During the night of a new moon, you suffer a -1 Ongoing to all 
-Sorcery moves. During any other night, you ignore the first combat sorcery drawback each scene.
- 
-Misguided Dreams: You can enter a trance, and slip into the dreams of someone who you have a clear 
-mental image of. Roll a move using your Astral Sorcery bonus. On a 6 or below, that person has a dream 
-about you, and grows suspicious. On a 7-12, you can implant an idea in their mind, that they’ll carry out until
-they’re in obvious great risk. On a 13 or above, they’ll carry out the implanted idea with fanatical dedication. 
-If you roll 9 or less, you also suffer a ritual sorcery drawback.
- 
-Sorcerous Savant: Choose Infernal or Necromantic sorcery. Your sorcery bonus with that type of magic 
-increases to +2. You know two combat spells from that school of magic, and once per adventure you can 
-produce a ritual sorcery spell without the help of any scroll or outside source.
- 
-Twisted Flesh: Your body seethes with twisted growths underneath the surface. You gain one armor 
-against physical blows, but is ignored by any weapon that’s flaming or any other source of damage. 
-Whenever a creature deals damage to you by consuming part of you in some way – biting, blood draining, 
-soul stealing, or the like – it suffers one harm that ignores armor.
-Playbooks
-26
+星外、深海與地底沉眠之物，會向不幸能聽見的人低語。它們侵入夢境、滲透思緒，帶來不請自來的知識。這些秘密可以被駕馭，星界巫術會像潮汐一樣流經受者。
 
-Whispers of the Sleeper: Whenever you sleep, and whenever you take the Patch Up move, you can listen 
-to the whispers of the sleeper, choosing one of the following benefits: heal an additional Harm; gain +1 to 
-Resist Dark Magic moves until you cast a spell; gain +1 Forward to your next investigation move.
- 
-Zeal of Devotion: When making a Battle or Daring Action move, you may add up to +3 Forward. You then 
-take -1 Ongoing to all Sorcery moves until you’ve rolled with your Sorcery bonus a number of times equal to
-the bonus you took.. You cannot use this ability if you are already suffering the Ongoing penalty from it..
- 
-Gain +1 to Daring Action.
- 
-Gain +1 to Poke Around / Hunt.
- 
-Gain +1 to Interview/Convince.
-Quickplay Background
-People are unsettled by you because of your habit of:
- never blinking.
-
- taking raspy, gurgling breaths.
-
- chanting in your sleep.
-
- bleeding black oil.
-
-The sleepers have a connection to you because:
- you came too close to where they slumber.
-
- you meddled in magics that should not be touched.
-
- they were drawn to you by your art.
-
-Despite your oddities, the other heroes work with you because:
- they knew you before your changes.
-
- you’re convinced they can help you silence the voices.
-
- you’ve proven your reliability in saving others.
-
- few know more about monsters than you do.
-
-Playbooks
-27
+但潮水也會侵蝕所觸之物。幻夢者雖可借力，心智卻會逐步磨損。
+
+## 加值
+
+- 浴血奮戰：`+2`
+- 理解戰況／通曉傳說：`+2`
+- 訪談詢問／說服：`+1`
+- 大膽行動：`+1`
+- 巫術：`+3`
+- 星界巫術：`+3`
+- 其餘動作分配：`+1、+1、+0、+0`
+
+## 基礎能力
+
+### 通感（Commune）
+
+你可滑入夢境層，感知此地潛伏之物。作為一次以星界巫術加值進行的調查動作，你可正常提問下列項目：
+
+- 這裡沉眠著哪些邪惡存在？
+- 這裡發生過哪些重大事件？
+- 這裡最濃重的情緒與恐懼是什麼？
+- 周邊地形與建物結構如何？
+
+### 星界術者（Astral Sorcerer）
+
+你天生知曉所有星界戰鬥法術；若要施放星界儀式法術，你也不需要先找到記錄文本。
+
+### 異界沾染（Touched by Another World）
+
+從下列突變擇一；每取得 3 個進階能力，可再選 1 項：
+
+- 可在完全黑暗中視物
+- 可水下呼吸並完美游泳
+- 免疫毒、病、腐化
+- 無需睡眠
+- 可食用任何有機物，不受腐敗、腐爛或毒素影響
+
+## 進階能力
+
+- **禁忌知識（Forbidden Knowledge）**：你做理解戰況或通曉傳說時可主動汲取禁忌知識；額外獲得 1 掌握（若 `13+` 則額外 2 掌握）。使用後，直到休整前，抵抗黑魔法承受 `-1 持續加值`。
+- **引導信眾（Lead the Faithful）**：當你用理解戰況掌握提升對怪物傷害時，你與同場平民本次攻擊都 `+1 傷害`，且不計入「下一次攻擊就失效」限制。當你用理解戰況掌握提升同伴抵抗黑魔法時，同場平民也免疫該效果。
+- **殘留靈氛（Lingering Aura）**：使用通感時可改聚焦物件而非區域，並提問：誰是最近持有人？滿月以來誰碰過它？誰與它連結最深？它何時、為何易手？它被用在何處？
+- **月之牽引（Lure of the Moon）**：你的魔法受月相影響。滿月夜：你所有法術無視戰鬥／儀式副作用（同儀式同伴不受此保護）。新月夜：所有巫術動作 `-1 持續加值`。其他夜晚：每場景第一次戰鬥法術副作用可被忽略。
+- **誤導夢行（Misguided Dreams）**：你可入定進入某個你有清晰心像者的夢境。以星界巫術擲骰：`6 以下` 對方夢見你並提高戒心；`7-12` 可植入一個念頭，對方會執行到「明顯危及自身」為止；`13+` 對方會近乎狂熱地執行。若你擲出 `9 以下`，另承受 1 個儀式副作用。
+- **術學天才（Sorcerous Savant）**：在地獄／死靈中擇一，該系巫術升至 `+2`。你學會該系 2 個戰鬥法術，且每次冒險 1 次可在無卷軸與外部來源下施放一個儀式法術。
+- **扭曲血肉（Twisted Flesh）**：獲得 1 護甲（僅對物理打擊有效；火焰與其他非物理來源無視）。若敵人以啃咬、吸血、奪魂等方式直接攝取你身體一部分，對方承受 1 傷害（無視護甲）。
+- **沉眠者低語（Whispers of the Sleeper）**：每次睡眠與每次治療休養時，擇一：額外回復 1 傷害；在你下次施法前抵抗黑魔法 `+1`；你下一次調查動作 `+1 單次加值`。
+- **奉獻狂熱（Zeal of Devotion）**：做浴血奮戰或大膽行動時，你可額外獲得最多 `+3 單次加值`。之後你所有巫術動作承受 `-1 持續加值`，直到你以巫術完成「等同加值數量」次擲骰。該懲罰未解除前不可再次啟用。
+- **大膽行動 +1**
+- **四處探查／追獵 +1**
+- **訪談詢問／說服 +1**
+
+## 快速背景
+
+人們對你不安，因為你常常：
+
+- 不眨眼
+- 呼吸粗啞如咕嚕聲
+- 睡著時喃喃吟唱
+- 滲出黑色油狀血液
+
+沉眠者與你連結的原因：
+
+- 你太靠近它們沉眠之地
+- 你碰觸了不該碰的魔法
+- 它們被你的創作吸引
+
+儘管你異樣，其他英雄仍與你同行，因為：
+
+- 他們在你異變前就認識你
+- 你相信他們能幫你讓聲音安靜
+- 你已證明自己能可靠地拯救他人
+- 幾乎沒人比你更懂怪物

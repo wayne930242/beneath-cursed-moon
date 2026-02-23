@@ -5,234 +5,157 @@ sidebar:
   order: 5
 ---
 
-Demons
-Creatures born from hell, demons come in a variety of shapes and powers to suit their chaotic nature. Some 
-demons are intelligent and cunning, able to tempt mortals into committing horrific acts to damn their souls 
-to hell. Other demons are little more than mindless beasts, hellbent on destroying everything in their path. 
-Regardless of their nature, demons share a weakness to soulbound weapons – one of the reasons they’re so 
-eager to steal souls is to use them against their own kind.
-Demons are brought into the mortal world through the use of summoning magic – they can’t enter it on 
-their own. Warlocks and other practitioners of the dark arts can bring demons into this world, and while 
-they often try to bind the demons into performing services, those bindings don’t always hold. Other times, 
-infernal spells are botched, or the demons are freed intentionally to sew chaos and discord.
-When free to achieve their own pursuits, demons delight in violence and the corruption of mortals. 
-Unintelligent demons are little more than especially vicious, bloodthirsty beasts that are just smart enough 
-to toy with and torture their prey. Intelligent demons concern themselves with increasing the suffering in 
-the world, and bringing more demons into it. Every desperate mortal is one who can be more easily 
-convinced to fall into evil. Once they’ve become loyal minions, the mortals do tend to be treated well – even
-if they’re viewed as little more than resources, a stable of well kept, loyal cultists have many possible uses.
-Cyclops
-Type: Demon Lord
-Max Harm: 18
-Armor: 3 (1 vs soulbound)
-Attacks: Heavy Club or Fist (5 harm, close)
-Attack Effects: 2
-Petrifying Eye: A cyclops can attempt to petrify its foes with a beam of magic shot from its eye. The target 
-must find cover, or be instantly turned to stone. Once killed, all of a cyclops’s petrified victims are 
-unpetrified, but any damage done to them while stone remains.
-Vulnerable Eye: When using its petrifying gaze, the cyclops’s eye is vulnerable – moves that deal harm can 
-take take -1 Forward to target it, and ignore the cyclops’s armor when it’s hit. If the cyclops suffers 4 or more 
-harm from one attack, or 6 harm in total to its eye, the petrifying eye is canceled, and the cyclops is blinded, 
-giving all moves against it +1 Ongoing.
-Cyclops come in many different shapes, but all share a massive, 12-foot or more height, and their single 
-massive eye in common. Some look like scaled up humans, similar in coloration and proportion, while 
-others show aberrant features like lumpy skin the color of dried blood, trunk-like feet, or misshapen jaws 
-with teeth growing in all direction.
-Solitary demons, cyclops are summoned as guardians of an area – an arrangement that usually suits them 
-just fine, as long as they’re well fed. Cyclops batter their opponents before turning them to stone, preferring 
-statues of the bloodied and terrified to decorate their lairs. A cyclops’s domain can usually be recognized by 
-the crushed statues that litter the area.
-Monsters
-91
+# 惡魔（Demons）
 
-Gargoyle
-Type: Demon Warrior
-Max Harm: 10
-Armor: 2 (0 vs soulbound)
-Attacks: Claws (3 harm, close), Fire Breath (2 harm, fire, ranged)
-Attack Effects: 2
-The demon from which the common warding statue is based on, gargoyles are some of the most common 
-of all demons. They’re roughly shaped like a person, with a hunched over form, claws for feet and hands, 
-and large bat wings either stretching out from underneath its arms or growing off their back. They have 
-stubby, dog-like grotesque faces with prominent fangs, and their eyes light up as they spit balls of fire.
-Gargoyles are intelligent, but rarely have any desire to speak to mortals, instead focused strictly on killing. 
-One of their favorite ways to kill the defenseless is to grab a victim in its claws, fly high, and drop them. 
-Gargoyles are common bound as defenders for infernal strongholds, as they can naturally disguise 
-themselves by taking up perches on walls, and cults seeking to slaughter an entire village in sacrifice often try
-to do so through the slow summoning of more and more gargoyles.
-Ghoul
-Type: Demon Warrior
-Max Harm: 10
-Armor: 2 (0 vs soulbound)
-Attacks: Claws (3 harm, close)
-Attack Effects: 2
-Hunger for Flesh: Due to their insatiable hunger, ghouls
-deal +1 harm to any creature that’s already suffered 2 harm
-or more.
-Flesh-hungry and devious, ghouls are shapeshifting
-demons with a true form is that of a twisted humanoid,
-with sand-colored, leathery skin, and an elongated face like
-a dog’s with protruding fangs. Each ghoul has two other
-forms – one of a hyena, wolf, or other four-legged animal, and  the other of whoever the ghoul has eaten the
-flesh of last. When the ghoul devours a victim, they get the ability to perfectly replicate that person’s looks 
-and voice, and even snippets of that person’s memory.
-Ghouls make their homes in isolated places like cemeteries, sand dunes, or underground caves, where they 
-use their shapeshifting powers to lure passersby to their den to devour. A ghoul will eat the long dead when 
-pressed, but prefers to feast on fresh kills. If multiple ghouls have congregated in one area, they’ll happily 
-work together, digging out caves and hunting in packs, sometimes making giant tunnel systems below towns.
-As demons go, ghouls are one of the easier to summon considering their strength, and easiest to bargain 
-with – if you’re willing to pay the price. No particular magical talent is needed to summon a ghoul, only 
-knowledge of the right symbols to draw with your own blood. When performed, the ghoul is willing to 
-undertake a murderous task for the summoner, agreeing to devour one target of the summoners choice – 
-but only after the summoner themselves is devoured, providing the ghoul with its first disguise.
-Monsters
-92
+惡魔生於地獄，形貌與能力都極端多變，正如其混沌本性。有些惡魔狡詐聰慧，擅長誘惑凡人犯下駭人惡行，讓其靈魂墮入地獄；另一些則近乎無智野獸，只知破壞。
 
-Hellhound
-Type: Demon Warrior
-Max Harm: 8
-Armor: 2 (0 vs soulbound)
-Attacks: Bite (3 harm, close), Fire Breath (3 harm, fire, close, area)
-Attack Effects: 2
-Hellhounds are basic animalistic demons kept as pets by warlocks and greater demons. They appear to be 
-normal dogs, except for their red and black fur – at least, until they breathe fire. They’re often used much 
-like humans use hunting dogs, or released into the streets on demonic attacks on cities. Mortals can’t tame 
-hellhounds like normal dogs without the use of infernal magic.
-Hell Knight
-Type: Demon Warrior
-Max Harm: 12
-Armor: 2 (0 vs soulbound)
-Attacks: Claws (4 harm, close), Firebolt (3 harm, ranged, fire),
-Hellfire Aura (3 harm, close, group, fire), or Fireball (2 harm,
-group, ranged, fire)
-Attack Effects: 2
-The shock troopers of abyss, hell knights are bipedal
-demons with a man’s body, a goat’s hooves, and giant claws.
-Hell knights have some kind of monstrous face – that of a
-goat, lion, or other beast are common – and sometimes have
-massive bat or feathered wings. The skin of a hellknight is
-often an inhuman tint, like dark red or deep blue, and
-sometimes covered in fur.
-Hell knights are calm and even-tempered for demons, able to bargain and strategize. When corrupting 
-mortals, they do so matter-of-factly, convincing the mortal that great acts of wickedness – which the hell 
-knight can certainly help in – will make the mortal’s life better. In combat, they like to pelt their foes with 
-fire from afar before putting themselves in danger; but when harmed, they can go into a furious rage, 
-burning down everything around them.
-Monsters
-93
+無論性質如何，惡魔都共同懼怕「魂縛（soulbound）武器」。也因此，它們總是積極奪魂，好將靈魂反過來拿去對付同類。
 
-Imp
-Type: Demon Minion
-Max Harm: 2
-Armor: 1 (0 vs soulbound)
-Attacks: Tiny Spear (2 harm, close) or Claws (1 harm, close)
-Attack Effects: 1
-The least of all demons, imps are the simplest creatures to summon and control, but also quite clever and 
-tricky. Their power is matched by their size, as they’re rarely over two feet tall, and have a bat’s face and tiny 
-wings that keep its man-like body afloat.
-While even an apprentice warlock can summon an imp to perform basic tasks, they’re whiny, lazy creatures, 
-and will attempt to wiggle out of its commands – twisting the wording in ways detrimental to its summoner. 
-Imps prefer to hurt others by causing “accidents” to occur, and will only head into a fight if pushed by a 
-stronger, scarier being.
-Malphas
-Type: Demon Lord
-Max Harm: 15
-Armor: 3 (1 vs soulbound)
-Attacks: Talons or Claws (3 harm), infernal fire (4 harm,
-fire, ranged)
-Attack Effects: 2
-Call the Flock: A Malphas can call crow swarms, which
-seem to come from out of nowhere. At least three swarms
-come to the Malphas’s aid.
-Demon crow lords, a malphas appears in the shape of a
-jet-black human wrapped in crow feathers. Its face can
-appear as that of a man, a crow, or the white skull of either.
-Its carried aloft by large black wings, and its feet are often
-replaced by talons. A malphas can shapeshift into a set human form, unique to it, that can pass as a person 
-but still gives hints as to its true form; noses that look too much like beaks, the black eyes of a crow, or hair 
-that looks like feathers are all common.
-Malphas are powerful demons that specialize in subterfuge and spying. The crows under the command of a 
-malphas are sent out as spies to listen and observe mortals, gathering whatever secrets they can, before 
-reporting back to their master. The malphas then uses this knowledge to blackmail, tempt, frame, or 
-humiliate its victims, seeking to spread discord and unrest. They use their magic to whisper secrets and 
-doubts from afar, and plant evidence – phony or not – of betrayal or treachery. When people no longer 
-trust each other and lash out, a malphas has done its job, and seeks more victims elsewhere. When 
-confronted, a Malphas will put up some fight, but is likely to flee at the first sign of any real danger.
-Monsters
-94
+惡魔無法自行進入人世，只能透過召喚魔法降臨。邪術士與黑暗術者可把惡魔引入此界，雖常嘗試以束縛術命其服役，但束縛不一定穩固。也有不少情況是儀式失敗，或有人故意放出惡魔製造混亂。
 
-Screecher
-Type: Demon Warrior
-Max Harm: 8
-Armor: 2 (0 vs soulbound)
-Attacks: Claws and Teeth (3 harm, close)
-Attack Effects: 2
-Maddening Screech: Whenever a Screecher swoops down from the sky, it lets out a cry that addles the minds
-of its prey. Anyone who hears a Screecher must make a Resist Dark Magic move, and on a result of 9 or less 
-take -1 Forward to their next move.
-Swooping: A screecher can use one of its Attack Effects to disengage from a foe, immediately flying into the 
-air after making a strike. A Battle move used to force it into position keeps it on the ground, where it can’t fly 
-again until it manages to get away from its enemies.
-Animalistic demons, screechers are terrors of the sky. They’re made of little more than sinew, bones, and 
-skin, like someone had sharpened the skeleton of a horse and stitched together a leather canvas and wings 
-over top. In order to let out the horrid sound they get their name from, they must unhinge their jaws, 
-making them look even more broken.
-Screechers are kept as pets and shock troops by stronger demons, and even used as mounts by powerful 
-warlocks. They possess little intelligence, and prefer to swoop down onto their enemies, letting out a 
-terrifying wail as they do so. When they hunt in packs, the wail becomes a deafening near-constant screech 
-that drowns out all other sounds.
-Slaughter Demon
-Type: Demon Lord
-Max Harm: 15
-Armor: 3 (1 vs soulbound)
-Attacks: Fists (4 harm, close) or Hook or Hammer (4 harm,
-close, iron)
-Attack Effects: 2
-Fresh Meat: Whenever a slaughter demon deals 4 or more
-damage to a target, that target suffers -1 Ongoing to all
-moves from pain and its injuries until it heals harm. A
-victim cannot suffer more than -1 Ongoing from this
-effect.
-Fury: Whenever a creature inflicts harm on the slaughter
-demon, the slaughter demon deals +1 harm to that
-creature on its next action.
-One of the most terrifying demons to ever meet, slaughter demons are hulking masses of muscle 
-completely devoid of mercy. They’re shaped like extremely strong humanoids with skin like cured leather 
-and twisted horns, but facial structures, size, and even presence of claws or hooves vary. They arm 
-themselves with massive hammers, twisted hooks, and a variety of other cruel implements.
-Monsters
-95
+若能自由行動，惡魔會沉迷於暴力與腐化凡人。低智惡魔是更兇殘的嗜血野獸，雖有少量智力，通常只用來戲弄與折磨獵物。高智惡魔則會專注擴大世間苦難，並設法引入更多惡魔。對它們而言，每一個絕望凡人都是更容易被推入邪惡的素材。凡人成為忠僕後往往會被「善待」，但本質上仍只是可管理資源。
 
-Slaughter demons are powerful enough, but too impulsive and bloodthirsty to serve as any kind of leader, 
-and simply don’t have the head for schemes. Instead, they’re favored as summons for those who want a 
-powerful demon to kill for them, or to work deep in infernal lairs as torturers, guardians, and pets. They 
-have little to say beyond taunting their foes during battle, and don’t care about the safety of their allies, or 
-even themselves. Slaughter demons quickly grow bored when not killing, and will leave their lairs to hunt – 
-dragging back victims to torture if they need to pass the time.
-Succubus
-Type: Demon Warrior
-Max Harm: 10
-Armor: 2 (0 vs soulbound)
-Attacks: Claws (3 harm, close)
-Attack Effects: 2 
-Enthrall: As an action a succubus can attempt to enthrall a victim, and have them follow its every command. 
-A target must make a Resist Dark Magic move – on a result of 6 or below, they immediately move to the 
-succubus under its command, and can make no further moves except those ordered to, but get to make a 
-Resist Dark Magic move again after being compelled to do something that strongly goes against their nature.
-On a result of 7-9, they’re enthralled and skip their next action, but get to act normally after. On a 10+, they 
-shrug off the enthrall, and can’t be targeted again this scene.
-Soul Drain: If a succubus has in their grasp a sleeping or helpless victim, or someone they’ve enthralled, they
-can drain their target’s soul, dealing (2 harm, ignores armor) and healing equal to the harm dealt. If this 
-attack would kill a creature, the succubus can instead puts them into a deep sleep – when they awaken, 
-exhausted, they act as normal, but will obey all of the succubus’s commands until the curse is broken with 
-ritual magic or the succubus is slain.
-Succubi are demons who prefer a more delicate approach to tempting and tormenting mortals. They’re 
-adept at magic, and able to read thoughts, and shapeshift to appear as any human, but in base form have 
-giant bat wings growing from their back, and scaled claws and hooves.
-Succubi love to torment their prey by taking the appearance of their loved ones, and convincing the victims 
-to commit vile acts, or of the hopelessness of altruism leading them down a path of despair and evil. Their 
-preferred targets are those in positions of power, as the government and clergy can bring suffering to all 
-those under them. When cornered, a succubi prefers to not fight, but will pick off lone stragglers, pin them, 
-and suck out their souls.
-Monsters
-96
+## 獨眼巨魔（Cyclops）
+
+- 類型：惡魔領主
+- 最大傷害：18
+- 護甲：3（對魂縛為 1）
+- 攻擊：重棍／重拳（`5 傷害`，近距離）
+- 攻擊效果：2
+
+`石化邪眼`：獨眼巨魔可從巨眼射出魔力光束石化目標。目標必須找到掩護，否則立刻化石。獨眼巨魔死後，其石化受害者恢復原狀，但石化期間造成的損傷仍保留。
+
+`弱點眼球`：施放石化凝視時，獨眼巨魔的眼睛會暴露弱點。任何造成傷害的動作可承受 `-1 單次加值` 來瞄準眼球，且命中時無視其護甲。若單次對眼球造成 `4+ 傷害`，或累計對眼球造成 `6 傷害`，其石化能力會被取消且陷入失明，使所有對它的動作獲得 `+1 持續加值`。
+
+獨眼巨魔外型多樣，但共通點是 12 英尺以上的巨大身形與單一巨眼。有些像放大版人類，有些則長著乾血色腫塊皮膚、象足、牙齒亂長的扭曲下顎等異常特徵。
+
+它們通常是獨居守衛型惡魔，被召喚來鎮守某地。只要食物足夠，這安排通常正中下懷。獨眼巨魔喜歡先痛毆對手再把對方石化，並以染血、驚懼的石像裝飾巢穴。其領地往往能從周遭大量碎裂石像辨識。
+
+## 石像鬼（Gargoyle）
+
+- 類型：惡魔衛士
+- 最大傷害：10
+- 護甲：2（對魂縛為 0）
+- 攻擊：爪擊（`3 傷害`，近距離）、火焰吐息（`2 傷害`，火焰，遠端）
+- 攻擊效果：2
+
+作為常見辟邪雕像的原型惡魔，石像鬼是最常見的惡魔之一。體型近似人形但駝背，手足皆爪，並有巨型蝙蝠翼（可能自手臂下展開，也可能從背部生長）。臉部扭曲如犬，獠牙外露，吐火時雙眼發光。
+
+石像鬼有智能，但少與凡人交談，通常只專注殺戮。它們最愛抓起無助受害者升空後拋落。石像鬼常被束縛為地獄據點守衛，因可停棲牆上偽裝成雕像；而想整村獻祭的邪教，也常透過慢慢召喚大量石像鬼來達成屠殺。
+
+## 食屍鬼（Ghoul）
+
+- 類型：惡魔衛士
+- 最大傷害：10
+- 護甲：2（對魂縛為 0）
+- 攻擊：爪擊（`3 傷害`，近距離）
+- 攻擊效果：2
+
+`噬肉飢渴`：食屍鬼對已承受 `2 傷害` 以上的目標，額外造成 `+1 傷害`。
+
+食屍鬼是貪肉且狡詐的變形惡魔。真身為扭曲人形，皮膚如沙色皮革，臉長如犬且獠牙外凸。每隻食屍鬼另有兩種外貌：其一是鬣狗、狼或其他四足獸；其二是它最近吞食對象的人形。
+
+當食屍鬼吞食受害者後，可完美複製其外貌與聲線，甚至獲得部分記憶。
+
+食屍鬼常棲於墓地、沙丘、地穴等偏僻地點，利用變形誘騙路人進巢吞食。必要時也會啃食久死屍骸，但更偏好新鮮獵物。若多隻聚集，會合作挖洞、群獵，甚至在城鎮下方形成龐大隧道網。
+
+以其強度而言，食屍鬼屬於相對容易召喚、也相對容易談條件的惡魔，只是代價殘酷。召喚不需高深魔法，只要知道以自身鮮血繪製正確符號。儀式完成後，食屍鬼會答應替召喚者吞食指定目標；但在此之前，它會先吞食召喚者本人，作為第一層偽裝。
+
+## 地獄犬（Hellhound）
+
+- 類型：惡魔衛士
+- 最大傷害：8
+- 護甲：2（對魂縛為 0）
+- 攻擊：啃咬（`3 傷害`，近距離）、火焰吐息（`3 傷害`，火焰，近距離，範圍）
+- 攻擊效果：2
+
+地獄犬是基礎獸性惡魔，常被邪術士與高階惡魔飼養。外觀近似普通犬隻，但毛色多為紅黑；直到牠們噴火時才露出本質。常見用途如人類獵犬，或在惡魔襲城時被放進街道追獵活物。凡人若無地獄魔法，無法像馴普通狗那樣馴化地獄犬。
+
+## 地獄騎士（Hell Knight）
+
+- 類型：惡魔衛士
+- 最大傷害：12
+- 護甲：2（對魂縛為 0）
+- 攻擊：爪擊（`4 傷害`，近距離）、火箭（`3 傷害`，遠端，火焰）、獄火靈光（`3 傷害`，近距離，群體，火焰）、火球（`2 傷害`，群體，遠端，火焰）
+- 攻擊效果：2
+
+地獄騎士是深淵衝擊兵。它們雙足行走，具人軀、羊蹄、巨爪；臉部則常呈羊、獅或其他野獸相。部分個體還有巨大蝙翼或羽翼。膚色常是不自然色調（深紅、深藍），有時覆毛。
+
+相較其他惡魔，地獄騎士更冷靜、較能談判與擬策。腐化凡人時，它們語氣務實，說服對方相信「只要做更邪惡的事，人生會更好」，並表示自己可提供協助。戰鬥時偏好遠距離以火力壓制，受創後則可能暴怒，焚燒周遭一切。
+
+## 小惡魔（Imp）
+
+- 類型：惡魔僕役
+- 最大傷害：2
+- 護甲：1（對魂縛為 0）
+- 攻擊：小矛（`2 傷害`，近距離）或爪擊（`1 傷害`，近距離）
+- 攻擊效果：1
+
+小惡魔是最弱的惡魔，最容易召喚與控制，但也相當狡猾。其力量與體型相符，通常不超過 2 英尺高，長著蝙蝠臉與小翅膀，支撐近似人形的身體。
+
+即使見習邪術士也能召喚小惡魔做基礎工作，但它們抱怨、懶散，總想鑽命令漏洞，扭曲語義讓召喚者吃虧。小惡魔偏好製造「意外」傷人，只有在更強、更可怕存在逼迫下才會正面參戰。
+
+## 瑪爾法斯（Malphas）
+
+- 類型：惡魔領主
+- 最大傷害：15
+- 護甲：3（對魂縛為 1）
+- 攻擊：爪擊（`3 傷害`）或地獄火（`4 傷害`，火焰，遠端）
+- 攻擊效果：2
+
+`呼喚鴉群`：瑪爾法斯可召來彷彿憑空出現的烏鴉群，至少 3 群前來支援。
+
+瑪爾法斯是惡魔中的烏鴉領主，外型像披覆烏羽的漆黑人形。面貌可呈人、烏鴉，或兩者之一的白骨頭顱。其大黑翼可載其飛行，雙足常為利爪。瑪爾法斯可變成專屬的人形偽裝，能混入人群但仍有破綻，如喙狀鼻、烏鴉黑眼、羽毛般髮絲。
+
+瑪爾法斯擅長諜報與陰謀。其烏鴉網絡會監視凡人、蒐集祕密，再回報主人。之後它便利用情報勒索、誘惑、栽贓、羞辱受害者，持續散播不和與動盪。它會遠距離低語祕密與猜忌，並投放真假難辨的背叛證據。當人群互不信任並自相殘殺，瑪爾法斯便達成目的，轉往下一處。遭遇正面對抗時，瑪爾法斯通常只會短暫應戰，一見真危險就撤離。
+
+## 尖嘯魔（Screecher）
+
+- 類型：惡魔衛士
+- 最大傷害：8
+- 護甲：2（對魂縛為 0）
+- 攻擊：爪牙（`3 傷害`，近距離）
+- 攻擊效果：2
+
+`亂心尖嘯`：尖嘯魔每次俯衝時都會發出使心智混亂的嘶嚎。所有聽見者都需進行「抵抗黑魔法」；結果 `9 以下`，下一次動作承受 `-1 單次加值`。
+
+`俯衝再拉開`：尖嘯魔可花費 1 點攻擊效果在打擊後立刻脫離、飛回空中。若有人以「浴血奮戰」成功把它壓在地面，它在再次脫離前無法起飛。
+
+尖嘯魔是高度獸性的空中惡魔，軀體幾乎只有筋、骨、皮，像把馬骨磨尖再裹上皮翼。牠們為了發出招牌怪叫，常會把下顎脫臼，外觀更顯扭曲破碎。
+
+尖嘯魔常被強大惡魔當作寵物或衝擊兵，也可作為強大邪術士坐騎。它們智能不高，偏好俯衝時伴隨恐怖尖嘯。成群獵食時，尖嘯會變成近乎連續的刺耳噪音，壓過周遭一切聲響。
+
+## 屠戮惡魔（Slaughter Demon）
+
+- 類型：惡魔領主
+- 最大傷害：15
+- 護甲：3（對魂縛為 1）
+- 攻擊：重拳（`4 傷害`，近距離）或鉤／鎚（`4 傷害`，近距離，鐵）
+- 攻擊效果：2
+
+`新鮮血肉`：屠戮惡魔若單次對目標造成 `4+ 傷害`，該目標因劇痛與創傷，直到回復傷害前所有動作承受 `-1 持續加值`。此效果不會疊加超過 `-1`。
+
+`狂怒回敬`：任何生物對屠戮惡魔造成傷害後，屠戮惡魔在下一次行動對該生物額外造成 `+1 傷害`。
+
+屠戮惡魔是最駭人的惡魔之一，肌肉隆起、毫無憐憫。外型像極端強壯的人形，皮膚如鞣製皮革，長有扭曲角；臉部、體型，以及是否有爪或蹄皆不固定。它們偏好揮舞巨鎚、扭鉤等殘虐武具。
+
+屠戮惡魔雖強，但太衝動嗜殺，不適合領導，也缺乏長線謀略。它們多被召喚來純粹殺戮，或在地獄深處擔任拷問者、守衛、猛獸。平時話不多，戰鬥中只愛嘲弄敵人，幾乎不在乎盟友與自身安危。不殺戮時很快就無聊，會離巢狩獵，必要時把受害者拖回去折磨打發時間。
+
+## 魅魔（Succubus）
+
+- 類型：惡魔衛士
+- 最大傷害：10
+- 護甲：2（對魂縛為 0）
+- 攻擊：爪擊（`3 傷害`，近距離）
+- 攻擊效果：2
+
+`魅惑支配`：魅魔可用一個行動嘗試魅惑目標，迫使其服從命令。目標需進行「抵抗黑魔法」。
+- `6 以下`：立刻移動到魅魔身邊並受其控制，除被命令外不可再做其他動作；但每當被迫執行強烈違反本性的行為後，可再次進行一次「抵抗黑魔法」。
+- `7-9`：被魅惑並跳過下一次行動，之後恢復正常。
+- `10+`：成功抵抗，本場景不再受同一魅魔魅惑。
+
+`吸魂`：若魅魔抓住熟睡、無助，或已被魅惑的目標，可吸取其靈魂，造成 `2 傷害`（無視護甲）並回復等量傷害。若此攻擊將致死，魅魔可改使目標陷入深度沉睡；甦醒後雖可正常行動，但會持續服從魅魔命令，直到儀式魔法破咒或魅魔被殺。
+
+魅魔偏好以精細手段誘惑與折磨凡人。她們擅長魔法，可讀心並變形為任意人類外貌；真身通常有巨大蝙翼、鱗爪與蹄。
+
+魅魔喜歡偽裝成受害者摯愛之人，誘使其犯下惡行，或說服其相信善意毫無意義，最終走向絕望與邪惡。她們偏好鎖定有權勢者，因政府與神職者能把苦難擴散給更多人。被逼入角落時，魅魔通常避免正面硬拚，會優先獵殺落單者，壓制後吸魂。

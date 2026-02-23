@@ -5,115 +5,75 @@ sidebar:
   order: 5
 ---
 
-Fiend
-Not all demons are bad. For whatever reason, some of them turn out good. Maybe they were summoned and
-raised by humans as a baby, they’re a human possessed by a fiend, found love with a mortal, or just never got
-into that evil thing in the first place. Now, they bring hellfire and damnation to the side of good, while 
-struggling against their dark nature.
-Bonus
-Moves
-Battle
-+0
-Knowledge / Lore
-+1
-Resist Dark Magic
-+1
-Poke Around / Hunt
-Interview / Convince
-Daring Action
-+0
-Sorcery
-+2
-Infernal Sorcery
-Assign +3, +2, and +0 to the remaining 
-Moves.
-Basic Abilities
-Against Your Nature: Whenever you spend
-a combat action putting yourself in harm’s
-way to defend another while dealing no harm, gain +1 Forward to your next move. Whenever you make a 
-Convince move and act generously and honestly to the other side when you didn’t need to, heal 1 Harm.
-Demon’s Skin: You have 1 armor that is ignored by soulbound weapons. You cannot be harmed by non-
-magical fire or ice, and aren’t bother by extreme temperatures.
-Hellborne Magic: You know all infernal combat sorcery, and once per adventure can produce a ritual 
-sorcery spell without the help of any scroll or outside source.
-Infernal Weapons: You have some form of natural weaponry that you can have burst into flames: claws, 
-heavy fists, horns, spikes, etc. These count as a weapon with (4 harm, close, flaming).
-Playbooks
-28
+# 惡魔（Fiend）
 
-Advanced Abilities
- 
-Brooding: Sometimes, you just need to stay alone, and brood on your dark heritage – but you’ll always 
-show up when needed. For an investigation action, you can instead choose to Brood. Doing so allows you to 
-give any one ally of your choice a +1 Forward to their Investigation move after they roll the dice, as you were 
-there helping all along. Alternatively, if someone gets into trouble during the investigation, you can show up 
-and get +1 Forward to your first move to help them out of it.
- 
-Damn Charming: Despite – or maybe because of – your appearance, you have a certain allure. You can 
-spend a hold from the Interview move to get someone to perform a favor, so long as it doesn’t place them in
-danger that they’re aware of. When you make a Convince move, you can always offer a favor later as 
-payment. While you can skip out on the favor, you won’t be able to use Convince on that target or those they
-tell until you make good.
- 
-Devour Essence: You can feed on the souls of the fallen. Whenever you kill a living creature, or at the end 
-of a fight in which people died, gain 1 hold that can be spent immediately or after the fight to either ask any 
-question from any of the investigation moves that the creature’s knowledge would help answer or to heal 1 
-harm.
- 
-Driven by Shame: You’ve learned to turn your own shame into a driving force. Whenever you roll 6 or 
-below for any move, you gain +1 Ongoing to all moves until you roll a 10+.
- 
-Fury: Whenever a creature inflicts harm on you, or two or more harm on an ally, you get +1 Forward to 
-your next move against it – but that move must inflict harm back if possible. You cannot gain more than +1 
-Forward against a single monster from this ability.
- 
-Smell of Fear: Add the following questions to your Interview list. When you roll at least 7+ on an Interview 
-move, you may ask one of them for free:
-    • What do the people here fear the most?
-    • What can I do to get people here to fear me?
-    • What can be done to soothe fear here?
- 
-Thickened Skin: Your skin has thickened, becoming even tougher – possibly with a change of color. You 
-gain an additional armor that is ignored by soulbound weapons, but your demonic nature is always apparent
-to bystanders.
- 
-Unnatural Aura: You give off an aura of ill ease that keeps Beast, Demon, and Fey Minions from 
-approaching or attacking you, unless you attack them first. You can also ward away Beasts as if using Resist 
-Dark Magic, but by rolling your Infernal Sorcery bonus instead.
- 
-Wings: You grow large wings that let you fly, glide, and hover as fast as you can run or walk.
- 
-Gain +1 to Knowledge / Lore
- 
-Gain +1 to Resist Dark Magic
- 
-Gain +1 to Poke Around / Hunt
-Playbooks
-29
+並非所有惡魔都邪惡。有些惡魔會站到善的一邊：可能是幼時被人類召喚並撫養、是被附身的人類、與凡人相愛，或單純從未認同邪惡。如今他們把地獄之火用在正道上，同時與自身黑暗本性對抗。
 
-Quickplay Background
-Your demonic heritage is obvious from your:
- oddly colored skin.
-
- hooves and tail.
-
- thick horns.
-
-You strayed from the path of evil due to:
- being raised by humans since you were young.
-
- falling in love with a mortal.
-
- witnessing a great tragedy.
-
- never having the heart for evil anyway.
-
-The other PCs met you when:
- they suspected you of being a monster to hunt.
-
- you saved them from another demon.
-
- you worked together as parts of the same organization.
-
-Playbooks
-30
+## 加值
+
+- 浴血奮戰：`+0`
+- 理解戰況／通曉傳說：`+1`
+- 抵抗黑魔法：`+1`
+- 大膽行動：`+0`
+- 巫術：`+2`
+- 地獄巫術：`+2`
+- 其餘動作分配：`+3、+2、+0`
+
+## 基礎能力
+
+### 逆性而行（Against Your Nature）
+
+當你在戰鬥中選擇「只保護、不反擊」（把自己暴露於危險且本回合不造成傷害）時，你下一次動作獲得 `+1 單次加值`。當你進行說服且在不必要情況下仍誠實且慷慨時，回復 `1 傷害`。
+
+### 惡魔之膚（Demon’s Skin）
+
+你有 `1 護甲`（會被靈魂繫結武器無視）。你不受非魔法火焰與冰霜傷害，也不受極端高低溫影響。
+
+### 地獄源術（Hellborne Magic）
+
+你知曉所有地獄系戰鬥法術，且每次冒險 1 次可在無卷軸與外部來源下施放儀式法術。
+
+### 地獄兵器（Infernal Weapons）
+
+你擁有可燃起烈焰的天然武器（利爪、重拳、角、骨刺等），視為武器：`4 傷害`、近距離、火焰。
+
+## 進階能力
+
+- **陰鬱沉思（Brooding）**：你可把一次調查行動改為沉思。之後你可在任一同伴完成調查擲骰後，讓其額外獲得 `+1 單次加值`（敘事上視為你一直暗中支援）。或在同伴調查出事時即刻現身，並對首次救援動作獲得 `+1 單次加值`。
+- **致命魅力（Damn Charming）**：你可花訪談詢問掌握，讓對方替你辦事（限對方未察覺會使自己陷入危險）。你做說服時可承諾「事後回報」作為籌碼；若毀約，你在履約前無法再對該目標或其告知對象使用說服。
+- **吞食本質（Devour Essence）**：當你殺死活物，或戰後現場有人死亡時，獲得 `1 掌握`。可立即或戰後花費：
+  - 問任一調查動作中的任一問題（前提是該死者知識可回答），或
+  - 回復 `1 傷害`。
+- **羞恥驅動（Driven by Shame）**：當你任何動作擲出 `6 以下`，直到你擲出 `10+` 前，所有動作獲得 `+1 持續加值`。
+- **怒焰（Fury）**：當某生物對你造成傷害，或對同伴造成 `2+ 傷害`，你對該生物下一次動作獲得 `+1 單次加值`；且若可能，該動作必須反擊造成傷害。對單一怪物最多只能從此能力獲得 `+1`。
+- **恐懼嗅覺（Smell of Fear）**：在訪談詢問追加問題；當你訪談詢問 `7+` 時，可免費多問 1 題：
+  - 這裡的人最害怕什麼？
+  - 我要怎麼做才能讓他們害怕我？
+  - 可以做什麼來安撫這裡的恐懼？
+- **增厚皮膚（Thickened Skin）**：再獲得 `1 護甲`（仍會被靈魂繫結無視），但你的惡魔本質會對平民一覽無遺。
+- **異常氣場（Unnatural Aura）**：你散發不安氣場，使野獸、惡魔、妖精的僕役不願接近或攻擊你（除非你先攻擊）。你也可用「地獄巫術加值」對野獸執行等同抵抗黑魔法的驅離。
+- **翅翼（Wings）**：你長出巨翼，可飛行、滑翔、懸停，速度約等同你奔跑或行走。
+- **理解戰況／通曉傳說 +1**
+- **抵抗黑魔法 +1**
+- **四處探查／追獵 +1**
+
+## 快速背景
+
+你的惡魔血統從這些特徵就看得出來：
+
+- 異色皮膚
+- 蹄與尾巴
+- 粗大犄角
+
+你偏離邪道的原因：
+
+- 自幼由人類撫養
+- 與凡人相愛
+- 親眼見證重大悲劇
+- 本來就沒有作惡的心
+
+你與其他 PC 相遇於：
+
+- 他們曾把你當成待獵怪物
+- 你救了他們脫離另一名惡魔
+- 你們曾在同一組織合作

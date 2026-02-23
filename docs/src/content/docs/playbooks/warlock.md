@@ -5,120 +5,82 @@ sidebar:
   order: 11
 ---
 
-Warlock
-A seductive source of power, infernal magic grants its users whatever they wish – as long as what they wish is
-destructive. Warlocks have sold their soul for the ability to burn away all their worries – and their soul. Some
-see it as a necessary sacrifice to make in order to protect those they care about, and struggle not to slip 
-further. Others fight against their past, in hopes of
-redeeming themselves. 
-Bonus
-Moves
-Battle
-+2
-Knowledge / Lore
-+0
-Resist Dark Magic
-Poke Around / Hunt
-+2
-Interview / Convince
-Daring Action
-+1
-Sorcery
-+3
-Infernal Sorcery
-Assign +1, +1, and +0 to the remaining Moves.
-Basic Abilities
-Infernal Sorcerer: You know all infernal combat
-sorcery, and if you want to cast an infernal ritual sorcery, you know it and don’t need to find it written down.
-Sacrifice: You can gain magical power by sacrificing to powerful demons. As you perform sacrifices, they 
-grant you more power, but expect more and more from you. A sacrifice is an involved ritual, and takes an 
-investigation action to perform. Making a sacrifice is a move with a bonus based on the value of your 
-sacrifice, as below:
-➢ Kill a living animal = +0 bonus
-➢ Take and destroy someone’s property = +1 bonus
-➢ Take and destroy an animal owned by another = +2 bonus
-➢ Take and destroy something precious and irreplaceable to someone = +3 bonus
-➢ Kill a living person = +4 bonus
-Playbooks
-46
+# 邪術士（Warlock）
 
-If you roll 6 or below, the dark gods are displeased with your sacrifice, and you can’t make another sacrifice 
-this adventure. On a 7-9, gain one hold. On a 10-12, gain two holds. On 13+, gain three holds. Each hold can 
-be used to give you +1 Forward to a Sorcery move, and you can use as many holds as you want on a single 
-roll. If you try to make multiple sacrifices in one adventure, you suffer a penalty equal to the total number of
-holds you’ve gained from Sacrifice this adventure. Performing demonic sacrifices is a dangerous thing, and 
-should not be taken lightly.
-Advanced Abilities
- 
-Command Elements: You can control the elements, even when they’re used against you. As a combat 
-action you can make an Infernal Sorcery move. On a 6-, nothing happens. On a 7-9, reduce the harm of all 
-elemental (fire, ice, lightning, etc) attacks against you by 1. On a 10-12, reduce the harm of those attacks 
-against you by 2, or against allies you’re standing next to by 1. On 13+, reduce the harm of those attacks 
-against you by 3, or against allies you’re standing next to by 2. If you reduce the harm of an attack to 0, you 
-can instead redirect it to a new target of your choice.
- 
-Demonic Torture: You know just how to strike to make your foes hurt. Whenever you cause harm to a 
-creature, one ally of your choice gains +1 Forward to any move against it as the creature is wracked with pain.
- 
-Impromptu Offering: You have a ritual knife (3 harm, close, iron), that’s decorated in a macabre way. 
-Whenever you successfully kill a creature in combat with it, or an ally benefiting from a forward or bonus to 
-harm that you have given them kills a creature in combat, you immediately gain a hold for your Sacrifice 
-ability that does not count as a penalty to future Sacrifice moves.
- 
-Metamorphosis: You can take on a demonic form for a short period of time. Spend one of your holds 
-from Sacrifice. For the rest of the scene, you gain claws (4 harm, close, flaming) and thick skin (1 armor, 
-cannot be harmed by non magical fire or cold). If you spend an additional sacrifice hold, you gain +1 ongoing
-to Battle moves and the transformation lasts until the next sunrise or sunset.
- 
-Prey on Guilt: When you roll at least 7+ on an Interview move, you may ask “What does this person feel 
-most guilty of?” for free. When you take advantage of this to prey on their guilt, you gain +1 Ongoing to your
-Convince move.
- 
-Sacrificial Expert: Gain +1 Ongoing to your Sacrifice move. In addition, you can choose to spend your 
-Sacrifice holds to gain +1 Forward to any move, but only one at a time (except for sorcery, as normal).
- 
-Sift Through the Ashes: Add the following questions to your Poke Around list. When you roll at least 7+ on
-a Poke Around move, you may ask one of them for free:
-➢ What was destroyed here?
-➢ Why were things destroyed here?
-➢ How long ago did this destruction happen?
- 
-Soul of Cinders: You’ve sold your soul, or burned it away to get the power you crave. You gain +2 Ongoing 
-to Resist Dark Magic to resist effects, but not against warding creatures, and you’re immune to any effects 
-based on draining or stealing your soul.
- 
-Sorcerous Savant: Choose Astral or Necromantic sorcery. Your sorcery bonus with that type of magic 
-increases to +2. You know two combat spells from that school of magic, and once per adventure you can 
-produce a ritual magic spell without the help of any scroll or outside source.
- 
-Gain +1 Battle.
- 
-Gain +1 Poke Around/Hunt.
-Playbooks
-47
+地獄魔法是極具誘惑力的力量來源。它幾乎能給你想要的一切，只要你渴望的是破壞。邪術士為了燃盡煩憂而出賣靈魂；有些人認為這是保護所愛之人的必要代價，並努力不再沉淪；也有人試圖對抗自己的過去，尋求贖罪。
 
-Gain +1 Daring Action.
-Quickplay Background
-Try as you might to hide your sinister nature, it’s always revealed by:
- the way your eyes glow.
-
- the smell of sulfur around you.
-
- a brand seared into your flesh.
-
-You first pursued the dark arts:
- to obtain revenge on those who had wronged you.
-
- after being tempted by mortal pleasures.
-
- when you were indoctrinated into a cult.
-
-You’ve sought out the other heroes to fight alongside:
- because it’s the only way to get your soul back.
-
- to continue your goal to see all monsters burn.
-
- to make up for all that you’ve done.
-
-Playbooks
-48
+## 加值
+
+- 浴血奮戰：`+2`
+- 理解戰況／通曉傳說：`+0`
+- 抵抗黑魔法：`+0`
+- 四處探查／追獵：`+2`
+- 訪談詢問／說服：`+1`
+- 大膽行動：`+1`
+- 巫術：`+3`
+- 地獄巫術：`+3`
+- 其餘動作分配：`+1、+1、+0`
+
+## 基礎能力
+
+### 地獄術者（Infernal Sorcerer）
+
+你知曉所有地獄系戰鬥法術；若要施放地獄儀式法術，你同樣不需先找到記錄文本。
+
+### 獻祭（Sacrifice）
+
+你可透過獻祭向強大惡魔換取魔力。獻祭越多，得到力量越大，但代價與要求也會逐步提高。獻祭屬於完整儀式，執行一次需耗費 1 次調查行動。
+
+獻祭擲骰加值依祭品價值：
+
+- 殺死活體動物：`+0`
+- 奪取並摧毀他人財物：`+1`
+- 奪取並摧毀他人飼養動物：`+2`
+- 摧毀他人珍貴且不可替代之物：`+3`
+- 殺死活人：`+4`
+
+結果：
+
+- `6 以下`：黑暗神祇不滿，你本次冒險無法再獻祭。
+- `7-9`：獲得掌握 1。
+- `10-12`：獲得掌握 2。
+- `13+`：獲得掌握 3。
+
+每 1 掌握可使你下一次巫術動作獲得 `+1 單次加值`，且同一擲骰可同時投入多點掌握。
+
+若同一冒險做多次獻祭，你會承受等同「本次冒險已從獻祭獲得掌握總數」的懲罰值。惡魔獻祭極度危險，不應輕率使用。
+
+## 進階能力
+
+- **元素號令（Command Elements）**：作為戰鬥行動，以地獄巫術擲骰。`6 以下` 無效；`7-9` 你受到的元素攻擊（火、冰、雷等）傷害 `-1`；`10-12` 你受元素傷害 `-2`，或你身旁同伴受元素傷害 `-1`；`13+` 改為你 `-3` 或同伴 `-2`。若你把某次攻擊降到 0，可改將該攻擊轉向新目標。
+- **惡魔拷問（Demonic Torture）**：當你對目標造成傷害後，你指定 1 名同伴，其對該目標下一次動作獲得 `+1 單次加值`。
+- **即席供品（Impromptu Offering）**：你有一把儀式刀（`3 傷害`，近距離，鐵）。若你用它成功擊殺，或受你加值幫助的同伴成功擊殺，你立刻獲得 1 點「獻祭掌握」，且此點不計入未來獻祭懲罰。
+- **變形（Metamorphosis）**：花 1 點獻祭掌握可短暫化為惡魔形態：本場景獲得爪擊（`4 傷害`，近距離，火焰）與硬皮（`1 護甲`，免疫非魔法火與寒）。再多花 1 點可讓浴血奮戰 `+1 持續加值`，且變形持續到下次日出或日落。
+- **獵食愧疚（Prey on Guilt）**：你訪談詢問 `7+` 時可免費問「此人最愧疚的是什麼？」；若你利用此點施壓，說服獲得 `+1 持續加值`。
+- **祭儀專家（Sacrificial Expert）**：獻祭動作獲得 `+1 持續加值`。你也可把獻祭掌握用於任意動作的 `+1 單次加值`（但每次僅能花 1 點；巫術仍可照常多點投入）。
+- **灰燼追索（Sift Through the Ashes）**：四處探查追加問題；且四處探查 `7+` 可免費問 1 題：這裡毀了什麼？為何毀壞？毀壞發生多久前？
+- **灰燼之魂（Soul of Cinders）**：你已出賣或燒盡靈魂換取力量。你對「抵抗效果」的抵抗黑魔法獲得 `+2 持續加值`（不包含驅離生物），且免疫任何抽魂／奪魂效果。
+- **術學天才（Sorcerous Savant）**：於星界或死靈擇一，該系巫術升至 `+2`；學會 2 個該系戰鬥法術；每次冒險 1 次可無卷軸施放該系儀式法術。
+- **浴血奮戰 +1**
+- **四處探查／追獵 +1**
+- **大膽行動 +1**
+
+## 快速背景
+
+你再怎麼隱藏邪性，仍會從以下特徵露餡：
+
+- 眼中異常光芒
+- 身上硫磺氣味
+- 烙印在肉體上的灼痕
+
+你最初走向黑暗術法是因為：
+
+- 想向傷害你的人復仇
+- 受世俗欲望誘惑
+- 曾被邪教洗腦
+
+你與其他英雄並肩作戰是為了：
+
+- 這是取回靈魂的唯一方法
+- 延續你「把所有怪物燒盡」的目標
+- 彌補你曾犯下的一切

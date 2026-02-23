@@ -5,124 +5,74 @@ sidebar:
   order: 9
 ---
 
-Scoundrel
-Some who fight against monsters weren’t always the most heroic, even if they wouldn’t think of themselves 
-that way – bandits, pirates, cutpurses, highwaymen, or the like. But there’s always something more 
-dangerous lurking in the dark. One fateful encounter with a real monster is enough to change anyone’s 
-priorities to focusing on making the night their own
-once again. 
-Bonus
-Moves
-+2
-Battle
-Knowledge / Lore
-Resist Dark Magic
-Poke Around / Hunt
-+2
-Interview / Convince
-+3
-Daring Action
-+0
-Sorcery
-Assign +1, +1, and +0 to the remaining Moves.
-Basic Abilities
-Ambush Master: You gain a +1 Ongoing to Hunt
-moves when you try to lay an ambush or trap.
-Element of Surprise: Whenever you attack a target
-unaware of your presence or unaware that you’re a threat, deal +2 Harm.
-Scoundrel’s Gear: You own a suit of light leather or mail armor that provides 1 armor when worn, and you 
-have a collection of light weapons, including throwing knives or axes (3 harm, throwable, iron), and either:
- a small crossbow or pistol (3 harm, ranged, concealed) with iron ammo
-
- daggers (3 harm, close, concealed, iron)
-
-Slippery Bastard: Whenever you use the Battle move and don’t choose to deal Harm, you suffer one less 
-Harm from all sources until your next action.
-Playbooks
-40
+# 惡棍（Scoundrel）
 
-Advanced Abilities
- 
-Connections: Whenever you want some help and are in an environment that might have some of your old
-gang or other ruffians you can press into service around, make a Convince move. On a 6 or below, you won’t 
-get the help you need, and word will get around. On a 7-9, you’ll get some basic supplies, no questions asked,
-or a guy or two to help you. On a 10-12, you can get some specialized (illegal) help, or a couple of armed 
-people who don’t mind getting their hands dirty. On a 13+, you can put together an entire gang, no problem.
- 
-Criminal Lore: When investigating, if you roll at least 7+ on any investigation move, you can ask one of the
-following questions for free, and spend holds from any investigation moves to ask more:
-➢ What is the most expensive thing here?
-➢ Were or are there any cheats, scams, or cons taking place?
-➢ Is anyone here using a cover identity?
-➢ How has this area been tampered with?
- 
-Expose Weakness: When you damage an opponent and have at least one Knowledge hold, you can ignore 
-1 point of that opponent’s armor (to a minimum of 0) without spending the hold. An ally can spend two 
-Knowledge holds to give you one Knowledge hold at any time.
- 
-Make Em Bleed: Whenever you use Battle to give your allies +1 Forward, you can also deliver a bleeding 
-wound. In addition to the normal effects, you deal 1 harm (ignores armor), gain +1 Ongoing to Hunt and 
-Poke Around moves involving them thanks to a blood trail, and will be able to identify them even if they try 
-to disguise themselves or shapeshift if the wound is visible.
- 
-Reputation: You have a criminal reputation of some kind. You gain +1 Ongoing on Convince moves when 
-you use that reputation, as well as an extra hold whenever you make an Interview move (even if you roll 6-), 
-but doing so will likely scare away who you’re talking to afterwards – and might draw the attention of local 
-authorities.
- 
-Risk Taker: When you roll a 10-12 on Daring Action, you can take a downside to also gain one of the 
-benefits you get from rolling 13+. You also can only ever take a maximum of 1 harm from the downsides of 
-your Daring Actions.
- 
-Scoundrel’s Luck: Whenever you would suffer Harm, you may take -1 Forward to your next move to 
-reduce that Harm by 1 by rolling out of the way, putting yourself into a bad position, or the like. If you use 
-this ability to negate Harm, you can’t use it again until you’ve lost the forward and regained your footing.
- 
-Sticky Fingers: Whenever you use the Poke Around move and get at least one hold, you can ask “What 
-items have been hidden here” or “What’s here that might be useful” for free, and pocket it without anyone 
-noticing. In addition, if there’s ever something you could have picked up and it turns out you need it later, 
-you’ve been hiding it the entire time.
- 
-Who’s Side Are You On?: You gain +2 to Resist Dark Magic moves to not give into influences that would 
-cause you to harm or betray your allies. However, you’re very good at pretending to have succumbed. 
-Whenever you try to pretend you’re betraying someone or that you’ve been incapacitated, magic or not, you
-gain a +1 Ongoing to any moves in order to make it look genuine, and get +1 Forward to a Battle move 
-against anyone who buys it, in addition to being able to ambush them.
- 
-Gain +1 Knowledge/Lore
- 
-Gain +1 Resist Dark Magic
- 
-Gain +1 Poke Around/Hunt
-Playbooks
-41
+並非所有對抗怪物的人都出身正派。盜匪、海盜、扒手、路匪等人，也可能在某次與「真正怪物」的致命遭遇後，重新調整人生重心，決定把黑夜奪回來。
 
-Quickplay Background
-Your rough and rugged look is complemented by:
- a big scar across your face. 
-
- a bandanna and an open shirt.
-
- your blades on open display.
-
-You abandoned the criminal life after:
- someone you failed to mug gave you a second chance. 
-
- a robbery went tragic
-
-ally wrong.
- monsters attacked the people you cared about.
-
-You met up with another hero when:
- you tried to steal from them.
-
- they called upon you having heard of your fearsome reputation.
-
- you were with them at the wrong place, wrong time.
-
- you sought them out to teach you the way of the straight and narrow.
-
- they saved you when you got in over your head.
-
-Playbooks
-42
+## 加值
+
+- 浴血奮戰：`+2`
+- 四處探查／追獵：`+2`
+- 訪談詢問／說服：`+3`
+- 大膽行動：`+0`
+- 巫術：其餘分配 `+1、+1、+0`
+
+## 基礎能力
+
+### 伏擊專家（Ambush Master）
+
+當你用追獵來設伏或布陷阱時，獲得 `+1 持續加值`。
+
+### 出其不意（Element of Surprise）
+
+當目標不知道你在場，或不知道你是威脅時，你對其攻擊額外 `+2 傷害`。
+
+### 惡棍裝備（Scoundrel’s Gear）
+
+你擁有 `1 護甲` 的輕皮甲或鎖甲，並配備輕武器組：
+
+- 投擲匕首或投擲斧（`3 傷害`，可投擲，鐵）
+- 再擇一：
+  - 小型十字弓或手槍（`3 傷害`，遠端，隱蔽）＋鐵製彈藥
+  - 匕首（`3 傷害`，近距離，隱蔽，鐵）
+
+### 滑不溜手（Slippery Bastard）
+
+當你用浴血奮戰且不選擇「造成傷害」時，直到你下次行動前，你從所有來源承受的傷害 `-1`。
+
+## 進階能力
+
+- **門路（Connections）**：在合理有你舊同夥或地頭蛇的場所尋求協助時，擲說服。`6 以下`：求助失敗，且消息走漏。`7-9`：可拿到基本補給或找 1-2 人幫忙。`10-12`：可取得專業（通常違法）支援，或找到幾名敢動手的武裝人員。`13+`：可迅速拉起整支幫派。
+- **犯罪見聞（Criminal Lore）**：調查時若任一調查動作 `7+`，可免費問 1 題並可再花掌握追加：這裡最值錢的是什麼？是否有詐術／騙局？有人使用假身分嗎？這區域被怎樣動過手腳？
+- **揭露弱點（Expose Weakness）**：當你傷到敵人且你至少有 1 點理解戰況掌握時，可無須消耗掌握就忽略對方 `1 護甲`（最低到 0）。任一同伴可花 2 點理解戰況掌握，隨時換你 1 點。
+- **讓他流血（Make Em Bleed）**：當你用浴血奮戰給同伴 `+1 單次加值` 時，還可讓目標中出血傷：額外造成 `1 傷害`（無視護甲），你對其做追獵／四處探查獲得 `+1 持續加值`（血跡可追），且若傷口可見，即便對方偽裝或變形你也能辨識。
+- **惡名（Reputation）**：你有犯罪圈名聲。當你利用該名聲做說服時獲得 `+1 持續加值`；你做訪談詢問時永遠多 1 點掌握（即使擲到 `6 以下`）。但這通常會嚇退對象，也可能引來地方權力注意。
+- **冒險賭徒（Risk Taker）**：當你在大膽行動擲出 `10-12`，可主動吃一個代價，換取一項 `13+` 才有的額外收益。且你從大膽行動代價中承受的傷害最多為 1。
+- **惡棍手氣（Scoundrel’s Luck）**：當你將承受傷害時，可令下一次動作承受 `-1 單次加值`，把本次傷害 `-1`（以翻滾閃避、落入不利位置等敘事呈現）。若你靠此把傷害降到 0，需先消耗該負向前值並重新站穩，才能再用此能力。
+- **順手牽羊（Sticky Fingers）**：你以四處探查取得掌握時，可免費問「這裡藏了什麼物品？」或「這裡有什麼東西可能有用？」並不被察覺地取走。另，若後續需要某個你理論上可順手拿走的物件，你可直接宣告其實你早就藏在身上。
+- **你到底站哪邊？（Who’s Side Are You On?）**：對會迫使你背叛或傷害同伴的影響，你的抵抗黑魔法 `+2`。同時你也很擅長「假裝已中招」：當你要裝成背叛或失能（不論是否涉及魔法），相關偽裝動作獲得 `+1 持續加值`；對信以為真的人做浴血奮戰還可額外 `+1 單次加值`，並可視作伏擊。
+- **理解戰況／通曉傳說 +1**
+- **抵抗黑魔法 +1**
+- **四處探查／追獵 +1**
+
+## 快速背景
+
+你的粗獷外型帶有以下標誌：
+
+- 橫跨臉部的大疤
+- 頭巾與敞開上衣
+- 明晃晃掛在外面的刀具
+
+你放棄犯罪人生是因為：
+
+- 你行搶失敗後，對方反而給你第二次機會
+- 一次劫案走向慘劇
+- 怪物襲擊了你在乎的人
+
+你與另一位英雄相遇於：
+
+- 你曾試圖偷他東西
+- 對方聽聞你惡名而主動找上你
+- 你們在錯誤時間出現在錯誤地點
+- 你主動去找對方學走正道
+- 你闖禍時被對方救下

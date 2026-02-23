@@ -5,118 +5,72 @@ sidebar:
   order: 7
 ---
 
-Necromancer
-The magic of life and death is a seductive path, promising to defeat man’s greatest foe – mortality. The quest
-for eternal life through undeath draws many to the dark magic of necromancy, while others research it to 
-prolong the life of others, or try to bring back loved ones. No matter the intention, necromancy slowly eats 
-away at your soul, leaving its practitioners as lifeless as
-the creatures they command. 
-Bonus
-Moves
-Battle
-+2
-Knowledge / Lore
-+2
-Resist Dark Magic
-Poke Around / Hunt
-Interview / Convince
-Daring Action
-+1
-Sorcery
-+3
-Necromantic Sorcery
-Assign +1, +1, +0, and +0 to the remaining Moves.
-Basic Abilities
-Command Undead: You may attempt to command
-unintelligent undead. As a combat action, make a move
-using your Necromantic Sorcerer bonus. On a 6 or below you attract the attention of the undead, who 
-instead come for you. On a 7-9, you can get unintelligent undead minions to momentarily halt, skipping 
-their next action. On a 10-12, you can get unintelligent undead warriors to halt, or unintelligent minions to 
-fight for you for their next action. On a 13+, monstrous warriors will fight for you for their next action, and 
-minions fall under your command for the rest of the scene. You can keep using this move on the same 
-undead, until you roll 6 or below, after which they become immune until you rest. You can only affect a close
-handful of undead each time you use it.
-To Know Death: Whenever a non-minion creature dies near you, you gain a Knowledge hold that can only 
-be spent against creatures of a similar type (abomination, beast, demon, fey, undead, or human).
-Necromantic Sorcerer: You know all necromantic combat sorcery, and if you want to cast a necromantic 
-ritual sorcery, you know it and don’t need to find it written down.
-Playbooks
-34
+# 死靈法師（Necromancer）
 
-Advanced Abilities
- 
-Bind Soul: When a creature dies near you, you can choose to trap its soul into a talisman of your own 
-making. When you have that talisman with you, you can interrogate the soul and use the Interview or Lore 
-moves to learn anything the soul would know. If you spend an entire night in a ritual, the soul becomes 
-permanently trapped. Otherwise, it is released the next time you bind a soul.
- 
-Blood Sacrifice: Using your own blood as a ritual component, you can empower your spells. If everyone 
-participating in a ritual with you suffers 1 Harm (ignoresarmor), you can ignore one of the ritual’s 
-requirements of your choice. When you cast a sorcery that deals damage, you can choose to suffer 1 Harm to
-deal an additional 2 Harm.
- 
-Curse Master: Whenever you use a Ritual Sorcery to place a curse, hex, or the like on another creature, 
-you can ignore one of the ritual requirements. Whenever you use a combat sorcery to give a creature any 
-kind of non-harm penalty, that penalty lasts for twice as long.
- 
-Dark Life: You have completed your transformation into one of the undead. You gain a +2 bonus to Resist 
-Dark Magic moves, but can no longer ward against any creatures. Unintelligent undead will not attack you 
-except in self-defense, or unless explicitly commanded to by their controller. You count as undead, and no 
-longer need to eat, drink, sleep, or breathe, but still heal normally.
- 
-Death Sight: You can see the ebb and flow of life and death.. Add the following questions to you Lore list. 
-When you roll at least a 7+ on a Lore move, you may ask one of them for free:
-➢ Who or what’s blood (or body part) is this, and are they still alive?
-➢ When and how did this person die?
-➢ What was the last thing this person experienced before they died?
-➢ Is this person or creature undead?
- 
-Dread Medic: Whenever you heal your own harm through Necromantic sorcery, you may instead heal a 
-nearby ally. If you do not change the target you’re healing through sorcery (be it yourself or another), heal 
-an additional harm.
- 
-Essence Focus: If you have a body part (including hair, blood, or the like) belonging to a creature, you can 
-use it to channel your magic. You can target that creature with your spells, even if you can’t see them, as long 
-as they’re nearby. In addition, you gain +1 Ongoing to Hunt moves against creatures you have a body part to.
- 
-Reaper: You gain +2 Ongoing to the Battle move, but if you use the bonus you must choose to deal harm. 
-You also get a heavy weapon – a battle axe, claymore, or scythe (4 harm, close, iron, soulbound).
- 
-Sorcerous Savant: Choose Astral or Infernal sorcery. Your sorcery bonus with that type of magic increases 
-to +2. You know two combat spells from that school of magic, and once per adventure you can produce a 
-ritual sorcery spell without the help of any scroll or outside source.
- 
-Gain +1 to Poke Around / Hunt.
- 
-Gain +1 to Interview / Convince.
- 
-Gain +1 to Daring Action.
-Playbooks
-35
+生死魔法是一條極具誘惑的道路，因為它承諾能擊敗人類最大敵人：死亡。有人為延壽而研究，有人為復活摯愛而踏入黑暗，也有人只為永生而墮入死靈術。無論初衷如何，死靈術都會慢慢侵蝕施術者的靈魂，讓他們逐漸與自己操控的不死者同樣冷寂。
 
-Quickplay Background
-Death follows you, and is obvious by your:
- dark, dramatic clothing.
-
- pale, lifeless skin.
-
- total lack of body heat.
-
-You first delved into the dark arts:
- because you were allured by its forbidden nature.
-
- to try to resurrect someone important to you.
-
- to better understand and fight undead horrors.
-
- to seek eternal life.
-
-The other heroes work with you:
- after you used your magic to save the life of an innocent.
-
- because you pursue the same research, and just took it further.
-
- after needing your help to put an unruly spirit to rest.
-
-Playbooks
-36
+## 加值
+
+- 浴血奮戰：`+2`
+- 理解戰況／通曉傳說：`+2`
+- 大膽行動：`+1`
+- 巫術：`+3`
+- 死靈巫術：`+3`
+- 其餘動作分配：`+1、+1、+0、+0`
+
+## 基礎能力
+
+### 操控不死（Command Undead）
+
+你可嘗試命令無智不死者。作為戰鬥行動，以死靈巫術加值擲骰：
+
+- `6 以下`：你反而吸引其仇恨，成為目標
+- `7-9`：可令無智僕役停頓，跳過下一次行動
+- `10-12`：可令無智衛士停頓，或令無智僕役替你作戰 1 次行動
+- `13+`：可令怪物級衛士替你作戰 1 次行動，僕役則在本場景內聽你指揮
+
+你可對同批不死者反覆使用此能力，直到你擲出 `6 以下`；之後它們在你休整前對此能力免疫。每次只能影響近距離內小群目標。
+
+### 知曉死亡（To Know Death）
+
+每當非僕役級生物在你附近死亡，你獲得 1 點「理解戰況掌握」，且僅能用在同類型目標（畸變體、野獸、惡魔、妖精、不死族、人類）。
+
+### 死靈術者（Necromantic Sorcerer）
+
+你知曉所有死靈系戰鬥法術。若要施放死靈儀式法術，你也不需先找到書面記錄。
+
+## 進階能力
+
+- **縛魂（Bind Soul）**：你可在生物死亡時把其靈魂封入自製護符。攜帶護符時，可對該靈魂進行「訪談詢問／通曉傳說」取得其所知。若你整夜完成儀式，可永久封存；否則在你下次縛魂時釋放前一個。
+- **血祭（Blood Sacrifice）**：儀式中若所有參與者各承受 `1 傷害`（無視護甲），可無視 1 項儀式需求。你施放造成傷害的巫術時，可自傷 `1` 使該次額外 `+2 傷害`。
+- **詛咒宗師（Curse Master）**：你以儀式施加詛咒時，可忽略 1 項需求。你以戰鬥巫術施加非傷害型懲罰時，持續時間加倍。
+- **黑暗生命（Dark Life）**：你完成向不死者轉化。抵抗黑魔法 `+2`，但無法再驅離生物。無智不死者不會主動攻擊你（除自衛或受命）。你視為不死族，不再需要吃喝睡呼吸，但仍正常恢復。
+- **死亡視界（Death Sight）**：你看見生死流動。通曉傳說新增問題；且通曉傳說 `7+` 時可免費問 1 題：這是誰的血／肢體、是否仍活著？何時如何死亡？死前最後經歷？此目標是否為不死者？
+- **恐懼醫者（Dread Medic）**：當你以死靈巫術回復自己傷害時，可改回復附近同伴。若你連續以巫術治療同一目標（自己或他人），額外再回復 1。
+- **本質媒介（Essence Focus）**：若你持有某生物身體樣本（血、髮、組織等），可作為施法媒介，即使看不見對方也能在近距離內鎖定施法。對持有樣本目標做追獵時 `+1 持續加值`。
+- **收割者（Reaper）**：浴血奮戰獲得 `+2 持續加值`，但使用該加值時你必須選擇造成傷害。另獲得重武器：戰斧／雙手大劍／鐮刀（`4 傷害`，近距離，鐵，靈魂繫結）。
+- **術學天才（Sorcerous Savant）**：於星界或地獄擇一，該系巫術升至 `+2`。學會該系 2 個戰鬥法術，且每次冒險 1 次可在無卷軸與外援下施放儀式法術。
+- **四處探查／追獵 +1**
+- **訪談詢問／說服 +1**
+- **大膽行動 +1**
+
+## 快速背景
+
+死亡氣息在你身上的表徵：
+
+- 深色戲劇化服裝
+- 蒼白無生氣皮膚
+- 幾乎沒有體溫
+
+你踏入黑暗術法是因為：
+
+- 被禁忌本質吸引
+- 想復活重要之人
+- 想更理解並對抗不死恐怖
+- 尋求永生
+
+其他英雄與你合作是因為：
+
+- 你曾用魔法救下無辜者
+- 你們研究同一主題，只是你走得更深
+- 他們曾需要你協助安撫失控亡魂
