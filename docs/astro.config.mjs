@@ -22,6 +22,7 @@ const SITE_CONFIG = {
 // ============================================
 
 export default defineConfig({
+	base: '/books/beneath-cursed-moon',
 	markdown: {
 		smartypants: false,
 	},

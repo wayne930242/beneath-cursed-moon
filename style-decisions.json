@@ -36,9 +36,9 @@
     "overlay_opacity": 0.7
   },
   "images": {
-    "hero": "page001_img00.jpeg",
+    "hero": "docs/src/assets/hero.jpg",
     "background": null,
-    "og": "page001_img23.jpeg"
+    "og": "docs/public/og-image.jpg"
   },
   "colors": {
     "primary_h": 280,
@@ -49,5 +49,22 @@
   "proper_nouns": {
     "mode": "official_only",
     "reason": "使用者偏好官方或通行譯名。"
+  },
+  "site": {
+    "title": "詛咒月影",
+    "original_title": "Beneath Cursed Moon",
+    "description": "詛咒之月之下 規則書繁體中文檔案站"
+  },
+  "credits": {
+    "entries": [
+      {
+        "role": "翻譯",
+        "name": "洪偉"
+      }
+    ]
+  },
+  "deployment": {
+    "target": "blog",
+    "base_path": "/books/beneath-cursed-moon"
   }
 }
